@@ -1,0 +1,995 @@
+1,,Drill box,[],1,2016-02-11 14:57:03,,DB-1,,,3,,
+14,,Metal chisel 1006901-1CM,,1,2016-01-20 11:49:04,,MC-1,,,4,,
+15,,Metal chisel 1294670-1CM,,1,2016-01-20 11:49:04,,MC-2,,,4,,
+16,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-1,,,5,,
+17,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-2,,,5,,
+18,,Magnet Rod,,1,2016-01-20 11:49:05,,MR-00,,,6,,
+19,,Metal Chisel nø3734N,,1,2016-01-20 11:49:05,,MC-3734,,,4,,
+20,,Wire Brush,,1,2016-01-20 11:49:05,,WB-1,,,7,,
+21,,Wire Brush,,1,2016-01-20 11:49:05,,WB-2,,,7,,
+22,,Cutter SQZ15003,,1,2016-01-20 11:49:05,,CT-00,,,9,,
+23,,Hacksaw nø317,[],1,2016-01-20 16:57:01,,HS-317,,,10,picture.jpg,thumbnail.jpg
+24,,Wire Cutter 2744,,1,2016-01-20 11:49:05,,WC-2744,,,9,,
+25,,Inspection lamp LED,[],1,2016-01-20 16:55:29,,LED-00,,,12,picture.jpg,thumbnail.jpg
+26,,Adjustable Wrench 10,[],1,2016-03-22 11:32:56,,AW-101,,,14,,
+27,,Adjustable Wrench 10,,1,2016-01-20 11:49:06,,AW-102,,,14,,
+28,,Adjustable Wrench 12,,1,2016-01-20 11:49:06,,AW-12,,,14,,
+29,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-61,,,14,,
+30,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-62,,,14,,
+31,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-63,,,14,,
+32,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-64,,,14,,
+33,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-65,,,14,,
+34,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-66,,,14,,
+35,,Box End Wrench 2/8 7/16,,1,2016-01-20 11:49:07,,BED-28716,,,14,,
+36,,Combination Wrench 1 #3,[],1,2016-01-20 17:13:11,,CW-103,,,14,picture.jpg,thumbnail.jpg
+37,,Combination Wrench 1/2,,1,2016-01-20 11:49:07,,CW-12,,,14,,
+38,,Combination Wrench 10,[],1,2016-01-20 17:27:41,,CW-10,,,14,picture.jpg,thumbnail.jpg
+39,,Combination Wrench 11,[],1,2016-01-20 17:27:13,,CW-11,,,14,picture.jpg,thumbnail.jpg
+40,,Combination Wrench 12,[],1,2016-01-20 17:26:24,,CW-121,,,14,picture.jpg,thumbnail.jpg
+41,,Combination Wrench 12,[],1,2016-01-20 17:26:42,,CW-122,,,14,picture.jpg,thumbnail.jpg
+42,,Combination Wrench 13,[],1,2016-01-20 17:24:40,,CW-131,,,14,picture.jpg,thumbnail.jpg
+43,,Combination Wrench 13,[],1,2016-01-20 17:25:34,,CW-132,,,14,picture.jpg,thumbnail.jpg
+44,,Combination Wrench 13,[],1,2016-01-20 17:25:56,,CW-133,,,14,picture.jpg,thumbnail.jpg
+45,,Combination Wrench 13/16,,1,2016-01-20 11:49:09,,CW-1316,,,14,,
+46,,Combination Wrench 14,[],1,2016-01-20 17:23:15,,CW-141,,,14,picture.jpg,thumbnail.jpg
+47,,Combination Wrench 14,[],1,2016-01-20 17:23:50,,CW-142,,,14,picture.jpg,thumbnail.jpg
+48,,Combination Wrench 15,[],1,2016-01-20 17:22:26,,CW-151,,,14,picture.jpg,thumbnail.jpg
+49,,Combination Wrench 15,[],1,2016-01-20 17:22:53,,CW-152,,,14,picture.jpg,thumbnail.jpg
+50,,Combination Wrench 16,[],1,2016-01-20 17:21:26,,CW-16,,,14,picture.jpg,thumbnail.jpg
+51,,Combination Wrench 17,[],1,2016-01-20 17:20:07,,CW-171,,,14,picture.jpg,thumbnail.jpg
+52,,Combination Wrench 17,[],1,2016-01-20 17:20:36,,CW-172,,,14,picture.jpg,thumbnail.jpg
+53,,Combination Wrench 17,[],1,2016-01-20 17:20:54,,CW-173,,,14,picture.jpg,thumbnail.jpg
+54,,Combination Wrench 18,[],1,2016-01-20 17:19:26,,CW-181,,,14,picture.jpg,thumbnail.jpg
+55,,Combination Wrench 18,[],1,2016-01-20 17:19:49,,CW-182,,,14,picture.jpg,thumbnail.jpg
+56,,Combination Wrench 19,[],1,2016-01-20 17:17:18,,CW-191,,,14,picture.jpg,thumbnail.jpg
+57,,Combination Wrench 19,[],1,2016-01-20 17:17:51,,CW-192,,,14,picture.jpg,thumbnail.jpg
+58,,Combination Wrench 19,[],1,2016-01-20 17:18:11,,CW-193,,,14,picture.jpg,thumbnail.jpg
+59,,Combination Wrench 19,[],1,2016-01-20 17:18:34,,CW-194,,,14,picture.jpg,thumbnail.jpg
+60,,Combination Wrench 19,[],1,2016-01-20 17:18:59,,CW-195,,,14,picture.jpg,thumbnail.jpg
+61,,Combination Wrench 21,[],1,2016-01-20 17:16:08,,CW-211,,,14,picture.jpg,thumbnail.jpg
+62,,Combination Wrench 21,[],1,2016-01-20 17:16:24,,CW-212,,,14,picture.jpg,thumbnail.jpg
+63,,Combination Wrench 22,[],1,2016-01-20 17:15:46,,CW-22,,,14,picture.jpg,thumbnail.jpg
+64,,Combination Wrench 24,[],1,2016-01-20 17:08:34,,CW-25,,,14,picture.jpg,thumbnail.jpg
+65,,Combination Wrench 24,[],1,2016-01-20 17:08:51,,CW-241,,,14,picture.jpg,thumbnail.jpg
+66,,Combination Wrench 24,[],1,2016-01-20 17:09:05,,CW-242,,,14,picture.jpg,thumbnail.jpg
+67,,Combination Wrench 1 #1,[],1,2016-01-20 17:13:30,,CW-101,,,14,picture.jpg,thumbnail.jpg
+68,,Combination Wrench 1 #2,[],1,2016-01-20 17:12:16,,CW-102,,,14,picture.jpg,thumbnail.jpg
+69,,Combination Wrench 5/8,,1,2016-01-20 11:49:12,,CW-58,,,14,,
+70,,Combination Wrench 8,[],1,2016-01-20 17:08:09,,CW-8,,,14,picture.jpg,thumbnail.jpg
+71,,Combination Wrench 9/16,,1,2016-01-20 11:49:13,,CW-916,,,14,,
+72,,Flat file,,1,2016-01-20 11:49:13,,FF-01,,,15,,
+73,,Flat file,,1,2016-01-20 11:49:13,,FF-02,,,15,,
+74,,Round file,,1,2016-01-20 11:49:13,,RF-00,,,15,,
+75,,Flare Nut Wrench 13/14,[],1,2016-01-20 17:07:46,,FNW-1214,,,14,picture.jpg,thumbnail.jpg
+76,,Flare Nut Wrench 14 & 15,[],1,2016-01-20 17:07:29,,FRN-1415,,,14,picture.jpg,thumbnail.jpg
+77,,Flare Nut Wrench 8/9,[],1,2016-01-20 17:06:46,,FRN-89,,,14,picture.jpg,thumbnail.jpg
+78,,Hammer,,1,2016-01-20 11:49:14,,HM-1,,,16,,
+79,,Hammer,,1,2016-01-20 11:49:14,,HM-2,,,16,,
+80,,Mallet hammer,[],1,2016-04-07 15:05:52,,MH-1,,,16,,
+81,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-2,,,16,,
+82,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-3,,,16,,
+83,,Cutting pliers,,1,2016-01-20 11:49:14,,CP-1,,,17,,
+84,,Cutting pliers,,1,2016-01-20 11:49:15,,CP-2,,,17,,
+85,,Linemans pliers,,1,2016-01-20 11:49:15,,LP-1,,,17,,
+86,,Locking pliers,,1,2016-01-20 11:49:15,,LP-0,,,17,,
+87,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-1,,,17,,
+88,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-2,,,17,,
+89,,Needle pliers,,1,2016-01-20 11:49:15,,NN-0,,,17,,
+90,,Seeger pliers,,1,2016-01-20 11:49:15,,SP-1,,,17,,
+91,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-2,,,17,,
+92,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-3,,,17,,
+93,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-4,,,17,,
+94,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-1,,,17,,
+95,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-2,,,17,,
+96,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-3,,,17,,
+97,,Tongue and groove pliers,,1,2016-01-20 11:49:17,,TGP-4,,,17,,
+98,,Ratcheting Wrench 10 & 11,[],1,2016-04-07 15:06:28,,RW-1011,,,14,picture.jpg,thumbnail.jpg
+99,,Ratcheting Wrench 16 & 18,[],1,2016-01-20 17:06:16,,RW-1618,,,14,picture.jpg,thumbnail.jpg
+100,,Ratcheting Wrench 3/8 & 7/16,[],1,2016-01-20 17:28:37,,RW-387161,,,14,picture.jpg,thumbnail.jpg
+101,,Ratcheting Wrench 3/8 & 7/16,,1,2016-01-20 11:49:17,,RW-387162,,,14,,
+102,,Ratcheting Wrench 8 & 9,[],1,2016-01-20 17:05:51,,WE-89,,,14,picture.jpg,thumbnail.jpg
+103,,Cruciform screwdriver,,1,2016-01-20 11:49:17,,CSD-1,,,18,,
+104,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-2,,,18,,
+105,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-3,,,18,,
+106,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-4,,,18,,
+107,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-5,,,18,,
+108,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-6,,,18,,
+109,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-7,,,18,,
+110,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-8,,,18,,
+111,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-9,,,18,,
+112,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-10,,,18,,
+113,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-11,,,18,,
+114,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-12,,,18,,
+115,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-1,,,18,,
+116,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-2,,,18,,
+117,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-3,,,18,,
+118,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-4,,,18,,
+119,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-5,,,18,,
+120,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-6,,,18,,
+121,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-7,,,18,,
+122,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-8,,,18,,
+123,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-9,,,18,,
+124,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-10,,,18,,
+125,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-11,,,18,,
+126,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-12,,,18,,
+127,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-13,,,18,,
+128,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-14,,,18,,
+129,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-15,,,18,,
+130,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-16,,,18,,
+131,,Multi-bit screwdriver,,1,2016-01-20 11:49:22,,MBSD-0,,,18,,
+132,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-1,,,18,,
+133,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-2,,,18,,
+134,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-3,,,18,,
+135,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-4,,,18,,
+136,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-5,,,18,,
+137,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-6,,,18,,
+138,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-7,,,18,,
+139,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-8,,,18,,
+140,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-9,,,18,,
+141,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-10,,,18,,
+142,,Socket wrench,,1,2016-01-20 11:49:23,,SW-381,,,19,,
+143,,Socket wrench,,1,2016-01-20 11:49:23,,SW-382,,,19,,
+144,,Socket wrench,,1,2016-01-20 11:49:23,,SW-383,,,19,,
+145,,Socket wrench,,1,2016-01-20 11:49:24,,SW-384,,,19,,
+146,,Socket wrench,,1,2016-01-20 11:49:24,,SW-385,,,19,,
+147,,Socket wrench,,1,2016-01-20 11:49:24,,SW-7750,,,19,,
+148,,Socket wrench,,1,2016-01-20 11:49:24,,SW-153,,,19,,
+149,,Socket wrench,,1,2016-01-20 11:49:24,,SW-151,,,19,,
+150,,Socket wrench,,1,2016-01-20 11:49:24,,SW-00,,,19,,
+151,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80501,,,19,,
+152,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80502,,,19,,
+153,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:09,,IM-1,,,21,picture.jpg,thumbnail.jpg
+154,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:26,,IM-2,,,21,picture.jpg,thumbnail.jpg
+155,,89 IV True-RMS Multimeter,[],1,2016-02-11 13:37:23,,MR-01,,,23,picture.jpg,thumbnail.jpg
+156,,Measuring tape,,1,2016-01-20 11:49:25,,MT-1,,,24,,
+157,,Measuring tape,,1,2016-01-20 11:49:25,,MT-2,,,24,,
+158,,Measureing doser,,1,2016-03-11 16:29:59,,MD-1,,,24,,
+159,,Measureing doser,,1,2016-03-11 16:29:59,,MD-2,,,24,,
+160,,Measureing doser,,1,2016-03-11 16:29:59,,MD-3,,,24,,
+161,,Thermometer 9ZTR410YT,[],1,2016-01-20 16:58:49,,TM-9,,,26,picture.jpg,thumbnail.jpg
+162,,Air Die Grinder DR300-T2000,,1,2016-01-20 11:49:26,,ADG-T200,,,28,,
+163,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:26,,ADG-T5501,,,28,,
+164,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:27,,ADG-T5502,,,28,,
+165,,Air Die GrinderLBV24S019-91,,1,2016-01-20 11:49:27,,ADG-91,,,28,,
+166,,Air Hammer nø133L46,,1,2016-01-20 11:49:27,,AH-133L46,,,29,,
+167,,Air Hammer nø81477,,1,2016-01-20 11:49:27,,AH-81477,,,29,,
+168,,Air Ratchet Wrench nø0184,,1,2016-01-20 11:49:27,,ARW-01184,,,30,,
+169,,Air Riveter nø1031,,1,2016-01-20 11:49:34,,AR-1031,,,31,,
+170,,Air Screwdriver nø0058,,1,2016-01-20 11:49:34,,AS-0058,,,32,,
+171,,Air Screwdriver nø0062,[],1,2016-04-05 13:37:20,,AS-0062,,,32,,
+172,,Air Screwdriver nø0063,,1,2016-01-20 11:49:34,,AS-0063,,,32,,
+173,,Air Screwdriver nø0066,,1,2016-01-20 11:49:34,,AS-0066,,,32,,
+174,,Duty Air Wrench nø0299,,1,2016-01-20 11:49:35,,DAW-0299,,,33,,
+175,,Duty Air Wrench nø1248122,,1,2016-01-20 11:49:35,,DAW-1248122,,,33,,
+176,,Duty Pistol Air Drill nø11220311,,1,2016-01-20 11:49:35,,DPA-11220311,,,30,,
+177,,Duty Pistol Air Drill nø11220321,,1,2016-01-20 11:49:35,,DPA-11220321,,,30,,
+178,,Duty Pistol Air Drill nø11220329,,1,2016-01-20 11:49:35,,DPA-11220329,,,30,,
+179,,Duty Pistol Air Drill nø11220336,,1,2016-01-20 11:49:35,,DPA-11220336,,,30,,
+180,,Duty Pistol Air Drill nø11230296,,1,2016-01-20 11:49:36,,DPA-11230296,,,30,,
+181,,Duty Pistol Air Drill nø11230303,,1,2016-01-20 11:49:36,,DPA-11230303,,,30,,
+182,,Light Duty Pistol Air Drill DR350-P3000,,1,2016-01-20 11:49:36,,LDP-3000,,,30,,
+183,,Light Duty Pistol Air Drill DR350-P5500,,1,2016-01-20 11:49:36,,LDP-5500,,,30,,
+184,,Light Duty Pistol Air Drill DR500-P2700,,1,2016-01-20 11:49:36,,LDP-2700,,,30,,
+185,,Pneumatic Clamp nø52,,1,2016-01-20 11:49:36,,PC-52,,,34,,
+186,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-1,,,47,,
+187,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-2,,,47,,
+188,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-0642,,,36,,
+189,,Torque Wrench,[],1,2016-01-21 14:50:01,,TW-0680,,,36,,
+190,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-7380,,,36,,
+191,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-5630,,,36,,
+192,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-8437,,,36,,
+193,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-1562,,,36,,
+194,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-0238,,,47,,
+195,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-5057,,,47,,
+196,,Drill Box,[],1,2016-01-21 09:07:18,,DB-14,,,3,,
+197,,Cutting Pliers,[],1,2016-01-21 13:11:11,,CP-3,,,17,,
+198,,Socket Wrench,[],1,2016-04-07 15:07:07,,SW-386,,,19,,
+199,,Socket wrench,[],1,2016-01-21 13:41:30,,SW-387,,,19,,
+200,,Torque Wrench,[],1,2016-03-11 16:30:37,,TW-5069,,,47,,
+210,,Test Wrench 10,[],1,2016-03-11 17:08:17,,TW-010,,,39,,
+402,,ToolBox,[],1,2016-02-22 18:11:59,,TB-001,,,42,,
+404,,N-M4,[],1,2016-03-23 09:09:37,,Nut m4,Batch of 5,,45,,
+407,,CHC_20D_long,[],1,2016-03-16 09:55:19,,CHC_20_long,Pce,,48,,
+408,,CHC_10 Large,[],1,2016-03-11 17:36:31,,CHC_10 Large,pce,,48,,
+409,,Torque Wrench,[],1,2016-03-03 17:35:08,,TW-270,,,36,,
+410,,Torque Wrench,[],1,2016-03-03 17:55:50,,TW-697,,,36,,
+411,,Torque Wrench,[],1,2016-03-03 17:56:01,,TW-694,,,36,,
+412,,Torque Wrench,[],1,2016-03-03 17:56:11,,TW-271,,,36,,
+415,,IP,[],1,2016-03-23 09:13:43,,Inox part,pce,,44,,
+416,erfezzzzzzzzzzzzzzzzzzr,TEST_REF_SL_Des,[],1,2016-03-22 11:52:12,fgerferfezfez,TEST_REF_SL_Code,feeeeeee,fffffffffff,49,picture.png,thumbnail.png
+1,,Drill box,[],1,2016-02-11 14:57:03,,DB-1,,,3,,
+14,,Metal chisel 1006901-1CM,,1,2016-01-20 11:49:04,,MC-1,,,4,,
+15,,Metal chisel 1294670-1CM,,1,2016-01-20 11:49:04,,MC-2,,,4,,
+16,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-1,,,5,,
+17,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-2,,,5,,
+18,,Magnet Rod,,1,2016-01-20 11:49:05,,MR-00,,,6,,
+19,,Metal Chisel nø3734N,,1,2016-01-20 11:49:05,,MC-3734,,,4,,
+20,,Wire Brush,,1,2016-01-20 11:49:05,,WB-1,,,7,,
+21,,Wire Brush,,1,2016-01-20 11:49:05,,WB-2,,,7,,
+22,,Cutter SQZ15003,,1,2016-01-20 11:49:05,,CT-00,,,9,,
+23,,Hacksaw nø317,[],1,2016-01-20 16:57:01,,HS-317,,,10,picture.jpg,thumbnail.jpg
+24,,Wire Cutter 2744,,1,2016-01-20 11:49:05,,WC-2744,,,9,,
+25,,Inspection lamp LED,[],1,2016-01-20 16:55:29,,LED-00,,,12,picture.jpg,thumbnail.jpg
+26,,Adjustable Wrench 10,[],1,2016-03-22 11:32:56,,AW-101,,,14,,
+27,,Adjustable Wrench 10,,1,2016-01-20 11:49:06,,AW-102,,,14,,
+28,,Adjustable Wrench 12,,1,2016-01-20 11:49:06,,AW-12,,,14,,
+29,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-61,,,14,,
+30,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-62,,,14,,
+31,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-63,,,14,,
+32,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-64,,,14,,
+33,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-65,,,14,,
+34,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-66,,,14,,
+35,,Box End Wrench 2/8 7/16,,1,2016-01-20 11:49:07,,BED-28716,,,14,,
+36,,Combination Wrench 1 #3,[],1,2016-01-20 17:13:11,,CW-103,,,14,picture.jpg,thumbnail.jpg
+37,,Combination Wrench 1/2,,1,2016-01-20 11:49:07,,CW-12,,,14,,
+38,,Combination Wrench 10,[],1,2016-01-20 17:27:41,,CW-10,,,14,picture.jpg,thumbnail.jpg
+39,,Combination Wrench 11,[],1,2016-01-20 17:27:13,,CW-11,,,14,picture.jpg,thumbnail.jpg
+40,,Combination Wrench 12,[],1,2016-01-20 17:26:24,,CW-121,,,14,picture.jpg,thumbnail.jpg
+41,,Combination Wrench 12,[],1,2016-01-20 17:26:42,,CW-122,,,14,picture.jpg,thumbnail.jpg
+42,,Combination Wrench 13,[],1,2016-01-20 17:24:40,,CW-131,,,14,picture.jpg,thumbnail.jpg
+43,,Combination Wrench 13,[],1,2016-01-20 17:25:34,,CW-132,,,14,picture.jpg,thumbnail.jpg
+44,,Combination Wrench 13,[],1,2016-01-20 17:25:56,,CW-133,,,14,picture.jpg,thumbnail.jpg
+45,,Combination Wrench 13/16,,1,2016-01-20 11:49:09,,CW-1316,,,14,,
+46,,Combination Wrench 14,[],1,2016-01-20 17:23:15,,CW-141,,,14,picture.jpg,thumbnail.jpg
+47,,Combination Wrench 14,[],1,2016-01-20 17:23:50,,CW-142,,,14,picture.jpg,thumbnail.jpg
+48,,Combination Wrench 15,[],1,2016-01-20 17:22:26,,CW-151,,,14,picture.jpg,thumbnail.jpg
+49,,Combination Wrench 15,[],1,2016-01-20 17:22:53,,CW-152,,,14,picture.jpg,thumbnail.jpg
+50,,Combination Wrench 16,[],1,2016-01-20 17:21:26,,CW-16,,,14,picture.jpg,thumbnail.jpg
+51,,Combination Wrench 17,[],1,2016-01-20 17:20:07,,CW-171,,,14,picture.jpg,thumbnail.jpg
+52,,Combination Wrench 17,[],1,2016-01-20 17:20:36,,CW-172,,,14,picture.jpg,thumbnail.jpg
+53,,Combination Wrench 17,[],1,2016-01-20 17:20:54,,CW-173,,,14,picture.jpg,thumbnail.jpg
+54,,Combination Wrench 18,[],1,2016-01-20 17:19:26,,CW-181,,,14,picture.jpg,thumbnail.jpg
+55,,Combination Wrench 18,[],1,2016-01-20 17:19:49,,CW-182,,,14,picture.jpg,thumbnail.jpg
+56,,Combination Wrench 19,[],1,2016-01-20 17:17:18,,CW-191,,,14,picture.jpg,thumbnail.jpg
+57,,Combination Wrench 19,[],1,2016-01-20 17:17:51,,CW-192,,,14,picture.jpg,thumbnail.jpg
+58,,Combination Wrench 19,[],1,2016-01-20 17:18:11,,CW-193,,,14,picture.jpg,thumbnail.jpg
+59,,Combination Wrench 19,[],1,2016-01-20 17:18:34,,CW-194,,,14,picture.jpg,thumbnail.jpg
+60,,Combination Wrench 19,[],1,2016-01-20 17:18:59,,CW-195,,,14,picture.jpg,thumbnail.jpg
+61,,Combination Wrench 21,[],1,2016-01-20 17:16:08,,CW-211,,,14,picture.jpg,thumbnail.jpg
+62,,Combination Wrench 21,[],1,2016-01-20 17:16:24,,CW-212,,,14,picture.jpg,thumbnail.jpg
+63,,Combination Wrench 22,[],1,2016-01-20 17:15:46,,CW-22,,,14,picture.jpg,thumbnail.jpg
+64,,Combination Wrench 24,[],1,2016-01-20 17:08:34,,CW-25,,,14,picture.jpg,thumbnail.jpg
+65,,Combination Wrench 24,[],1,2016-01-20 17:08:51,,CW-241,,,14,picture.jpg,thumbnail.jpg
+66,,Combination Wrench 24,[],1,2016-01-20 17:09:05,,CW-242,,,14,picture.jpg,thumbnail.jpg
+67,,Combination Wrench 1 #1,[],1,2016-01-20 17:13:30,,CW-101,,,14,picture.jpg,thumbnail.jpg
+68,,Combination Wrench 1 #2,[],1,2016-01-20 17:12:16,,CW-102,,,14,picture.jpg,thumbnail.jpg
+69,,Combination Wrench 5/8,,1,2016-01-20 11:49:12,,CW-58,,,14,,
+70,,Combination Wrench 8,[],1,2016-01-20 17:08:09,,CW-8,,,14,picture.jpg,thumbnail.jpg
+71,,Combination Wrench 9/16,,1,2016-01-20 11:49:13,,CW-916,,,14,,
+72,,Flat file,,1,2016-01-20 11:49:13,,FF-01,,,15,,
+73,,Flat file,,1,2016-01-20 11:49:13,,FF-02,,,15,,
+74,,Round file,,1,2016-01-20 11:49:13,,RF-00,,,15,,
+75,,Flare Nut Wrench 13/14,[],1,2016-01-20 17:07:46,,FNW-1214,,,14,picture.jpg,thumbnail.jpg
+76,,Flare Nut Wrench 14 & 15,[],1,2016-01-20 17:07:29,,FRN-1415,,,14,picture.jpg,thumbnail.jpg
+77,,Flare Nut Wrench 8/9,[],1,2016-01-20 17:06:46,,FRN-89,,,14,picture.jpg,thumbnail.jpg
+78,,Hammer,,1,2016-01-20 11:49:14,,HM-1,,,16,,
+79,,Hammer,,1,2016-01-20 11:49:14,,HM-2,,,16,,
+80,,Mallet hammer,[],1,2016-04-07 15:05:52,,MH-1,,,16,,
+81,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-2,,,16,,
+82,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-3,,,16,,
+83,,Cutting pliers,,1,2016-01-20 11:49:14,,CP-1,,,17,,
+84,,Cutting pliers,,1,2016-01-20 11:49:15,,CP-2,,,17,,
+85,,Linemans pliers,,1,2016-01-20 11:49:15,,LP-1,,,17,,
+86,,Locking pliers,,1,2016-01-20 11:49:15,,LP-0,,,17,,
+87,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-1,,,17,,
+88,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-2,,,17,,
+89,,Needle pliers,,1,2016-01-20 11:49:15,,NN-0,,,17,,
+90,,Seeger pliers,,1,2016-01-20 11:49:15,,SP-1,,,17,,
+91,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-2,,,17,,
+92,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-3,,,17,,
+93,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-4,,,17,,
+94,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-1,,,17,,
+95,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-2,,,17,,
+96,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-3,,,17,,
+97,,Tongue and groove pliers,,1,2016-01-20 11:49:17,,TGP-4,,,17,,
+98,,Ratcheting Wrench 10 & 11,[],1,2016-04-07 15:06:28,,RW-1011,,,14,picture.jpg,thumbnail.jpg
+99,,Ratcheting Wrench 16 & 18,[],1,2016-01-20 17:06:16,,RW-1618,,,14,picture.jpg,thumbnail.jpg
+100,,Ratcheting Wrench 3/8 & 7/16,[],1,2016-01-20 17:28:37,,RW-387161,,,14,picture.jpg,thumbnail.jpg
+101,,Ratcheting Wrench 3/8 & 7/16,,1,2016-01-20 11:49:17,,RW-387162,,,14,,
+102,,Ratcheting Wrench 8 & 9,[],1,2016-01-20 17:05:51,,WE-89,,,14,picture.jpg,thumbnail.jpg
+103,,Cruciform screwdriver,,1,2016-01-20 11:49:17,,CSD-1,,,18,,
+104,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-2,,,18,,
+105,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-3,,,18,,
+106,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-4,,,18,,
+107,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-5,,,18,,
+108,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-6,,,18,,
+109,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-7,,,18,,
+110,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-8,,,18,,
+111,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-9,,,18,,
+112,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-10,,,18,,
+113,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-11,,,18,,
+114,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-12,,,18,,
+115,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-1,,,18,,
+116,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-2,,,18,,
+117,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-3,,,18,,
+118,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-4,,,18,,
+119,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-5,,,18,,
+120,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-6,,,18,,
+121,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-7,,,18,,
+122,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-8,,,18,,
+123,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-9,,,18,,
+124,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-10,,,18,,
+125,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-11,,,18,,
+126,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-12,,,18,,
+127,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-13,,,18,,
+128,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-14,,,18,,
+129,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-15,,,18,,
+130,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-16,,,18,,
+131,,Multi-bit screwdriver,,1,2016-01-20 11:49:22,,MBSD-0,,,18,,
+132,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-1,,,18,,
+133,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-2,,,18,,
+134,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-3,,,18,,
+135,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-4,,,18,,
+136,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-5,,,18,,
+137,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-6,,,18,,
+138,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-7,,,18,,
+139,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-8,,,18,,
+140,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-9,,,18,,
+141,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-10,,,18,,
+142,,Socket wrench,,1,2016-01-20 11:49:23,,SW-381,,,19,,
+143,,Socket wrench,,1,2016-01-20 11:49:23,,SW-382,,,19,,
+144,,Socket wrench,,1,2016-01-20 11:49:23,,SW-383,,,19,,
+145,,Socket wrench,,1,2016-01-20 11:49:24,,SW-384,,,19,,
+146,,Socket wrench,,1,2016-01-20 11:49:24,,SW-385,,,19,,
+147,,Socket wrench,,1,2016-01-20 11:49:24,,SW-7750,,,19,,
+148,,Socket wrench,,1,2016-01-20 11:49:24,,SW-153,,,19,,
+149,,Socket wrench,,1,2016-01-20 11:49:24,,SW-151,,,19,,
+150,,Socket wrench,,1,2016-01-20 11:49:24,,SW-00,,,19,,
+151,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80501,,,19,,
+152,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80502,,,19,,
+153,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:09,,IM-1,,,21,picture.jpg,thumbnail.jpg
+154,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:26,,IM-2,,,21,picture.jpg,thumbnail.jpg
+155,,89 IV True-RMS Multimeter,[],1,2016-02-11 13:37:23,,MR-01,,,23,picture.jpg,thumbnail.jpg
+156,,Measuring tape,,1,2016-01-20 11:49:25,,MT-1,,,24,,
+157,,Measuring tape,,1,2016-01-20 11:49:25,,MT-2,,,24,,
+158,,Measureing doser,,1,2016-03-11 16:29:59,,MD-1,,,24,,
+159,,Measureing doser,,1,2016-03-11 16:29:59,,MD-2,,,24,,
+160,,Measureing doser,,1,2016-03-11 16:29:59,,MD-3,,,24,,
+161,,Thermometer 9ZTR410YT,[],1,2016-01-20 16:58:49,,TM-9,,,26,picture.jpg,thumbnail.jpg
+162,,Air Die Grinder DR300-T2000,,1,2016-01-20 11:49:26,,ADG-T200,,,28,,
+163,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:26,,ADG-T5501,,,28,,
+164,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:27,,ADG-T5502,,,28,,
+165,,Air Die GrinderLBV24S019-91,,1,2016-01-20 11:49:27,,ADG-91,,,28,,
+166,,Air Hammer nø133L46,,1,2016-01-20 11:49:27,,AH-133L46,,,29,,
+167,,Air Hammer nø81477,,1,2016-01-20 11:49:27,,AH-81477,,,29,,
+168,,Air Ratchet Wrench nø0184,,1,2016-01-20 11:49:27,,ARW-01184,,,30,,
+169,,Air Riveter nø1031,,1,2016-01-20 11:49:34,,AR-1031,,,31,,
+170,,Air Screwdriver nø0058,,1,2016-01-20 11:49:34,,AS-0058,,,32,,
+171,,Air Screwdriver nø0062,[],1,2016-04-05 13:37:20,,AS-0062,,,32,,
+172,,Air Screwdriver nø0063,,1,2016-01-20 11:49:34,,AS-0063,,,32,,
+173,,Air Screwdriver nø0066,,1,2016-01-20 11:49:34,,AS-0066,,,32,,
+174,,Duty Air Wrench nø0299,,1,2016-01-20 11:49:35,,DAW-0299,,,33,,
+175,,Duty Air Wrench nø1248122,,1,2016-01-20 11:49:35,,DAW-1248122,,,33,,
+176,,Duty Pistol Air Drill nø11220311,,1,2016-01-20 11:49:35,,DPA-11220311,,,30,,
+177,,Duty Pistol Air Drill nø11220321,,1,2016-01-20 11:49:35,,DPA-11220321,,,30,,
+178,,Duty Pistol Air Drill nø11220329,,1,2016-01-20 11:49:35,,DPA-11220329,,,30,,
+179,,Duty Pistol Air Drill nø11220336,,1,2016-01-20 11:49:35,,DPA-11220336,,,30,,
+180,,Duty Pistol Air Drill nø11230296,,1,2016-01-20 11:49:36,,DPA-11230296,,,30,,
+181,,Duty Pistol Air Drill nø11230303,,1,2016-01-20 11:49:36,,DPA-11230303,,,30,,
+182,,Light Duty Pistol Air Drill DR350-P3000,,1,2016-01-20 11:49:36,,LDP-3000,,,30,,
+183,,Light Duty Pistol Air Drill DR350-P5500,,1,2016-01-20 11:49:36,,LDP-5500,,,30,,
+184,,Light Duty Pistol Air Drill DR500-P2700,,1,2016-01-20 11:49:36,,LDP-2700,,,30,,
+185,,Pneumatic Clamp nø52,,1,2016-01-20 11:49:36,,PC-52,,,34,,
+186,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-1,,,47,,
+187,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-2,,,47,,
+188,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-0642,,,36,,
+189,,Torque Wrench,[],1,2016-01-21 14:50:01,,TW-0680,,,36,,
+190,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-7380,,,36,,
+191,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-5630,,,36,,
+192,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-8437,,,36,,
+193,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-1562,,,36,,
+194,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-0238,,,47,,
+195,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-5057,,,47,,
+196,,Drill Box,[],1,2016-01-21 09:07:18,,DB-14,,,3,,
+197,,Cutting Pliers,[],1,2016-01-21 13:11:11,,CP-3,,,17,,
+198,,Socket Wrench,[],1,2016-04-07 15:07:07,,SW-386,,,19,,
+199,,Socket wrench,[],1,2016-01-21 13:41:30,,SW-387,,,19,,
+200,,Torque Wrench,[],1,2016-03-11 16:30:37,,TW-5069,,,47,,
+210,,Test Wrench 10,[],1,2016-03-11 17:08:17,,TW-010,,,39,,
+402,,ToolBox,[],1,2016-02-22 18:11:59,,TB-001,,,42,,
+404,,N-M4,[],1,2016-03-23 09:09:37,,Nut m4,Batch of 5,,45,,
+407,,CHC_20D_long,[],1,2016-03-16 09:55:19,,CHC_20_long,Pce,,48,,
+408,,CHC_10 Large,[],1,2016-03-11 17:36:31,,CHC_10 Large,pce,,48,,
+409,,Torque Wrench,[],1,2016-03-03 17:35:08,,TW-270,,,36,,
+410,,Torque Wrench,[],1,2016-03-03 17:55:50,,TW-697,,,36,,
+411,,Torque Wrench,[],1,2016-03-03 17:56:01,,TW-694,,,36,,
+412,,Torque Wrench,[],1,2016-03-03 17:56:11,,TW-271,,,36,,
+415,,IP,[],1,2016-03-23 09:13:43,,Inox part,pce,,44,,
+416,erfezzzzzzzzzzzzzzzzzzr,TEST_REF_SL_Des,[],1,2016-03-22 11:52:12,fgerferfezfez,TEST_REF_SL_Code,feeeeeee,fffffffffff,49,picture.png,thumbnail.png
+1,,Drill box,[],1,2016-02-11 14:57:03,,DB-1,,,3,,
+14,,Metal chisel 1006901-1CM,,1,2016-01-20 11:49:04,,MC-1,,,4,,
+15,,Metal chisel 1294670-1CM,,1,2016-01-20 11:49:04,,MC-2,,,4,,
+16,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-1,,,5,,
+17,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-2,,,5,,
+18,,Magnet Rod,,1,2016-01-20 11:49:05,,MR-00,,,6,,
+19,,Metal Chisel nø3734N,,1,2016-01-20 11:49:05,,MC-3734,,,4,,
+20,,Wire Brush,,1,2016-01-20 11:49:05,,WB-1,,,7,,
+21,,Wire Brush,,1,2016-01-20 11:49:05,,WB-2,,,7,,
+22,,Cutter SQZ15003,,1,2016-01-20 11:49:05,,CT-00,,,9,,
+23,,Hacksaw nø317,[],1,2016-01-20 16:57:01,,HS-317,,,10,picture.jpg,thumbnail.jpg
+24,,Wire Cutter 2744,,1,2016-01-20 11:49:05,,WC-2744,,,9,,
+25,,Inspection lamp LED,[],1,2016-01-20 16:55:29,,LED-00,,,12,picture.jpg,thumbnail.jpg
+26,,Adjustable Wrench 10,[],1,2016-03-22 11:32:56,,AW-101,,,14,,
+27,,Adjustable Wrench 10,,1,2016-01-20 11:49:06,,AW-102,,,14,,
+28,,Adjustable Wrench 12,,1,2016-01-20 11:49:06,,AW-12,,,14,,
+29,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-61,,,14,,
+30,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-62,,,14,,
+31,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-63,,,14,,
+32,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-64,,,14,,
+33,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-65,,,14,,
+34,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-66,,,14,,
+35,,Box End Wrench 2/8 7/16,,1,2016-01-20 11:49:07,,BED-28716,,,14,,
+36,,Combination Wrench 1 #3,[],1,2016-01-20 17:13:11,,CW-103,,,14,picture.jpg,thumbnail.jpg
+37,,Combination Wrench 1/2,,1,2016-01-20 11:49:07,,CW-12,,,14,,
+38,,Combination Wrench 10,[],1,2016-01-20 17:27:41,,CW-10,,,14,picture.jpg,thumbnail.jpg
+39,,Combination Wrench 11,[],1,2016-01-20 17:27:13,,CW-11,,,14,picture.jpg,thumbnail.jpg
+40,,Combination Wrench 12,[],1,2016-01-20 17:26:24,,CW-121,,,14,picture.jpg,thumbnail.jpg
+41,,Combination Wrench 12,[],1,2016-01-20 17:26:42,,CW-122,,,14,picture.jpg,thumbnail.jpg
+42,,Combination Wrench 13,[],1,2016-01-20 17:24:40,,CW-131,,,14,picture.jpg,thumbnail.jpg
+43,,Combination Wrench 13,[],1,2016-01-20 17:25:34,,CW-132,,,14,picture.jpg,thumbnail.jpg
+44,,Combination Wrench 13,[],1,2016-01-20 17:25:56,,CW-133,,,14,picture.jpg,thumbnail.jpg
+45,,Combination Wrench 13/16,,1,2016-01-20 11:49:09,,CW-1316,,,14,,
+46,,Combination Wrench 14,[],1,2016-01-20 17:23:15,,CW-141,,,14,picture.jpg,thumbnail.jpg
+47,,Combination Wrench 14,[],1,2016-01-20 17:23:50,,CW-142,,,14,picture.jpg,thumbnail.jpg
+48,,Combination Wrench 15,[],1,2016-01-20 17:22:26,,CW-151,,,14,picture.jpg,thumbnail.jpg
+49,,Combination Wrench 15,[],1,2016-01-20 17:22:53,,CW-152,,,14,picture.jpg,thumbnail.jpg
+50,,Combination Wrench 16,[],1,2016-01-20 17:21:26,,CW-16,,,14,picture.jpg,thumbnail.jpg
+51,,Combination Wrench 17,[],1,2016-01-20 17:20:07,,CW-171,,,14,picture.jpg,thumbnail.jpg
+52,,Combination Wrench 17,[],1,2016-01-20 17:20:36,,CW-172,,,14,picture.jpg,thumbnail.jpg
+53,,Combination Wrench 17,[],1,2016-01-20 17:20:54,,CW-173,,,14,picture.jpg,thumbnail.jpg
+54,,Combination Wrench 18,[],1,2016-01-20 17:19:26,,CW-181,,,14,picture.jpg,thumbnail.jpg
+55,,Combination Wrench 18,[],1,2016-01-20 17:19:49,,CW-182,,,14,picture.jpg,thumbnail.jpg
+56,,Combination Wrench 19,[],1,2016-01-20 17:17:18,,CW-191,,,14,picture.jpg,thumbnail.jpg
+57,,Combination Wrench 19,[],1,2016-01-20 17:17:51,,CW-192,,,14,picture.jpg,thumbnail.jpg
+58,,Combination Wrench 19,[],1,2016-01-20 17:18:11,,CW-193,,,14,picture.jpg,thumbnail.jpg
+59,,Combination Wrench 19,[],1,2016-01-20 17:18:34,,CW-194,,,14,picture.jpg,thumbnail.jpg
+60,,Combination Wrench 19,[],1,2016-01-20 17:18:59,,CW-195,,,14,picture.jpg,thumbnail.jpg
+61,,Combination Wrench 21,[],1,2016-01-20 17:16:08,,CW-211,,,14,picture.jpg,thumbnail.jpg
+62,,Combination Wrench 21,[],1,2016-01-20 17:16:24,,CW-212,,,14,picture.jpg,thumbnail.jpg
+63,,Combination Wrench 22,[],1,2016-01-20 17:15:46,,CW-22,,,14,picture.jpg,thumbnail.jpg
+64,,Combination Wrench 24,[],1,2016-01-20 17:08:34,,CW-25,,,14,picture.jpg,thumbnail.jpg
+65,,Combination Wrench 24,[],1,2016-01-20 17:08:51,,CW-241,,,14,picture.jpg,thumbnail.jpg
+66,,Combination Wrench 24,[],1,2016-01-20 17:09:05,,CW-242,,,14,picture.jpg,thumbnail.jpg
+67,,Combination Wrench 1 #1,[],1,2016-01-20 17:13:30,,CW-101,,,14,picture.jpg,thumbnail.jpg
+68,,Combination Wrench 1 #2,[],1,2016-01-20 17:12:16,,CW-102,,,14,picture.jpg,thumbnail.jpg
+69,,Combination Wrench 5/8,,1,2016-01-20 11:49:12,,CW-58,,,14,,
+70,,Combination Wrench 8,[],1,2016-01-20 17:08:09,,CW-8,,,14,picture.jpg,thumbnail.jpg
+71,,Combination Wrench 9/16,,1,2016-01-20 11:49:13,,CW-916,,,14,,
+72,,Flat file,,1,2016-01-20 11:49:13,,FF-01,,,15,,
+73,,Flat file,,1,2016-01-20 11:49:13,,FF-02,,,15,,
+74,,Round file,,1,2016-01-20 11:49:13,,RF-00,,,15,,
+75,,Flare Nut Wrench 13/14,[],1,2016-01-20 17:07:46,,FNW-1214,,,14,picture.jpg,thumbnail.jpg
+76,,Flare Nut Wrench 14 & 15,[],1,2016-01-20 17:07:29,,FRN-1415,,,14,picture.jpg,thumbnail.jpg
+77,,Flare Nut Wrench 8/9,[],1,2016-01-20 17:06:46,,FRN-89,,,14,picture.jpg,thumbnail.jpg
+78,,Hammer,,1,2016-01-20 11:49:14,,HM-1,,,16,,
+79,,Hammer,,1,2016-01-20 11:49:14,,HM-2,,,16,,
+80,,Mallet hammer,[],1,2016-04-07 15:05:52,,MH-1,,,16,,
+81,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-2,,,16,,
+82,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-3,,,16,,
+83,,Cutting pliers,,1,2016-01-20 11:49:14,,CP-1,,,17,,
+84,,Cutting pliers,,1,2016-01-20 11:49:15,,CP-2,,,17,,
+85,,Linemans pliers,,1,2016-01-20 11:49:15,,LP-1,,,17,,
+86,,Locking pliers,,1,2016-01-20 11:49:15,,LP-0,,,17,,
+87,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-1,,,17,,
+88,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-2,,,17,,
+89,,Needle pliers,,1,2016-01-20 11:49:15,,NN-0,,,17,,
+90,,Seeger pliers,,1,2016-01-20 11:49:15,,SP-1,,,17,,
+91,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-2,,,17,,
+92,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-3,,,17,,
+93,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-4,,,17,,
+94,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-1,,,17,,
+95,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-2,,,17,,
+96,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-3,,,17,,
+97,,Tongue and groove pliers,,1,2016-01-20 11:49:17,,TGP-4,,,17,,
+98,,Ratcheting Wrench 10 & 11,[],1,2016-04-07 15:06:28,,RW-1011,,,14,picture.jpg,thumbnail.jpg
+99,,Ratcheting Wrench 16 & 18,[],1,2016-01-20 17:06:16,,RW-1618,,,14,picture.jpg,thumbnail.jpg
+100,,Ratcheting Wrench 3/8 & 7/16,[],1,2016-01-20 17:28:37,,RW-387161,,,14,picture.jpg,thumbnail.jpg
+101,,Ratcheting Wrench 3/8 & 7/16,,1,2016-01-20 11:49:17,,RW-387162,,,14,,
+102,,Ratcheting Wrench 8 & 9,[],1,2016-01-20 17:05:51,,WE-89,,,14,picture.jpg,thumbnail.jpg
+103,,Cruciform screwdriver,,1,2016-01-20 11:49:17,,CSD-1,,,18,,
+104,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-2,,,18,,
+105,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-3,,,18,,
+106,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-4,,,18,,
+107,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-5,,,18,,
+108,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-6,,,18,,
+109,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-7,,,18,,
+110,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-8,,,18,,
+111,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-9,,,18,,
+112,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-10,,,18,,
+113,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-11,,,18,,
+114,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-12,,,18,,
+115,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-1,,,18,,
+116,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-2,,,18,,
+117,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-3,,,18,,
+118,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-4,,,18,,
+119,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-5,,,18,,
+120,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-6,,,18,,
+121,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-7,,,18,,
+122,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-8,,,18,,
+123,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-9,,,18,,
+124,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-10,,,18,,
+125,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-11,,,18,,
+126,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-12,,,18,,
+127,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-13,,,18,,
+128,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-14,,,18,,
+129,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-15,,,18,,
+130,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-16,,,18,,
+131,,Multi-bit screwdriver,,1,2016-01-20 11:49:22,,MBSD-0,,,18,,
+132,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-1,,,18,,
+133,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-2,,,18,,
+134,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-3,,,18,,
+135,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-4,,,18,,
+136,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-5,,,18,,
+137,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-6,,,18,,
+138,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-7,,,18,,
+139,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-8,,,18,,
+140,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-9,,,18,,
+141,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-10,,,18,,
+142,,Socket wrench,,1,2016-01-20 11:49:23,,SW-381,,,19,,
+143,,Socket wrench,,1,2016-01-20 11:49:23,,SW-382,,,19,,
+144,,Socket wrench,,1,2016-01-20 11:49:23,,SW-383,,,19,,
+145,,Socket wrench,,1,2016-01-20 11:49:24,,SW-384,,,19,,
+146,,Socket wrench,,1,2016-01-20 11:49:24,,SW-385,,,19,,
+147,,Socket wrench,,1,2016-01-20 11:49:24,,SW-7750,,,19,,
+148,,Socket wrench,,1,2016-01-20 11:49:24,,SW-153,,,19,,
+149,,Socket wrench,,1,2016-01-20 11:49:24,,SW-151,,,19,,
+150,,Socket wrench,,1,2016-01-20 11:49:24,,SW-00,,,19,,
+151,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80501,,,19,,
+152,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80502,,,19,,
+153,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:09,,IM-1,,,21,picture.jpg,thumbnail.jpg
+154,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:26,,IM-2,,,21,picture.jpg,thumbnail.jpg
+155,,89 IV True-RMS Multimeter,[],1,2016-02-11 13:37:23,,MR-01,,,23,picture.jpg,thumbnail.jpg
+156,,Measuring tape,,1,2016-01-20 11:49:25,,MT-1,,,24,,
+157,,Measuring tape,,1,2016-01-20 11:49:25,,MT-2,,,24,,
+158,,Measureing doser,,1,2016-03-11 16:29:59,,MD-1,,,24,,
+159,,Measureing doser,,1,2016-03-11 16:29:59,,MD-2,,,24,,
+160,,Measureing doser,,1,2016-03-11 16:29:59,,MD-3,,,24,,
+161,,Thermometer 9ZTR410YT,[],1,2016-01-20 16:58:49,,TM-9,,,26,picture.jpg,thumbnail.jpg
+162,,Air Die Grinder DR300-T2000,,1,2016-01-20 11:49:26,,ADG-T200,,,28,,
+163,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:26,,ADG-T5501,,,28,,
+164,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:27,,ADG-T5502,,,28,,
+165,,Air Die GrinderLBV24S019-91,,1,2016-01-20 11:49:27,,ADG-91,,,28,,
+166,,Air Hammer nø133L46,,1,2016-01-20 11:49:27,,AH-133L46,,,29,,
+167,,Air Hammer nø81477,,1,2016-01-20 11:49:27,,AH-81477,,,29,,
+168,,Air Ratchet Wrench nø0184,,1,2016-01-20 11:49:27,,ARW-01184,,,30,,
+169,,Air Riveter nø1031,,1,2016-01-20 11:49:34,,AR-1031,,,31,,
+170,,Air Screwdriver nø0058,,1,2016-01-20 11:49:34,,AS-0058,,,32,,
+171,,Air Screwdriver nø0062,[],1,2016-04-05 13:37:20,,AS-0062,,,32,,
+172,,Air Screwdriver nø0063,,1,2016-01-20 11:49:34,,AS-0063,,,32,,
+173,,Air Screwdriver nø0066,,1,2016-01-20 11:49:34,,AS-0066,,,32,,
+174,,Duty Air Wrench nø0299,,1,2016-01-20 11:49:35,,DAW-0299,,,33,,
+175,,Duty Air Wrench nø1248122,,1,2016-01-20 11:49:35,,DAW-1248122,,,33,,
+176,,Duty Pistol Air Drill nø11220311,,1,2016-01-20 11:49:35,,DPA-11220311,,,30,,
+177,,Duty Pistol Air Drill nø11220321,,1,2016-01-20 11:49:35,,DPA-11220321,,,30,,
+178,,Duty Pistol Air Drill nø11220329,,1,2016-01-20 11:49:35,,DPA-11220329,,,30,,
+179,,Duty Pistol Air Drill nø11220336,,1,2016-01-20 11:49:35,,DPA-11220336,,,30,,
+180,,Duty Pistol Air Drill nø11230296,,1,2016-01-20 11:49:36,,DPA-11230296,,,30,,
+181,,Duty Pistol Air Drill nø11230303,,1,2016-01-20 11:49:36,,DPA-11230303,,,30,,
+182,,Light Duty Pistol Air Drill DR350-P3000,,1,2016-01-20 11:49:36,,LDP-3000,,,30,,
+183,,Light Duty Pistol Air Drill DR350-P5500,,1,2016-01-20 11:49:36,,LDP-5500,,,30,,
+184,,Light Duty Pistol Air Drill DR500-P2700,,1,2016-01-20 11:49:36,,LDP-2700,,,30,,
+185,,Pneumatic Clamp nø52,,1,2016-01-20 11:49:36,,PC-52,,,34,,
+186,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-1,,,47,,
+187,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-2,,,47,,
+188,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-0642,,,36,,
+189,,Torque Wrench,[],1,2016-01-21 14:50:01,,TW-0680,,,36,,
+190,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-7380,,,36,,
+191,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-5630,,,36,,
+192,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-8437,,,36,,
+193,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-1562,,,36,,
+194,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-0238,,,47,,
+195,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-5057,,,47,,
+196,,Drill Box,[],1,2016-01-21 09:07:18,,DB-14,,,3,,
+197,,Cutting Pliers,[],1,2016-01-21 13:11:11,,CP-3,,,17,,
+198,,Socket Wrench,[],1,2016-04-07 15:07:07,,SW-386,,,19,,
+199,,Socket wrench,[],1,2016-01-21 13:41:30,,SW-387,,,19,,
+200,,Torque Wrench,[],1,2016-03-11 16:30:37,,TW-5069,,,47,,
+210,,Test Wrench 10,[],1,2016-03-11 17:08:17,,TW-010,,,39,,
+402,,ToolBox,[],1,2016-02-22 18:11:59,,TB-001,,,42,,
+404,,N-M4,[],1,2016-03-23 09:09:37,,Nut m4,Batch of 5,,45,,
+407,,CHC_20D_long,[],1,2016-03-16 09:55:19,,CHC_20_long,Pce,,48,,
+408,,CHC_10 Large,[],1,2016-03-11 17:36:31,,CHC_10 Large,pce,,48,,
+409,,Torque Wrench,[],1,2016-03-03 17:35:08,,TW-270,,,36,,
+410,,Torque Wrench,[],1,2016-03-03 17:55:50,,TW-697,,,36,,
+411,,Torque Wrench,[],1,2016-03-03 17:56:01,,TW-694,,,36,,
+412,,Torque Wrench,[],1,2016-03-03 17:56:11,,TW-271,,,36,,
+415,,IP,[],1,2016-03-23 09:13:43,,Inox part,pce,,44,,
+416,erfezzzzzzzzzzzzzzzzzzr,TEST_REF_SL_Des,[],1,2016-03-22 11:52:12,fgerferfezfez,TEST_REF_SL_Code,feeeeeee,fffffffffff,49,picture.png,thumbnail.png
+1,,Drill box,[],1,2016-02-11 14:57:03,,DB-1,,,3,,
+14,,Metal chisel 1006901-1CM,,1,2016-01-20 11:49:04,,MC-1,,,4,,
+15,,Metal chisel 1294670-1CM,,1,2016-01-20 11:49:04,,MC-2,,,4,,
+16,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-1,,,5,,
+17,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-2,,,5,,
+18,,Magnet Rod,,1,2016-01-20 11:49:05,,MR-00,,,6,,
+19,,Metal Chisel nø3734N,,1,2016-01-20 11:49:05,,MC-3734,,,4,,
+20,,Wire Brush,,1,2016-01-20 11:49:05,,WB-1,,,7,,
+21,,Wire Brush,,1,2016-01-20 11:49:05,,WB-2,,,7,,
+22,,Cutter SQZ15003,,1,2016-01-20 11:49:05,,CT-00,,,9,,
+23,,Hacksaw nø317,[],1,2016-01-20 16:57:01,,HS-317,,,10,picture.jpg,thumbnail.jpg
+24,,Wire Cutter 2744,,1,2016-01-20 11:49:05,,WC-2744,,,9,,
+25,,Inspection lamp LED,[],1,2016-01-20 16:55:29,,LED-00,,,12,picture.jpg,thumbnail.jpg
+26,,Adjustable Wrench 10,[],1,2016-03-22 11:32:56,,AW-101,,,14,,
+27,,Adjustable Wrench 10,,1,2016-01-20 11:49:06,,AW-102,,,14,,
+28,,Adjustable Wrench 12,,1,2016-01-20 11:49:06,,AW-12,,,14,,
+29,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-61,,,14,,
+30,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-62,,,14,,
+31,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-63,,,14,,
+32,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-64,,,14,,
+33,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-65,,,14,,
+34,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-66,,,14,,
+35,,Box End Wrench 2/8 7/16,,1,2016-01-20 11:49:07,,BED-28716,,,14,,
+36,,Combination Wrench 1 #3,[],1,2016-01-20 17:13:11,,CW-103,,,14,picture.jpg,thumbnail.jpg
+37,,Combination Wrench 1/2,,1,2016-01-20 11:49:07,,CW-12,,,14,,
+38,,Combination Wrench 10,[],1,2016-01-20 17:27:41,,CW-10,,,14,picture.jpg,thumbnail.jpg
+39,,Combination Wrench 11,[],1,2016-01-20 17:27:13,,CW-11,,,14,picture.jpg,thumbnail.jpg
+40,,Combination Wrench 12,[],1,2016-01-20 17:26:24,,CW-121,,,14,picture.jpg,thumbnail.jpg
+41,,Combination Wrench 12,[],1,2016-01-20 17:26:42,,CW-122,,,14,picture.jpg,thumbnail.jpg
+42,,Combination Wrench 13,[],1,2016-01-20 17:24:40,,CW-131,,,14,picture.jpg,thumbnail.jpg
+43,,Combination Wrench 13,[],1,2016-01-20 17:25:34,,CW-132,,,14,picture.jpg,thumbnail.jpg
+44,,Combination Wrench 13,[],1,2016-01-20 17:25:56,,CW-133,,,14,picture.jpg,thumbnail.jpg
+45,,Combination Wrench 13/16,,1,2016-01-20 11:49:09,,CW-1316,,,14,,
+46,,Combination Wrench 14,[],1,2016-01-20 17:23:15,,CW-141,,,14,picture.jpg,thumbnail.jpg
+47,,Combination Wrench 14,[],1,2016-01-20 17:23:50,,CW-142,,,14,picture.jpg,thumbnail.jpg
+48,,Combination Wrench 15,[],1,2016-01-20 17:22:26,,CW-151,,,14,picture.jpg,thumbnail.jpg
+49,,Combination Wrench 15,[],1,2016-01-20 17:22:53,,CW-152,,,14,picture.jpg,thumbnail.jpg
+50,,Combination Wrench 16,[],1,2016-01-20 17:21:26,,CW-16,,,14,picture.jpg,thumbnail.jpg
+51,,Combination Wrench 17,[],1,2016-01-20 17:20:07,,CW-171,,,14,picture.jpg,thumbnail.jpg
+52,,Combination Wrench 17,[],1,2016-01-20 17:20:36,,CW-172,,,14,picture.jpg,thumbnail.jpg
+53,,Combination Wrench 17,[],1,2016-01-20 17:20:54,,CW-173,,,14,picture.jpg,thumbnail.jpg
+54,,Combination Wrench 18,[],1,2016-01-20 17:19:26,,CW-181,,,14,picture.jpg,thumbnail.jpg
+55,,Combination Wrench 18,[],1,2016-01-20 17:19:49,,CW-182,,,14,picture.jpg,thumbnail.jpg
+56,,Combination Wrench 19,[],1,2016-01-20 17:17:18,,CW-191,,,14,picture.jpg,thumbnail.jpg
+57,,Combination Wrench 19,[],1,2016-01-20 17:17:51,,CW-192,,,14,picture.jpg,thumbnail.jpg
+58,,Combination Wrench 19,[],1,2016-01-20 17:18:11,,CW-193,,,14,picture.jpg,thumbnail.jpg
+59,,Combination Wrench 19,[],1,2016-01-20 17:18:34,,CW-194,,,14,picture.jpg,thumbnail.jpg
+60,,Combination Wrench 19,[],1,2016-01-20 17:18:59,,CW-195,,,14,picture.jpg,thumbnail.jpg
+61,,Combination Wrench 21,[],1,2016-01-20 17:16:08,,CW-211,,,14,picture.jpg,thumbnail.jpg
+62,,Combination Wrench 21,[],1,2016-01-20 17:16:24,,CW-212,,,14,picture.jpg,thumbnail.jpg
+63,,Combination Wrench 22,[],1,2016-01-20 17:15:46,,CW-22,,,14,picture.jpg,thumbnail.jpg
+64,,Combination Wrench 24,[],1,2016-01-20 17:08:34,,CW-25,,,14,picture.jpg,thumbnail.jpg
+65,,Combination Wrench 24,[],1,2016-01-20 17:08:51,,CW-241,,,14,picture.jpg,thumbnail.jpg
+66,,Combination Wrench 24,[],1,2016-01-20 17:09:05,,CW-242,,,14,picture.jpg,thumbnail.jpg
+67,,Combination Wrench 1 #1,[],1,2016-01-20 17:13:30,,CW-101,,,14,picture.jpg,thumbnail.jpg
+68,,Combination Wrench 1 #2,[],1,2016-01-20 17:12:16,,CW-102,,,14,picture.jpg,thumbnail.jpg
+69,,Combination Wrench 5/8,,1,2016-01-20 11:49:12,,CW-58,,,14,,
+70,,Combination Wrench 8,[],1,2016-01-20 17:08:09,,CW-8,,,14,picture.jpg,thumbnail.jpg
+71,,Combination Wrench 9/16,,1,2016-01-20 11:49:13,,CW-916,,,14,,
+72,,Flat file,,1,2016-01-20 11:49:13,,FF-01,,,15,,
+73,,Flat file,,1,2016-01-20 11:49:13,,FF-02,,,15,,
+74,,Round file,,1,2016-01-20 11:49:13,,RF-00,,,15,,
+75,,Flare Nut Wrench 13/14,[],1,2016-01-20 17:07:46,,FNW-1214,,,14,picture.jpg,thumbnail.jpg
+76,,Flare Nut Wrench 14 & 15,[],1,2016-01-20 17:07:29,,FRN-1415,,,14,picture.jpg,thumbnail.jpg
+77,,Flare Nut Wrench 8/9,[],1,2016-01-20 17:06:46,,FRN-89,,,14,picture.jpg,thumbnail.jpg
+78,,Hammer,,1,2016-01-20 11:49:14,,HM-1,,,16,,
+79,,Hammer,,1,2016-01-20 11:49:14,,HM-2,,,16,,
+80,,Mallet hammer,[],1,2016-04-07 15:05:52,,MH-1,,,16,,
+81,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-2,,,16,,
+82,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-3,,,16,,
+83,,Cutting pliers,,1,2016-01-20 11:49:14,,CP-1,,,17,,
+84,,Cutting pliers,,1,2016-01-20 11:49:15,,CP-2,,,17,,
+85,,Linemans pliers,,1,2016-01-20 11:49:15,,LP-1,,,17,,
+86,,Locking pliers,,1,2016-01-20 11:49:15,,LP-0,,,17,,
+87,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-1,,,17,,
+88,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-2,,,17,,
+89,,Needle pliers,,1,2016-01-20 11:49:15,,NN-0,,,17,,
+90,,Seeger pliers,,1,2016-01-20 11:49:15,,SP-1,,,17,,
+91,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-2,,,17,,
+92,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-3,,,17,,
+93,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-4,,,17,,
+94,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-1,,,17,,
+95,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-2,,,17,,
+96,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-3,,,17,,
+97,,Tongue and groove pliers,,1,2016-01-20 11:49:17,,TGP-4,,,17,,
+98,,Ratcheting Wrench 10 & 11,[],1,2016-04-07 15:06:28,,RW-1011,,,14,picture.jpg,thumbnail.jpg
+99,,Ratcheting Wrench 16 & 18,[],1,2016-01-20 17:06:16,,RW-1618,,,14,picture.jpg,thumbnail.jpg
+100,,Ratcheting Wrench 3/8 & 7/16,[],1,2016-01-20 17:28:37,,RW-387161,,,14,picture.jpg,thumbnail.jpg
+101,,Ratcheting Wrench 3/8 & 7/16,,1,2016-01-20 11:49:17,,RW-387162,,,14,,
+102,,Ratcheting Wrench 8 & 9,[],1,2016-01-20 17:05:51,,WE-89,,,14,picture.jpg,thumbnail.jpg
+103,,Cruciform screwdriver,,1,2016-01-20 11:49:17,,CSD-1,,,18,,
+104,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-2,,,18,,
+105,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-3,,,18,,
+106,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-4,,,18,,
+107,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-5,,,18,,
+108,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-6,,,18,,
+109,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-7,,,18,,
+110,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-8,,,18,,
+111,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-9,,,18,,
+112,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-10,,,18,,
+113,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-11,,,18,,
+114,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-12,,,18,,
+115,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-1,,,18,,
+116,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-2,,,18,,
+117,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-3,,,18,,
+118,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-4,,,18,,
+119,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-5,,,18,,
+120,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-6,,,18,,
+121,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-7,,,18,,
+122,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-8,,,18,,
+123,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-9,,,18,,
+124,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-10,,,18,,
+125,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-11,,,18,,
+126,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-12,,,18,,
+127,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-13,,,18,,
+128,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-14,,,18,,
+129,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-15,,,18,,
+130,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-16,,,18,,
+131,,Multi-bit screwdriver,,1,2016-01-20 11:49:22,,MBSD-0,,,18,,
+132,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-1,,,18,,
+133,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-2,,,18,,
+134,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-3,,,18,,
+135,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-4,,,18,,
+136,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-5,,,18,,
+137,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-6,,,18,,
+138,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-7,,,18,,
+139,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-8,,,18,,
+140,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-9,,,18,,
+141,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-10,,,18,,
+142,,Socket wrench,,1,2016-01-20 11:49:23,,SW-381,,,19,,
+143,,Socket wrench,,1,2016-01-20 11:49:23,,SW-382,,,19,,
+144,,Socket wrench,,1,2016-01-20 11:49:23,,SW-383,,,19,,
+145,,Socket wrench,,1,2016-01-20 11:49:24,,SW-384,,,19,,
+146,,Socket wrench,,1,2016-01-20 11:49:24,,SW-385,,,19,,
+147,,Socket wrench,,1,2016-01-20 11:49:24,,SW-7750,,,19,,
+148,,Socket wrench,,1,2016-01-20 11:49:24,,SW-153,,,19,,
+149,,Socket wrench,,1,2016-01-20 11:49:24,,SW-151,,,19,,
+150,,Socket wrench,,1,2016-01-20 11:49:24,,SW-00,,,19,,
+151,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80501,,,19,,
+152,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80502,,,19,,
+153,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:09,,IM-1,,,21,picture.jpg,thumbnail.jpg
+154,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:26,,IM-2,,,21,picture.jpg,thumbnail.jpg
+155,,89 IV True-RMS Multimeter,[],1,2016-02-11 13:37:23,,MR-01,,,23,picture.jpg,thumbnail.jpg
+156,,Measuring tape,,1,2016-01-20 11:49:25,,MT-1,,,24,,
+157,,Measuring tape,,1,2016-01-20 11:49:25,,MT-2,,,24,,
+158,,Measureing doser,,1,2016-03-11 16:29:59,,MD-1,,,24,,
+159,,Measureing doser,,1,2016-03-11 16:29:59,,MD-2,,,24,,
+160,,Measureing doser,,1,2016-03-11 16:29:59,,MD-3,,,24,,
+161,,Thermometer 9ZTR410YT,[],1,2016-01-20 16:58:49,,TM-9,,,26,picture.jpg,thumbnail.jpg
+162,,Air Die Grinder DR300-T2000,,1,2016-01-20 11:49:26,,ADG-T200,,,28,,
+163,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:26,,ADG-T5501,,,28,,
+164,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:27,,ADG-T5502,,,28,,
+165,,Air Die GrinderLBV24S019-91,,1,2016-01-20 11:49:27,,ADG-91,,,28,,
+166,,Air Hammer nø133L46,,1,2016-01-20 11:49:27,,AH-133L46,,,29,,
+167,,Air Hammer nø81477,,1,2016-01-20 11:49:27,,AH-81477,,,29,,
+168,,Air Ratchet Wrench nø0184,,1,2016-01-20 11:49:27,,ARW-01184,,,30,,
+169,,Air Riveter nø1031,,1,2016-01-20 11:49:34,,AR-1031,,,31,,
+170,,Air Screwdriver nø0058,,1,2016-01-20 11:49:34,,AS-0058,,,32,,
+171,,Air Screwdriver nø0062,[],1,2016-04-05 13:37:20,,AS-0062,,,32,,
+172,,Air Screwdriver nø0063,,1,2016-01-20 11:49:34,,AS-0063,,,32,,
+173,,Air Screwdriver nø0066,,1,2016-01-20 11:49:34,,AS-0066,,,32,,
+174,,Duty Air Wrench nø0299,,1,2016-01-20 11:49:35,,DAW-0299,,,33,,
+175,,Duty Air Wrench nø1248122,,1,2016-01-20 11:49:35,,DAW-1248122,,,33,,
+176,,Duty Pistol Air Drill nø11220311,,1,2016-01-20 11:49:35,,DPA-11220311,,,30,,
+177,,Duty Pistol Air Drill nø11220321,,1,2016-01-20 11:49:35,,DPA-11220321,,,30,,
+178,,Duty Pistol Air Drill nø11220329,,1,2016-01-20 11:49:35,,DPA-11220329,,,30,,
+179,,Duty Pistol Air Drill nø11220336,,1,2016-01-20 11:49:35,,DPA-11220336,,,30,,
+180,,Duty Pistol Air Drill nø11230296,,1,2016-01-20 11:49:36,,DPA-11230296,,,30,,
+181,,Duty Pistol Air Drill nø11230303,,1,2016-01-20 11:49:36,,DPA-11230303,,,30,,
+182,,Light Duty Pistol Air Drill DR350-P3000,,1,2016-01-20 11:49:36,,LDP-3000,,,30,,
+183,,Light Duty Pistol Air Drill DR350-P5500,,1,2016-01-20 11:49:36,,LDP-5500,,,30,,
+184,,Light Duty Pistol Air Drill DR500-P2700,,1,2016-01-20 11:49:36,,LDP-2700,,,30,,
+185,,Pneumatic Clamp nø52,,1,2016-01-20 11:49:36,,PC-52,,,34,,
+186,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-1,,,47,,
+187,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-2,,,47,,
+188,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-0642,,,36,,
+189,,Torque Wrench,[],1,2016-01-21 14:50:01,,TW-0680,,,36,,
+190,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-7380,,,36,,
+191,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-5630,,,36,,
+192,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-8437,,,36,,
+193,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-1562,,,36,,
+194,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-0238,,,47,,
+195,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-5057,,,47,,
+196,,Drill Box,[],1,2016-01-21 09:07:18,,DB-14,,,3,,
+197,,Cutting Pliers,[],1,2016-01-21 13:11:11,,CP-3,,,17,,
+198,,Socket Wrench,[],1,2016-04-07 15:07:07,,SW-386,,,19,,
+199,,Socket wrench,[],1,2016-01-21 13:41:30,,SW-387,,,19,,
+200,,Torque Wrench,[],1,2016-03-11 16:30:37,,TW-5069,,,47,,
+210,,Test Wrench 10,[],1,2016-03-11 17:08:17,,TW-010,,,39,,
+402,,ToolBox,[],1,2016-02-22 18:11:59,,TB-001,,,42,,
+404,,N-M4,[],1,2016-03-23 09:09:37,,Nut m4,Batch of 5,,45,,
+407,,CHC_20D_long,[],1,2016-03-16 09:55:19,,CHC_20_long,Pce,,48,,
+408,,CHC_10 Large,[],1,2016-03-11 17:36:31,,CHC_10 Large,pce,,48,,
+409,,Torque Wrench,[],1,2016-03-03 17:35:08,,TW-270,,,36,,
+410,,Torque Wrench,[],1,2016-03-03 17:55:50,,TW-697,,,36,,
+411,,Torque Wrench,[],1,2016-03-03 17:56:01,,TW-694,,,36,,
+412,,Torque Wrench,[],1,2016-03-03 17:56:11,,TW-271,,,36,,
+415,,IP,[],1,2016-03-23 09:13:43,,Inox part,pce,,44,,
+416,erfezzzzzzzzzzzzzzzzzzr,TEST_REF_SL_Des,[],1,2016-03-22 11:52:12,fgerferfezfez,TEST_REF_SL_Code,feeeeeee,fffffffffff,49,picture.png,thumbnail.png
+1,,Drill box,[],1,2016-02-11 14:57:03,,DB-1,,,3,,
+14,,Metal chisel 1006901-1CM,,1,2016-01-20 11:49:04,,MC-1,,,4,,
+15,,Metal chisel 1294670-1CM,,1,2016-01-20 11:49:04,,MC-2,,,4,,
+16,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-1,,,5,,
+17,,Handel air drill,,1,2016-01-20 11:49:04,,HAD-2,,,5,,
+18,,Magnet Rod,,1,2016-01-20 11:49:05,,MR-00,,,6,,
+19,,Metal Chisel nø3734N,,1,2016-01-20 11:49:05,,MC-3734,,,4,,
+20,,Wire Brush,,1,2016-01-20 11:49:05,,WB-1,,,7,,
+21,,Wire Brush,,1,2016-01-20 11:49:05,,WB-2,,,7,,
+22,,Cutter SQZ15003,,1,2016-01-20 11:49:05,,CT-00,,,9,,
+23,,Hacksaw nø317,[],1,2016-01-20 16:57:01,,HS-317,,,10,picture.jpg,thumbnail.jpg
+24,,Wire Cutter 2744,,1,2016-01-20 11:49:05,,WC-2744,,,9,,
+25,,Inspection lamp LED,[],1,2016-01-20 16:55:29,,LED-00,,,12,picture.jpg,thumbnail.jpg
+26,,Adjustable Wrench 10,[],1,2016-03-22 11:32:56,,AW-101,,,14,,
+27,,Adjustable Wrench 10,,1,2016-01-20 11:49:06,,AW-102,,,14,,
+28,,Adjustable Wrench 12,,1,2016-01-20 11:49:06,,AW-12,,,14,,
+29,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-61,,,14,,
+30,,Adjustable Wrench 6,,1,2016-01-20 11:49:06,,AW-62,,,14,,
+31,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-63,,,14,,
+32,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-64,,,14,,
+33,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-65,,,14,,
+34,,Adjustable Wrench 6,,1,2016-01-20 11:49:07,,AW-66,,,14,,
+35,,Box End Wrench 2/8 7/16,,1,2016-01-20 11:49:07,,BED-28716,,,14,,
+36,,Combination Wrench 1 #3,[],1,2016-01-20 17:13:11,,CW-103,,,14,picture.jpg,thumbnail.jpg
+37,,Combination Wrench 1/2,,1,2016-01-20 11:49:07,,CW-12,,,14,,
+38,,Combination Wrench 10,[],1,2016-01-20 17:27:41,,CW-10,,,14,picture.jpg,thumbnail.jpg
+39,,Combination Wrench 11,[],1,2016-01-20 17:27:13,,CW-11,,,14,picture.jpg,thumbnail.jpg
+40,,Combination Wrench 12,[],1,2016-01-20 17:26:24,,CW-121,,,14,picture.jpg,thumbnail.jpg
+41,,Combination Wrench 12,[],1,2016-01-20 17:26:42,,CW-122,,,14,picture.jpg,thumbnail.jpg
+42,,Combination Wrench 13,[],1,2016-01-20 17:24:40,,CW-131,,,14,picture.jpg,thumbnail.jpg
+43,,Combination Wrench 13,[],1,2016-01-20 17:25:34,,CW-132,,,14,picture.jpg,thumbnail.jpg
+44,,Combination Wrench 13,[],1,2016-01-20 17:25:56,,CW-133,,,14,picture.jpg,thumbnail.jpg
+45,,Combination Wrench 13/16,,1,2016-01-20 11:49:09,,CW-1316,,,14,,
+46,,Combination Wrench 14,[],1,2016-01-20 17:23:15,,CW-141,,,14,picture.jpg,thumbnail.jpg
+47,,Combination Wrench 14,[],1,2016-01-20 17:23:50,,CW-142,,,14,picture.jpg,thumbnail.jpg
+48,,Combination Wrench 15,[],1,2016-01-20 17:22:26,,CW-151,,,14,picture.jpg,thumbnail.jpg
+49,,Combination Wrench 15,[],1,2016-01-20 17:22:53,,CW-152,,,14,picture.jpg,thumbnail.jpg
+50,,Combination Wrench 16,[],1,2016-01-20 17:21:26,,CW-16,,,14,picture.jpg,thumbnail.jpg
+51,,Combination Wrench 17,[],1,2016-01-20 17:20:07,,CW-171,,,14,picture.jpg,thumbnail.jpg
+52,,Combination Wrench 17,[],1,2016-01-20 17:20:36,,CW-172,,,14,picture.jpg,thumbnail.jpg
+53,,Combination Wrench 17,[],1,2016-01-20 17:20:54,,CW-173,,,14,picture.jpg,thumbnail.jpg
+54,,Combination Wrench 18,[],1,2016-01-20 17:19:26,,CW-181,,,14,picture.jpg,thumbnail.jpg
+55,,Combination Wrench 18,[],1,2016-01-20 17:19:49,,CW-182,,,14,picture.jpg,thumbnail.jpg
+56,,Combination Wrench 19,[],1,2016-01-20 17:17:18,,CW-191,,,14,picture.jpg,thumbnail.jpg
+57,,Combination Wrench 19,[],1,2016-01-20 17:17:51,,CW-192,,,14,picture.jpg,thumbnail.jpg
+58,,Combination Wrench 19,[],1,2016-01-20 17:18:11,,CW-193,,,14,picture.jpg,thumbnail.jpg
+59,,Combination Wrench 19,[],1,2016-01-20 17:18:34,,CW-194,,,14,picture.jpg,thumbnail.jpg
+60,,Combination Wrench 19,[],1,2016-01-20 17:18:59,,CW-195,,,14,picture.jpg,thumbnail.jpg
+61,,Combination Wrench 21,[],1,2016-01-20 17:16:08,,CW-211,,,14,picture.jpg,thumbnail.jpg
+62,,Combination Wrench 21,[],1,2016-01-20 17:16:24,,CW-212,,,14,picture.jpg,thumbnail.jpg
+63,,Combination Wrench 22,[],1,2016-01-20 17:15:46,,CW-22,,,14,picture.jpg,thumbnail.jpg
+64,,Combination Wrench 24,[],1,2016-01-20 17:08:34,,CW-25,,,14,picture.jpg,thumbnail.jpg
+65,,Combination Wrench 24,[],1,2016-01-20 17:08:51,,CW-241,,,14,picture.jpg,thumbnail.jpg
+66,,Combination Wrench 24,[],1,2016-01-20 17:09:05,,CW-242,,,14,picture.jpg,thumbnail.jpg
+67,,Combination Wrench 1 #1,[],1,2016-01-20 17:13:30,,CW-101,,,14,picture.jpg,thumbnail.jpg
+68,,Combination Wrench 1 #2,[],1,2016-01-20 17:12:16,,CW-102,,,14,picture.jpg,thumbnail.jpg
+69,,Combination Wrench 5/8,,1,2016-01-20 11:49:12,,CW-58,,,14,,
+70,,Combination Wrench 8,[],1,2016-01-20 17:08:09,,CW-8,,,14,picture.jpg,thumbnail.jpg
+71,,Combination Wrench 9/16,,1,2016-01-20 11:49:13,,CW-916,,,14,,
+72,,Flat file,,1,2016-01-20 11:49:13,,FF-01,,,15,,
+73,,Flat file,,1,2016-01-20 11:49:13,,FF-02,,,15,,
+74,,Round file,,1,2016-01-20 11:49:13,,RF-00,,,15,,
+75,,Flare Nut Wrench 13/14,[],1,2016-01-20 17:07:46,,FNW-1214,,,14,picture.jpg,thumbnail.jpg
+76,,Flare Nut Wrench 14 & 15,[],1,2016-01-20 17:07:29,,FRN-1415,,,14,picture.jpg,thumbnail.jpg
+77,,Flare Nut Wrench 8/9,[],1,2016-01-20 17:06:46,,FRN-89,,,14,picture.jpg,thumbnail.jpg
+78,,Hammer,,1,2016-01-20 11:49:14,,HM-1,,,16,,
+79,,Hammer,,1,2016-01-20 11:49:14,,HM-2,,,16,,
+80,,Mallet hammer,[],1,2016-04-07 15:05:52,,MH-1,,,16,,
+81,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-2,,,16,,
+82,,Mallet hammer,,1,2016-01-20 11:49:14,,MH-3,,,16,,
+83,,Cutting pliers,,1,2016-01-20 11:49:14,,CP-1,,,17,,
+84,,Cutting pliers,,1,2016-01-20 11:49:15,,CP-2,,,17,,
+85,,Linemans pliers,,1,2016-01-20 11:49:15,,LP-1,,,17,,
+86,,Locking pliers,,1,2016-01-20 11:49:15,,LP-0,,,17,,
+87,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-1,,,17,,
+88,,Long nose and needle nose pliers,,1,2016-01-20 11:49:15,,LNP-2,,,17,,
+89,,Needle pliers,,1,2016-01-20 11:49:15,,NN-0,,,17,,
+90,,Seeger pliers,,1,2016-01-20 11:49:15,,SP-1,,,17,,
+91,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-2,,,17,,
+92,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-3,,,17,,
+93,,Seeger pliers,,1,2016-01-20 11:49:16,,SP-4,,,17,,
+94,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-1,,,17,,
+95,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-2,,,17,,
+96,,Tongue and groove pliers,,1,2016-01-20 11:49:16,,TGP-3,,,17,,
+97,,Tongue and groove pliers,,1,2016-01-20 11:49:17,,TGP-4,,,17,,
+98,,Ratcheting Wrench 10 & 11,[],1,2016-04-07 15:06:28,,RW-1011,,,14,picture.jpg,thumbnail.jpg
+99,,Ratcheting Wrench 16 & 18,[],1,2016-01-20 17:06:16,,RW-1618,,,14,picture.jpg,thumbnail.jpg
+100,,Ratcheting Wrench 3/8 & 7/16,[],1,2016-01-20 17:28:37,,RW-387161,,,14,picture.jpg,thumbnail.jpg
+101,,Ratcheting Wrench 3/8 & 7/16,,1,2016-01-20 11:49:17,,RW-387162,,,14,,
+102,,Ratcheting Wrench 8 & 9,[],1,2016-01-20 17:05:51,,WE-89,,,14,picture.jpg,thumbnail.jpg
+103,,Cruciform screwdriver,,1,2016-01-20 11:49:17,,CSD-1,,,18,,
+104,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-2,,,18,,
+105,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-3,,,18,,
+106,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-4,,,18,,
+107,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-5,,,18,,
+108,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-6,,,18,,
+109,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-7,,,18,,
+110,,Cruciform screwdriver,,1,2016-01-20 11:49:18,,CSD-8,,,18,,
+111,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-9,,,18,,
+112,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-10,,,18,,
+113,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-11,,,18,,
+114,,Cruciform screwdriver,,1,2016-01-20 11:49:19,,CSD-12,,,18,,
+115,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-1,,,18,,
+116,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-2,,,18,,
+117,,Flat screwdriver,,1,2016-01-20 11:49:19,,FSD-3,,,18,,
+118,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-4,,,18,,
+119,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-5,,,18,,
+120,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-6,,,18,,
+121,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-7,,,18,,
+122,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-8,,,18,,
+123,,Flat screwdriver,,1,2016-01-20 11:49:20,,FSD-9,,,18,,
+124,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-10,,,18,,
+125,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-11,,,18,,
+126,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-12,,,18,,
+127,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-13,,,18,,
+128,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-14,,,18,,
+129,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-15,,,18,,
+130,,Flat screwdriver,,1,2016-01-20 11:49:21,,FSD-16,,,18,,
+131,,Multi-bit screwdriver,,1,2016-01-20 11:49:22,,MBSD-0,,,18,,
+132,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-1,,,18,,
+133,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-2,,,18,,
+134,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-3,,,18,,
+135,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-4,,,18,,
+136,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-5,,,18,,
+137,,Torx screwdriver,,1,2016-01-20 11:49:22,,TSD-6,,,18,,
+138,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-7,,,18,,
+139,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-8,,,18,,
+140,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-9,,,18,,
+141,,Torx screwdriver,,1,2016-01-20 11:49:23,,TSD-10,,,18,,
+142,,Socket wrench,,1,2016-01-20 11:49:23,,SW-381,,,19,,
+143,,Socket wrench,,1,2016-01-20 11:49:23,,SW-382,,,19,,
+144,,Socket wrench,,1,2016-01-20 11:49:23,,SW-383,,,19,,
+145,,Socket wrench,,1,2016-01-20 11:49:24,,SW-384,,,19,,
+146,,Socket wrench,,1,2016-01-20 11:49:24,,SW-385,,,19,,
+147,,Socket wrench,,1,2016-01-20 11:49:24,,SW-7750,,,19,,
+148,,Socket wrench,,1,2016-01-20 11:49:24,,SW-153,,,19,,
+149,,Socket wrench,,1,2016-01-20 11:49:24,,SW-151,,,19,,
+150,,Socket wrench,,1,2016-01-20 11:49:24,,SW-00,,,19,,
+151,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80501,,,19,,
+152,,Socket wrench,,1,2016-01-20 11:49:25,,SW-80502,,,19,,
+153,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:09,,IM-1,,,21,picture.jpg,thumbnail.jpg
+154,,Inspection Mirror 5515T-52,[],1,2016-01-20 16:54:26,,IM-2,,,21,picture.jpg,thumbnail.jpg
+155,,89 IV True-RMS Multimeter,[],1,2016-02-11 13:37:23,,MR-01,,,23,picture.jpg,thumbnail.jpg
+156,,Measuring tape,,1,2016-01-20 11:49:25,,MT-1,,,24,,
+157,,Measuring tape,,1,2016-01-20 11:49:25,,MT-2,,,24,,
+158,,Measureing doser,,1,2016-03-11 16:29:59,,MD-1,,,24,,
+159,,Measureing doser,,1,2016-03-11 16:29:59,,MD-2,,,24,,
+160,,Measureing doser,,1,2016-03-11 16:29:59,,MD-3,,,24,,
+161,,Thermometer 9ZTR410YT,[],1,2016-01-20 16:58:49,,TM-9,,,26,picture.jpg,thumbnail.jpg
+162,,Air Die Grinder DR300-T2000,,1,2016-01-20 11:49:26,,ADG-T200,,,28,,
+163,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:26,,ADG-T5501,,,28,,
+164,,Air Die Grinder DR300-T550,,1,2016-01-20 11:49:27,,ADG-T5502,,,28,,
+165,,Air Die GrinderLBV24S019-91,,1,2016-01-20 11:49:27,,ADG-91,,,28,,
+166,,Air Hammer nø133L46,,1,2016-01-20 11:49:27,,AH-133L46,,,29,,
+167,,Air Hammer nø81477,,1,2016-01-20 11:49:27,,AH-81477,,,29,,
+168,,Air Ratchet Wrench nø0184,,1,2016-01-20 11:49:27,,ARW-01184,,,30,,
+169,,Air Riveter nø1031,,1,2016-01-20 11:49:34,,AR-1031,,,31,,
+170,,Air Screwdriver nø0058,,1,2016-01-20 11:49:34,,AS-0058,,,32,,
+171,,Air Screwdriver nø0062,[],1,2016-04-05 13:37:20,,AS-0062,,,32,,
+172,,Air Screwdriver nø0063,,1,2016-01-20 11:49:34,,AS-0063,,,32,,
+173,,Air Screwdriver nø0066,,1,2016-01-20 11:49:34,,AS-0066,,,32,,
+174,,Duty Air Wrench nø0299,,1,2016-01-20 11:49:35,,DAW-0299,,,33,,
+175,,Duty Air Wrench nø1248122,,1,2016-01-20 11:49:35,,DAW-1248122,,,33,,
+176,,Duty Pistol Air Drill nø11220311,,1,2016-01-20 11:49:35,,DPA-11220311,,,30,,
+177,,Duty Pistol Air Drill nø11220321,,1,2016-01-20 11:49:35,,DPA-11220321,,,30,,
+178,,Duty Pistol Air Drill nø11220329,,1,2016-01-20 11:49:35,,DPA-11220329,,,30,,
+179,,Duty Pistol Air Drill nø11220336,,1,2016-01-20 11:49:35,,DPA-11220336,,,30,,
+180,,Duty Pistol Air Drill nø11230296,,1,2016-01-20 11:49:36,,DPA-11230296,,,30,,
+181,,Duty Pistol Air Drill nø11230303,,1,2016-01-20 11:49:36,,DPA-11230303,,,30,,
+182,,Light Duty Pistol Air Drill DR350-P3000,,1,2016-01-20 11:49:36,,LDP-3000,,,30,,
+183,,Light Duty Pistol Air Drill DR350-P5500,,1,2016-01-20 11:49:36,,LDP-5500,,,30,,
+184,,Light Duty Pistol Air Drill DR500-P2700,,1,2016-01-20 11:49:36,,LDP-2700,,,30,,
+185,,Pneumatic Clamp nø52,,1,2016-01-20 11:49:36,,PC-52,,,34,,
+186,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-1,,,47,,
+187,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-2,,,47,,
+188,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-0642,,,36,,
+189,,Torque Wrench,[],1,2016-01-21 14:50:01,,TW-0680,,,36,,
+190,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-7380,,,36,,
+191,,Torque Wrench,,1,2016-01-20 11:49:37,,TW-5630,,,36,,
+192,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-8437,,,36,,
+193,,Torque Wrench,,1,2016-01-20 11:49:38,,TW-1562,,,36,,
+194,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-0238,,,47,,
+195,,Torque Wrench,,1,2016-03-11 16:30:37,,TW-5057,,,47,,
+196,,Drill Box,[],1,2016-01-21 09:07:18,,DB-14,,,3,,
+197,,Cutting Pliers,[],1,2016-01-21 13:11:11,,CP-3,,,17,,
+198,,Socket Wrench,[],1,2016-04-07 15:07:07,,SW-386,,,19,,
+199,,Socket wrench,[],1,2016-01-21 13:41:30,,SW-387,,,19,,
+200,,Torque Wrench,[],1,2016-03-11 16:30:37,,TW-5069,,,47,,
+210,,Test Wrench 10,[],1,2016-03-11 17:08:17,,TW-010,,,39,,
+402,,ToolBox,[],1,2016-02-22 18:11:59,,TB-001,,,42,,
+404,,N-M4,[],1,2016-03-23 09:09:37,,Nut m4,Batch of 5,,45,,
+407,,CHC_20D_long,[],1,2016-03-16 09:55:19,,CHC_20_long,Pce,,48,,
+408,,CHC_10 Large,[],1,2016-03-11 17:36:31,,CHC_10 Large,pce,,48,,
+409,,Torque Wrench,[],1,2016-03-03 17:35:08,,TW-270,,,36,,
+410,,Torque Wrench,[],1,2016-03-03 17:55:50,,TW-697,,,36,,
+411,,Torque Wrench,[],1,2016-03-03 17:56:01,,TW-694,,,36,,
+412,,Torque Wrench,[],1,2016-03-03 17:56:11,,TW-271,,,36,,
+415,,IP,[],1,2016-03-23 09:13:43,,Inox part,pce,,44,,
+416,erfezzzzzzzzzzzzzzzzzzr,TEST_REF_SL_Des,[],1,2016-03-22 11:52:12,fgerferfezfez,TEST_REF_SL_Code,feeeeeee,fffffffffff,49,picture.png,thumbnail.png

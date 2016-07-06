@@ -1,0 +1,640 @@
+1,Showroom Sophia,Showroom,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-02-04 15:54:55,admin,RECEIVE
+2,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-09 17:44:09,admin,RECEIVE
+3,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-09 17:44:10,admin,RECEIVE
+4,Showroom Sophia,Showroom,Combination Wrench 10,Wrench,CW-10,Combination Wrench 10,1,2016-02-09 17:44:11,admin,RECEIVE
+5,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+6,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+7,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-09 17:44:13,admin,RECEIVE
+8,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-09 17:44:14,admin,RECEIVE
+9,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-09 17:44:15,admin,RECEIVE
+10,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-09 17:44:15,admin,RECEIVE
+11,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-09 17:44:16,admin,RECEIVE
+12,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-09 17:44:17,admin,RECEIVE
+13,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-09 17:44:18,admin,RECEIVE
+14,Showroom Sophia,Showroom,Drill Box #10,Box,DB-10,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+15,Showroom Sophia,Showroom,Drill Box #5,Box,DB-5,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+16,Showroom Sophia,Showroom,Drill Box #6,Box,DB-6,Drill box,1,2016-02-09 17:44:20,admin,RECEIVE
+17,Showroom Sophia,Showroom,Drill Box #7,Box,DB-7,Drill box,1,2016-02-09 17:44:21,admin,RECEIVE
+18,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-09 17:44:22,admin,RECEIVE
+19,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+20,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+21,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-09 17:44:24,admin,RECEIVE
+22,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-09 17:44:25,admin,RECEIVE
+23,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:26,admin,RECEIVE
+24,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:27,admin,RECEIVE
+25,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-09 17:44:28,admin,RECEIVE
+26,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-09 17:44:28,admin,RECEIVE
+27,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-09 17:44:29,admin,RECEIVE
+28,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-09 17:44:30,admin,RECEIVE
+29,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-09 17:44:31,admin,RECEIVE
+30,Showroom Sophia/Store,A1,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-02-10 17:12:11,admin,RECEIVE
+31,Showroom Sophia,Showroom,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 10:24:08,admin,RECEIVE
+32,Showroom Sophia/site 1/bat 1,armoire 1,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 11:12:18,admin,RECEIVE
+33,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-11 11:32:03,admin,RECEIVE
+34,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-11 11:32:04,admin,RECEIVE
+35,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-11 11:32:05,admin,RECEIVE
+36,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-11 11:32:06,admin,RECEIVE
+37,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-11 11:32:06,admin,RECEIVE
+38,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-11 11:32:07,admin,RECEIVE
+39,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-11 11:32:08,admin,RECEIVE
+40,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-11 11:32:08,admin,RECEIVE
+41,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-11 11:32:09,admin,RECEIVE
+42,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+43,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+44,Showroom Sophia,Showroom,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-02-11 11:32:11,admin,RECEIVE
+45,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-11 11:32:12,admin,RECEIVE
+46,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+47,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+48,Showroom Sophia,Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-02-11 11:32:14,admin,RECEIVE
+49,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-11 11:32:15,admin,RECEIVE
+50,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-11 11:32:16,admin,RECEIVE
+51,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:16,admin,RECEIVE
+52,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:17,admin,RECEIVE
+53,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-11 11:32:18,admin,RECEIVE
+54,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+55,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+56,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-11 11:32:20,admin,RECEIVE
+57,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-11 11:32:21,admin,RECEIVE
+58,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:00:30,slafoy06,RECEIVE
+59,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:01:46,slafoy06,RECEIVE
+60,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:03:30,slafoy06,RECEIVE
+61,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:06,slafoy06,RECEIVE
+62,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:33,slafoy06,RECEIVE
+63,Showroom Sophia,ToolBox,EMB_DPIU122,TEST_SL,EmbIP1_TEST,Emb_TEST_IP1,1,2016-03-10 14:26:10,slafoy06,RECEIVE
+64,Showroom Sophia/TEST_LOC,TEST_EMP1,,TEST_SL,Boite_TEST_Vert,Boite_TEST_Vert,20,2016-03-10 14:27:29,slafoy06,RECEIVE
+65,Showroom Sophia,Desk,Box End Wrench 2/8 7/16,Wrench,BED-28716,Box End Wrench 2/8 7/16,1,2016-03-10 14:38:58,slafoy06,RECEIVE
+66,Showroom Sophia,Desk,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+67,Showroom Sophia,Desk,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+68,Showroom Sophia,Desk,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-03-10 14:39:00,slafoy06,RECEIVE
+69,Showroom Sophia,Desk,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-10 14:39:01,slafoy06,RECEIVE
+70,Showroom Sophia,Desk,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+71,Showroom Sophia,Desk,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+72,Showroom Sophia,Desk,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-03-10 14:39:03,slafoy06,RECEIVE
+73,Showroom Sophia,Desk,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-03-10 14:39:04,slafoy06,RECEIVE
+74,Showroom Sophia,Desk,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-03-10 14:39:05,slafoy06,RECEIVE
+75,Showroom Sophia,Desk,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-10 14:39:06,slafoy06,RECEIVE
+76,Showroom Sophia,Desk,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+77,Showroom Sophia,Desk,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+78,Showroom Sophia,Desk,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-03-10 14:39:08,slafoy06,RECEIVE
+79,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:09,slafoy06,RECEIVE
+80,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:10,slafoy06,RECEIVE
+81,Showroom Sophia,Desk,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-03-10 14:39:11,slafoy06,RECEIVE
+82,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+83,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+84,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-03-10 14:39:13,slafoy06,RECEIVE
+85,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-03-10 14:39:14,slafoy06,RECEIVE
+86,Showroom Sophia/Store,A2,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-21 16:41:41,admin,RECEIVE
+87,Showroom Sophia/Store,A2,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-21 16:41:41,admin,RECEIVE
+88,Showroom Sophia/Store,A2,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-21 16:41:42,admin,RECEIVE
+89,Showroom Sophia/Store,A2,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-03-21 16:41:43,admin,RECEIVE
+90,Showroom Sophia/Store,A2,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-21 16:41:44,admin,RECEIVE
+91,Showroom Sophia/Store,A2,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-21 16:41:44,admin,RECEIVE
+92,Showroom Sophia/Store,A2,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-21 16:41:45,admin,RECEIVE
+93,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:22:43,admin,RECEIVE
+94,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:23:16,admin,RECEIVE
+95,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:23:46,admin,RECEIVE
+96,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:28:39,admin,RECEIVE
+97,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:28:52,admin,RECEIVE
+98,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:29:08,admin,RECEIVE
+99,Showroom Sophia,Desk Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-04-12 09:33:21,yannickl,RECEIVE
+100,Showroom Sophia,Desk Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-04-12 09:33:22,yannickl,RECEIVE
+101,Showroom Sophia,Desk Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-04-12 09:33:23,yannickl,RECEIVE
+102,Showroom Sophia,Desk Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-04-12 09:33:23,yannickl,RECEIVE
+103,Showroom Sophia,Desk Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-04-12 09:33:24,yannickl,RECEIVE
+104,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:25,yannickl,RECEIVE
+105,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:26,yannickl,RECEIVE
+106,Showroom Sophia,Desk Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-04-12 09:33:27,yannickl,RECEIVE
+107,Showroom Sophia/Store ,A2,Drill Box #1,Box,DB-1,Drill box,1,2016-04-12 09:35:55,yannickl,RECEIVE
+108,Showroom Sophia/Store ,A2,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-04-12 09:36:42,yannickl,RECEIVE
+109,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+110,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+111,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+112,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+113,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+114,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+115,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+116,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+117,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+118,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+119,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+120,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+121,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+122,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+123,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+124,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+125,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+126,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+127,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+128,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+1,Showroom Sophia,Showroom,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-02-04 15:54:55,admin,RECEIVE
+2,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-09 17:44:09,admin,RECEIVE
+3,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-09 17:44:10,admin,RECEIVE
+4,Showroom Sophia,Showroom,Combination Wrench 10,Wrench,CW-10,Combination Wrench 10,1,2016-02-09 17:44:11,admin,RECEIVE
+5,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+6,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+7,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-09 17:44:13,admin,RECEIVE
+8,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-09 17:44:14,admin,RECEIVE
+9,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-09 17:44:15,admin,RECEIVE
+10,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-09 17:44:15,admin,RECEIVE
+11,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-09 17:44:16,admin,RECEIVE
+12,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-09 17:44:17,admin,RECEIVE
+13,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-09 17:44:18,admin,RECEIVE
+14,Showroom Sophia,Showroom,Drill Box #10,Box,DB-10,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+15,Showroom Sophia,Showroom,Drill Box #5,Box,DB-5,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+16,Showroom Sophia,Showroom,Drill Box #6,Box,DB-6,Drill box,1,2016-02-09 17:44:20,admin,RECEIVE
+17,Showroom Sophia,Showroom,Drill Box #7,Box,DB-7,Drill box,1,2016-02-09 17:44:21,admin,RECEIVE
+18,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-09 17:44:22,admin,RECEIVE
+19,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+20,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+21,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-09 17:44:24,admin,RECEIVE
+22,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-09 17:44:25,admin,RECEIVE
+23,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:26,admin,RECEIVE
+24,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:27,admin,RECEIVE
+25,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-09 17:44:28,admin,RECEIVE
+26,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-09 17:44:28,admin,RECEIVE
+27,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-09 17:44:29,admin,RECEIVE
+28,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-09 17:44:30,admin,RECEIVE
+29,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-09 17:44:31,admin,RECEIVE
+30,Showroom Sophia/Store,A1,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-02-10 17:12:11,admin,RECEIVE
+31,Showroom Sophia,Showroom,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 10:24:08,admin,RECEIVE
+32,Showroom Sophia/site 1/bat 1,armoire 1,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 11:12:18,admin,RECEIVE
+33,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-11 11:32:03,admin,RECEIVE
+34,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-11 11:32:04,admin,RECEIVE
+35,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-11 11:32:05,admin,RECEIVE
+36,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-11 11:32:06,admin,RECEIVE
+37,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-11 11:32:06,admin,RECEIVE
+38,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-11 11:32:07,admin,RECEIVE
+39,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-11 11:32:08,admin,RECEIVE
+40,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-11 11:32:08,admin,RECEIVE
+41,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-11 11:32:09,admin,RECEIVE
+42,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+43,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+44,Showroom Sophia,Showroom,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-02-11 11:32:11,admin,RECEIVE
+45,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-11 11:32:12,admin,RECEIVE
+46,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+47,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+48,Showroom Sophia,Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-02-11 11:32:14,admin,RECEIVE
+49,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-11 11:32:15,admin,RECEIVE
+50,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-11 11:32:16,admin,RECEIVE
+51,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:16,admin,RECEIVE
+52,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:17,admin,RECEIVE
+53,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-11 11:32:18,admin,RECEIVE
+54,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+55,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+56,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-11 11:32:20,admin,RECEIVE
+57,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-11 11:32:21,admin,RECEIVE
+58,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:00:30,slafoy06,RECEIVE
+59,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:01:46,slafoy06,RECEIVE
+60,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:03:30,slafoy06,RECEIVE
+61,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:06,slafoy06,RECEIVE
+62,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:33,slafoy06,RECEIVE
+63,Showroom Sophia,ToolBox,EMB_DPIU122,TEST_SL,EmbIP1_TEST,Emb_TEST_IP1,1,2016-03-10 14:26:10,slafoy06,RECEIVE
+64,Showroom Sophia/TEST_LOC,TEST_EMP1,,TEST_SL,Boite_TEST_Vert,Boite_TEST_Vert,20,2016-03-10 14:27:29,slafoy06,RECEIVE
+65,Showroom Sophia,Desk,Box End Wrench 2/8 7/16,Wrench,BED-28716,Box End Wrench 2/8 7/16,1,2016-03-10 14:38:58,slafoy06,RECEIVE
+66,Showroom Sophia,Desk,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+67,Showroom Sophia,Desk,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+68,Showroom Sophia,Desk,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-03-10 14:39:00,slafoy06,RECEIVE
+69,Showroom Sophia,Desk,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-10 14:39:01,slafoy06,RECEIVE
+70,Showroom Sophia,Desk,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+71,Showroom Sophia,Desk,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+72,Showroom Sophia,Desk,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-03-10 14:39:03,slafoy06,RECEIVE
+73,Showroom Sophia,Desk,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-03-10 14:39:04,slafoy06,RECEIVE
+74,Showroom Sophia,Desk,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-03-10 14:39:05,slafoy06,RECEIVE
+75,Showroom Sophia,Desk,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-10 14:39:06,slafoy06,RECEIVE
+76,Showroom Sophia,Desk,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+77,Showroom Sophia,Desk,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+78,Showroom Sophia,Desk,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-03-10 14:39:08,slafoy06,RECEIVE
+79,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:09,slafoy06,RECEIVE
+80,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:10,slafoy06,RECEIVE
+81,Showroom Sophia,Desk,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-03-10 14:39:11,slafoy06,RECEIVE
+82,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+83,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+84,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-03-10 14:39:13,slafoy06,RECEIVE
+85,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-03-10 14:39:14,slafoy06,RECEIVE
+86,Showroom Sophia/Store,A2,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-21 16:41:41,admin,RECEIVE
+87,Showroom Sophia/Store,A2,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-21 16:41:41,admin,RECEIVE
+88,Showroom Sophia/Store,A2,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-21 16:41:42,admin,RECEIVE
+89,Showroom Sophia/Store,A2,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-03-21 16:41:43,admin,RECEIVE
+90,Showroom Sophia/Store,A2,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-21 16:41:44,admin,RECEIVE
+91,Showroom Sophia/Store,A2,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-21 16:41:44,admin,RECEIVE
+92,Showroom Sophia/Store,A2,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-21 16:41:45,admin,RECEIVE
+93,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:22:43,admin,RECEIVE
+94,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:23:16,admin,RECEIVE
+95,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:23:46,admin,RECEIVE
+96,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:28:39,admin,RECEIVE
+97,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:28:52,admin,RECEIVE
+98,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:29:08,admin,RECEIVE
+99,Showroom Sophia,Desk Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-04-12 09:33:21,yannickl,RECEIVE
+100,Showroom Sophia,Desk Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-04-12 09:33:22,yannickl,RECEIVE
+101,Showroom Sophia,Desk Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-04-12 09:33:23,yannickl,RECEIVE
+102,Showroom Sophia,Desk Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-04-12 09:33:23,yannickl,RECEIVE
+103,Showroom Sophia,Desk Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-04-12 09:33:24,yannickl,RECEIVE
+104,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:25,yannickl,RECEIVE
+105,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:26,yannickl,RECEIVE
+106,Showroom Sophia,Desk Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-04-12 09:33:27,yannickl,RECEIVE
+107,Showroom Sophia/Store ,A2,Drill Box #1,Box,DB-1,Drill box,1,2016-04-12 09:35:55,yannickl,RECEIVE
+108,Showroom Sophia/Store ,A2,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-04-12 09:36:42,yannickl,RECEIVE
+109,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+110,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+111,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+112,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+113,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+114,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+115,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+116,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+117,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+118,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+119,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+120,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+121,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+122,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+123,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+124,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+125,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+126,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+127,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+128,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+1,Showroom Sophia,Showroom,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-02-04 15:54:55,admin,RECEIVE
+2,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-09 17:44:09,admin,RECEIVE
+3,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-09 17:44:10,admin,RECEIVE
+4,Showroom Sophia,Showroom,Combination Wrench 10,Wrench,CW-10,Combination Wrench 10,1,2016-02-09 17:44:11,admin,RECEIVE
+5,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+6,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+7,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-09 17:44:13,admin,RECEIVE
+8,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-09 17:44:14,admin,RECEIVE
+9,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-09 17:44:15,admin,RECEIVE
+10,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-09 17:44:15,admin,RECEIVE
+11,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-09 17:44:16,admin,RECEIVE
+12,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-09 17:44:17,admin,RECEIVE
+13,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-09 17:44:18,admin,RECEIVE
+14,Showroom Sophia,Showroom,Drill Box #10,Box,DB-10,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+15,Showroom Sophia,Showroom,Drill Box #5,Box,DB-5,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+16,Showroom Sophia,Showroom,Drill Box #6,Box,DB-6,Drill box,1,2016-02-09 17:44:20,admin,RECEIVE
+17,Showroom Sophia,Showroom,Drill Box #7,Box,DB-7,Drill box,1,2016-02-09 17:44:21,admin,RECEIVE
+18,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-09 17:44:22,admin,RECEIVE
+19,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+20,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+21,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-09 17:44:24,admin,RECEIVE
+22,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-09 17:44:25,admin,RECEIVE
+23,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:26,admin,RECEIVE
+24,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:27,admin,RECEIVE
+25,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-09 17:44:28,admin,RECEIVE
+26,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-09 17:44:28,admin,RECEIVE
+27,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-09 17:44:29,admin,RECEIVE
+28,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-09 17:44:30,admin,RECEIVE
+29,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-09 17:44:31,admin,RECEIVE
+30,Showroom Sophia/Store,A1,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-02-10 17:12:11,admin,RECEIVE
+31,Showroom Sophia,Showroom,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 10:24:08,admin,RECEIVE
+32,Showroom Sophia/site 1/bat 1,armoire 1,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 11:12:18,admin,RECEIVE
+33,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-11 11:32:03,admin,RECEIVE
+34,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-11 11:32:04,admin,RECEIVE
+35,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-11 11:32:05,admin,RECEIVE
+36,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-11 11:32:06,admin,RECEIVE
+37,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-11 11:32:06,admin,RECEIVE
+38,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-11 11:32:07,admin,RECEIVE
+39,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-11 11:32:08,admin,RECEIVE
+40,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-11 11:32:08,admin,RECEIVE
+41,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-11 11:32:09,admin,RECEIVE
+42,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+43,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+44,Showroom Sophia,Showroom,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-02-11 11:32:11,admin,RECEIVE
+45,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-11 11:32:12,admin,RECEIVE
+46,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+47,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+48,Showroom Sophia,Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-02-11 11:32:14,admin,RECEIVE
+49,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-11 11:32:15,admin,RECEIVE
+50,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-11 11:32:16,admin,RECEIVE
+51,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:16,admin,RECEIVE
+52,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:17,admin,RECEIVE
+53,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-11 11:32:18,admin,RECEIVE
+54,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+55,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+56,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-11 11:32:20,admin,RECEIVE
+57,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-11 11:32:21,admin,RECEIVE
+58,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:00:30,slafoy06,RECEIVE
+59,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:01:46,slafoy06,RECEIVE
+60,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:03:30,slafoy06,RECEIVE
+61,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:06,slafoy06,RECEIVE
+62,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:33,slafoy06,RECEIVE
+63,Showroom Sophia,ToolBox,EMB_DPIU122,TEST_SL,EmbIP1_TEST,Emb_TEST_IP1,1,2016-03-10 14:26:10,slafoy06,RECEIVE
+64,Showroom Sophia/TEST_LOC,TEST_EMP1,,TEST_SL,Boite_TEST_Vert,Boite_TEST_Vert,20,2016-03-10 14:27:29,slafoy06,RECEIVE
+65,Showroom Sophia,Desk,Box End Wrench 2/8 7/16,Wrench,BED-28716,Box End Wrench 2/8 7/16,1,2016-03-10 14:38:58,slafoy06,RECEIVE
+66,Showroom Sophia,Desk,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+67,Showroom Sophia,Desk,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+68,Showroom Sophia,Desk,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-03-10 14:39:00,slafoy06,RECEIVE
+69,Showroom Sophia,Desk,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-10 14:39:01,slafoy06,RECEIVE
+70,Showroom Sophia,Desk,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+71,Showroom Sophia,Desk,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+72,Showroom Sophia,Desk,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-03-10 14:39:03,slafoy06,RECEIVE
+73,Showroom Sophia,Desk,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-03-10 14:39:04,slafoy06,RECEIVE
+74,Showroom Sophia,Desk,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-03-10 14:39:05,slafoy06,RECEIVE
+75,Showroom Sophia,Desk,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-10 14:39:06,slafoy06,RECEIVE
+76,Showroom Sophia,Desk,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+77,Showroom Sophia,Desk,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+78,Showroom Sophia,Desk,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-03-10 14:39:08,slafoy06,RECEIVE
+79,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:09,slafoy06,RECEIVE
+80,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:10,slafoy06,RECEIVE
+81,Showroom Sophia,Desk,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-03-10 14:39:11,slafoy06,RECEIVE
+82,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+83,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+84,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-03-10 14:39:13,slafoy06,RECEIVE
+85,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-03-10 14:39:14,slafoy06,RECEIVE
+86,Showroom Sophia/Store,A2,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-21 16:41:41,admin,RECEIVE
+87,Showroom Sophia/Store,A2,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-21 16:41:41,admin,RECEIVE
+88,Showroom Sophia/Store,A2,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-21 16:41:42,admin,RECEIVE
+89,Showroom Sophia/Store,A2,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-03-21 16:41:43,admin,RECEIVE
+90,Showroom Sophia/Store,A2,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-21 16:41:44,admin,RECEIVE
+91,Showroom Sophia/Store,A2,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-21 16:41:44,admin,RECEIVE
+92,Showroom Sophia/Store,A2,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-21 16:41:45,admin,RECEIVE
+93,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:22:43,admin,RECEIVE
+94,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:23:16,admin,RECEIVE
+95,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:23:46,admin,RECEIVE
+96,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:28:39,admin,RECEIVE
+97,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:28:52,admin,RECEIVE
+98,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:29:08,admin,RECEIVE
+99,Showroom Sophia,Desk Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-04-12 09:33:21,yannickl,RECEIVE
+100,Showroom Sophia,Desk Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-04-12 09:33:22,yannickl,RECEIVE
+101,Showroom Sophia,Desk Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-04-12 09:33:23,yannickl,RECEIVE
+102,Showroom Sophia,Desk Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-04-12 09:33:23,yannickl,RECEIVE
+103,Showroom Sophia,Desk Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-04-12 09:33:24,yannickl,RECEIVE
+104,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:25,yannickl,RECEIVE
+105,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:26,yannickl,RECEIVE
+106,Showroom Sophia,Desk Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-04-12 09:33:27,yannickl,RECEIVE
+107,Showroom Sophia/Store ,A2,Drill Box #1,Box,DB-1,Drill box,1,2016-04-12 09:35:55,yannickl,RECEIVE
+108,Showroom Sophia/Store ,A2,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-04-12 09:36:42,yannickl,RECEIVE
+109,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+110,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+111,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+112,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+113,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+114,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+115,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+116,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+117,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+118,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+119,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+120,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+121,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+122,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+123,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+124,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+125,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+126,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+127,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+128,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+1,Showroom Sophia,Showroom,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-02-04 15:54:55,admin,RECEIVE
+2,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-09 17:44:09,admin,RECEIVE
+3,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-09 17:44:10,admin,RECEIVE
+4,Showroom Sophia,Showroom,Combination Wrench 10,Wrench,CW-10,Combination Wrench 10,1,2016-02-09 17:44:11,admin,RECEIVE
+5,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+6,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+7,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-09 17:44:13,admin,RECEIVE
+8,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-09 17:44:14,admin,RECEIVE
+9,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-09 17:44:15,admin,RECEIVE
+10,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-09 17:44:15,admin,RECEIVE
+11,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-09 17:44:16,admin,RECEIVE
+12,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-09 17:44:17,admin,RECEIVE
+13,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-09 17:44:18,admin,RECEIVE
+14,Showroom Sophia,Showroom,Drill Box #10,Box,DB-10,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+15,Showroom Sophia,Showroom,Drill Box #5,Box,DB-5,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+16,Showroom Sophia,Showroom,Drill Box #6,Box,DB-6,Drill box,1,2016-02-09 17:44:20,admin,RECEIVE
+17,Showroom Sophia,Showroom,Drill Box #7,Box,DB-7,Drill box,1,2016-02-09 17:44:21,admin,RECEIVE
+18,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-09 17:44:22,admin,RECEIVE
+19,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+20,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+21,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-09 17:44:24,admin,RECEIVE
+22,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-09 17:44:25,admin,RECEIVE
+23,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:26,admin,RECEIVE
+24,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:27,admin,RECEIVE
+25,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-09 17:44:28,admin,RECEIVE
+26,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-09 17:44:28,admin,RECEIVE
+27,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-09 17:44:29,admin,RECEIVE
+28,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-09 17:44:30,admin,RECEIVE
+29,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-09 17:44:31,admin,RECEIVE
+30,Showroom Sophia/Store,A1,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-02-10 17:12:11,admin,RECEIVE
+31,Showroom Sophia,Showroom,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 10:24:08,admin,RECEIVE
+32,Showroom Sophia/site 1/bat 1,armoire 1,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 11:12:18,admin,RECEIVE
+33,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-11 11:32:03,admin,RECEIVE
+34,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-11 11:32:04,admin,RECEIVE
+35,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-11 11:32:05,admin,RECEIVE
+36,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-11 11:32:06,admin,RECEIVE
+37,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-11 11:32:06,admin,RECEIVE
+38,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-11 11:32:07,admin,RECEIVE
+39,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-11 11:32:08,admin,RECEIVE
+40,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-11 11:32:08,admin,RECEIVE
+41,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-11 11:32:09,admin,RECEIVE
+42,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+43,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+44,Showroom Sophia,Showroom,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-02-11 11:32:11,admin,RECEIVE
+45,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-11 11:32:12,admin,RECEIVE
+46,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+47,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+48,Showroom Sophia,Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-02-11 11:32:14,admin,RECEIVE
+49,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-11 11:32:15,admin,RECEIVE
+50,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-11 11:32:16,admin,RECEIVE
+51,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:16,admin,RECEIVE
+52,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:17,admin,RECEIVE
+53,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-11 11:32:18,admin,RECEIVE
+54,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+55,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+56,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-11 11:32:20,admin,RECEIVE
+57,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-11 11:32:21,admin,RECEIVE
+58,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:00:30,slafoy06,RECEIVE
+59,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:01:46,slafoy06,RECEIVE
+60,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:03:30,slafoy06,RECEIVE
+61,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:06,slafoy06,RECEIVE
+62,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:33,slafoy06,RECEIVE
+63,Showroom Sophia,ToolBox,EMB_DPIU122,TEST_SL,EmbIP1_TEST,Emb_TEST_IP1,1,2016-03-10 14:26:10,slafoy06,RECEIVE
+64,Showroom Sophia/TEST_LOC,TEST_EMP1,,TEST_SL,Boite_TEST_Vert,Boite_TEST_Vert,20,2016-03-10 14:27:29,slafoy06,RECEIVE
+65,Showroom Sophia,Desk,Box End Wrench 2/8 7/16,Wrench,BED-28716,Box End Wrench 2/8 7/16,1,2016-03-10 14:38:58,slafoy06,RECEIVE
+66,Showroom Sophia,Desk,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+67,Showroom Sophia,Desk,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+68,Showroom Sophia,Desk,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-03-10 14:39:00,slafoy06,RECEIVE
+69,Showroom Sophia,Desk,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-10 14:39:01,slafoy06,RECEIVE
+70,Showroom Sophia,Desk,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+71,Showroom Sophia,Desk,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+72,Showroom Sophia,Desk,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-03-10 14:39:03,slafoy06,RECEIVE
+73,Showroom Sophia,Desk,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-03-10 14:39:04,slafoy06,RECEIVE
+74,Showroom Sophia,Desk,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-03-10 14:39:05,slafoy06,RECEIVE
+75,Showroom Sophia,Desk,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-10 14:39:06,slafoy06,RECEIVE
+76,Showroom Sophia,Desk,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+77,Showroom Sophia,Desk,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+78,Showroom Sophia,Desk,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-03-10 14:39:08,slafoy06,RECEIVE
+79,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:09,slafoy06,RECEIVE
+80,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:10,slafoy06,RECEIVE
+81,Showroom Sophia,Desk,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-03-10 14:39:11,slafoy06,RECEIVE
+82,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+83,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+84,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-03-10 14:39:13,slafoy06,RECEIVE
+85,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-03-10 14:39:14,slafoy06,RECEIVE
+86,Showroom Sophia/Store,A2,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-21 16:41:41,admin,RECEIVE
+87,Showroom Sophia/Store,A2,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-21 16:41:41,admin,RECEIVE
+88,Showroom Sophia/Store,A2,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-21 16:41:42,admin,RECEIVE
+89,Showroom Sophia/Store,A2,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-03-21 16:41:43,admin,RECEIVE
+90,Showroom Sophia/Store,A2,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-21 16:41:44,admin,RECEIVE
+91,Showroom Sophia/Store,A2,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-21 16:41:44,admin,RECEIVE
+92,Showroom Sophia/Store,A2,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-21 16:41:45,admin,RECEIVE
+93,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:22:43,admin,RECEIVE
+94,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:23:16,admin,RECEIVE
+95,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:23:46,admin,RECEIVE
+96,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:28:39,admin,RECEIVE
+97,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:28:52,admin,RECEIVE
+98,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:29:08,admin,RECEIVE
+99,Showroom Sophia,Desk Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-04-12 09:33:21,yannickl,RECEIVE
+100,Showroom Sophia,Desk Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-04-12 09:33:22,yannickl,RECEIVE
+101,Showroom Sophia,Desk Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-04-12 09:33:23,yannickl,RECEIVE
+102,Showroom Sophia,Desk Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-04-12 09:33:23,yannickl,RECEIVE
+103,Showroom Sophia,Desk Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-04-12 09:33:24,yannickl,RECEIVE
+104,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:25,yannickl,RECEIVE
+105,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:26,yannickl,RECEIVE
+106,Showroom Sophia,Desk Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-04-12 09:33:27,yannickl,RECEIVE
+107,Showroom Sophia/Store ,A2,Drill Box #1,Box,DB-1,Drill box,1,2016-04-12 09:35:55,yannickl,RECEIVE
+108,Showroom Sophia/Store ,A2,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-04-12 09:36:42,yannickl,RECEIVE
+109,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+110,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+111,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+112,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+113,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+114,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+115,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+116,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+117,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+118,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+119,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+120,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+121,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+122,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+123,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+124,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+125,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+126,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+127,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+128,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+1,Showroom Sophia,Showroom,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-02-04 15:54:55,admin,RECEIVE
+2,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-09 17:44:09,admin,RECEIVE
+3,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-09 17:44:10,admin,RECEIVE
+4,Showroom Sophia,Showroom,Combination Wrench 10,Wrench,CW-10,Combination Wrench 10,1,2016-02-09 17:44:11,admin,RECEIVE
+5,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+6,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-09 17:44:12,admin,RECEIVE
+7,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-09 17:44:13,admin,RECEIVE
+8,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-09 17:44:14,admin,RECEIVE
+9,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-09 17:44:15,admin,RECEIVE
+10,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-09 17:44:15,admin,RECEIVE
+11,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-09 17:44:16,admin,RECEIVE
+12,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-09 17:44:17,admin,RECEIVE
+13,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-09 17:44:18,admin,RECEIVE
+14,Showroom Sophia,Showroom,Drill Box #10,Box,DB-10,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+15,Showroom Sophia,Showroom,Drill Box #5,Box,DB-5,Drill box,1,2016-02-09 17:44:19,admin,RECEIVE
+16,Showroom Sophia,Showroom,Drill Box #6,Box,DB-6,Drill box,1,2016-02-09 17:44:20,admin,RECEIVE
+17,Showroom Sophia,Showroom,Drill Box #7,Box,DB-7,Drill box,1,2016-02-09 17:44:21,admin,RECEIVE
+18,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-09 17:44:22,admin,RECEIVE
+19,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+20,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-09 17:44:23,admin,RECEIVE
+21,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-09 17:44:24,admin,RECEIVE
+22,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-09 17:44:25,admin,RECEIVE
+23,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:26,admin,RECEIVE
+24,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-09 17:44:27,admin,RECEIVE
+25,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-09 17:44:28,admin,RECEIVE
+26,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-09 17:44:28,admin,RECEIVE
+27,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-09 17:44:29,admin,RECEIVE
+28,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-09 17:44:30,admin,RECEIVE
+29,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-09 17:44:31,admin,RECEIVE
+30,Showroom Sophia/Store,A1,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-02-10 17:12:11,admin,RECEIVE
+31,Showroom Sophia,Showroom,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 10:24:08,admin,RECEIVE
+32,Showroom Sophia/site 1/bat 1,armoire 1,TEST SABENA1,Box,DB-1,Drill box,1,2016-02-11 11:12:18,admin,RECEIVE
+33,Showroom Sophia,Showroom,Adjustable Wrench 6#2,Wrench,AW-62,Adjustable Wrench 6,1,2016-02-11 11:32:03,admin,RECEIVE
+34,Showroom Sophia,Showroom,Adjustable Wrench 6#5,Wrench,AW-65,Adjustable Wrench 6,1,2016-02-11 11:32:04,admin,RECEIVE
+35,Showroom Sophia,Showroom,Combination Wrench 19 #2,Wrench,CW-192,Combination Wrench 19,1,2016-02-11 11:32:05,admin,RECEIVE
+36,Showroom Sophia,Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-02-11 11:32:06,admin,RECEIVE
+37,Showroom Sophia,Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-02-11 11:32:06,admin,RECEIVE
+38,Showroom Sophia,Showroom,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-02-11 11:32:07,admin,RECEIVE
+39,Showroom Sophia,Showroom,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-02-11 11:32:08,admin,RECEIVE
+40,Showroom Sophia,Showroom,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-02-11 11:32:08,admin,RECEIVE
+41,Showroom Sophia,Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-02-11 11:32:09,admin,RECEIVE
+42,Showroom Sophia,Showroom,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+43,Showroom Sophia,Showroom,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-02-11 11:32:10,admin,RECEIVE
+44,Showroom Sophia,Showroom,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-02-11 11:32:11,admin,RECEIVE
+45,Showroom Sophia,Showroom,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-02-11 11:32:12,admin,RECEIVE
+46,Showroom Sophia,Showroom,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+47,Showroom Sophia,Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-02-11 11:32:13,admin,RECEIVE
+48,Showroom Sophia,Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-02-11 11:32:14,admin,RECEIVE
+49,Showroom Sophia,Showroom,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-02-11 11:32:15,admin,RECEIVE
+50,Showroom Sophia,Showroom,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-02-11 11:32:16,admin,RECEIVE
+51,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:16,admin,RECEIVE
+52,Showroom Sophia,Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-02-11 11:32:17,admin,RECEIVE
+53,Showroom Sophia,Showroom,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-02-11 11:32:18,admin,RECEIVE
+54,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+55,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-02-11 11:32:19,admin,RECEIVE
+56,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-02-11 11:32:20,admin,RECEIVE
+57,Showroom Sophia,Showroom,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-02-11 11:32:21,admin,RECEIVE
+58,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:00:30,slafoy06,RECEIVE
+59,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:01:46,slafoy06,RECEIVE
+60,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:03:30,slafoy06,RECEIVE
+61,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:06,slafoy06,RECEIVE
+62,Showroom Sophia,XDL Cabinet,Wrench #100,TEST_SL,TEST_SL_RefCode_clé10,TEST_SL_RefDes_clé10,1,2016-02-29 12:04:33,slafoy06,RECEIVE
+63,Showroom Sophia,ToolBox,EMB_DPIU122,TEST_SL,EmbIP1_TEST,Emb_TEST_IP1,1,2016-03-10 14:26:10,slafoy06,RECEIVE
+64,Showroom Sophia/TEST_LOC,TEST_EMP1,,TEST_SL,Boite_TEST_Vert,Boite_TEST_Vert,20,2016-03-10 14:27:29,slafoy06,RECEIVE
+65,Showroom Sophia,Desk,Box End Wrench 2/8 7/16,Wrench,BED-28716,Box End Wrench 2/8 7/16,1,2016-03-10 14:38:58,slafoy06,RECEIVE
+66,Showroom Sophia,Desk,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+67,Showroom Sophia,Desk,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-03-10 14:38:59,slafoy06,RECEIVE
+68,Showroom Sophia,Desk,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-03-10 14:39:00,slafoy06,RECEIVE
+69,Showroom Sophia,Desk,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-10 14:39:01,slafoy06,RECEIVE
+70,Showroom Sophia,Desk,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+71,Showroom Sophia,Desk,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-03-10 14:39:02,slafoy06,RECEIVE
+72,Showroom Sophia,Desk,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-03-10 14:39:03,slafoy06,RECEIVE
+73,Showroom Sophia,Desk,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-03-10 14:39:04,slafoy06,RECEIVE
+74,Showroom Sophia,Desk,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-03-10 14:39:05,slafoy06,RECEIVE
+75,Showroom Sophia,Desk,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-10 14:39:06,slafoy06,RECEIVE
+76,Showroom Sophia,Desk,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+77,Showroom Sophia,Desk,Ratcheting Wrench 10 & 11,Wrench,RW-1011,Ratcheting Wrench 10 & 11,1,2016-03-10 14:39:07,slafoy06,RECEIVE
+78,Showroom Sophia,Desk,Ratcheting Wrench 16 & 18,Wrench,RW-1618,Ratcheting Wrench 16 & 18,1,2016-03-10 14:39:08,slafoy06,RECEIVE
+79,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:09,slafoy06,RECEIVE
+80,Showroom Sophia,Desk,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-03-10 14:39:10,slafoy06,RECEIVE
+81,Showroom Sophia,Desk,Ratcheting Wrench 8 & 9,Wrench,WE-89,Ratcheting Wrench 8 & 9,1,2016-03-10 14:39:11,slafoy06,RECEIVE
+82,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+83,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-03-10 14:39:12,slafoy06,RECEIVE
+84,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-03-10 14:39:13,slafoy06,RECEIVE
+85,Showroom Sophia,Desk,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-03-10 14:39:14,slafoy06,RECEIVE
+86,Showroom Sophia/Store,A2,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-03-21 16:41:41,admin,RECEIVE
+87,Showroom Sophia/Store,A2,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-03-21 16:41:41,admin,RECEIVE
+88,Showroom Sophia/Store,A2,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-03-21 16:41:42,admin,RECEIVE
+89,Showroom Sophia/Store,A2,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-03-21 16:41:43,admin,RECEIVE
+90,Showroom Sophia/Store,A2,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-03-21 16:41:44,admin,RECEIVE
+91,Showroom Sophia/Store,A2,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-03-21 16:41:44,admin,RECEIVE
+92,Showroom Sophia/Store,A2,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-03-21 16:41:45,admin,RECEIVE
+93,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:22:43,admin,RECEIVE
+94,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:23:16,admin,RECEIVE
+95,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:23:46,admin,RECEIVE
+96,Showroom Sophia,Desk Showroom,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-04-05 13:28:39,admin,RECEIVE
+97,Showroom Sophia,Desk Showroom,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-04-05 13:28:52,admin,RECEIVE
+98,Showroom Sophia,Desk Showroom,Torque wrench 1013045057,Mecanical Torque Wrench,TW-5057,Torque Wrench,1,2016-04-05 13:29:08,admin,RECEIVE
+99,Showroom Sophia,Desk Showroom,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-04-12 09:33:21,yannickl,RECEIVE
+100,Showroom Sophia,Desk Showroom,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-04-12 09:33:22,yannickl,RECEIVE
+101,Showroom Sophia,Desk Showroom,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-04-12 09:33:23,yannickl,RECEIVE
+102,Showroom Sophia,Desk Showroom,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-04-12 09:33:23,yannickl,RECEIVE
+103,Showroom Sophia,Desk Showroom,Metal Chisel #2,Chisel,MC-2,Metal chisel 1294670-1CM,1,2016-04-12 09:33:24,yannickl,RECEIVE
+104,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #1,Wrench,RW-387161,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:25,yannickl,RECEIVE
+105,Showroom Sophia,Desk Showroom,Ratcheting Wrench 3/8 & 7/16 #2,Wrench,RW-387162,Ratcheting Wrench 3/8 & 7/16,1,2016-04-12 09:33:26,yannickl,RECEIVE
+106,Showroom Sophia,Desk Showroom,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-04-12 09:33:27,yannickl,RECEIVE
+107,Showroom Sophia/Store ,A2,Drill Box #1,Box,DB-1,Drill box,1,2016-04-12 09:35:55,yannickl,RECEIVE
+108,Showroom Sophia/Store ,A2,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-04-12 09:36:42,yannickl,RECEIVE
+109,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+110,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:40:01,admin,RECEIVE
+111,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+112,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-13 18:59:50,admin,RECEIVE
+113,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+114,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:14:47,admin,RECEIVE
+115,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+116,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-14 18:35:20,admin,RECEIVE
+117,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+118,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:14:41,admin,RECEIVE
+119,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+120,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 10:37:59,admin,RECEIVE
+121,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+122,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 16:14:53,admin,RECEIVE
+123,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+124,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-18 19:01:32,admin,RECEIVE
+125,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+126,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-04-20 01:57:29,admin,RECEIVE
+127,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 1,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE
+128,Showroom Sophia/JUNIT position 1,JUNIT location 2,JUNIT Material name 2,JUNIT Category name,JUNIT Identified ProductReference name,JUNIT Identified ProductReference name,1,2016-06-21 09:56:56,admin,RECEIVE

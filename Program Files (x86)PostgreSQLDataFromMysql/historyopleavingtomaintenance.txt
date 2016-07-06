@@ -1,0 +1,95 @@
+1,2016-03-10 11:14:45,administrator,Wrench #052,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+2,2016-03-10 11:16:22,administrator,Wrench #132,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+3,2016-03-10 11:38:58,administrator,Wrench #141,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+4,2016-03-10 15:08:21,administrator,Wrench #062,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+5,2016-03-10 15:08:21,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+6,2016-03-10 15:26:07,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+7,2016-03-16 11:37:10,slafoy06,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+8,2016-03-22 11:23:19,slafoy06,Flat screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,FSD-3,Flat screwdriver,1,Showroom Sophia/XL Cabinet
+9,2016-03-22 16:38:26,test,Wrench #072,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+10,2016-03-22 17:26:23,test,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+11,2016-03-23 11:06:05,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+12,2016-03-23 11:11:37,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+13,2016-04-07 17:44:30,Marie,Mallet hammer #2,LEAVE_TO_MAINTENANCE,Hammer,MH-2,Mallet hammer,1,Showroom Sophia/XL Cabinet
+14,2016-04-12 09:45:07,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+15,2016-04-12 09:49:08,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+16,2016-04-12 10:00:50,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+17,2016-04-12 10:16:19,slafoy06,Cruciform screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,CSD-3,Cruciform screwdriver,1,Showroom Sophia/XL Cabinet
+18,2016-04-12 10:16:19,slafoy06,Torx screwdriver #5,LEAVE_TO_MAINTENANCE,Screw driver,TSD-5,Torx screwdriver,1,Showroom Sophia/XL Cabinet
+19,2016-04-12 10:21:16,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+1,2016-03-10 11:14:45,administrator,Wrench #052,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+2,2016-03-10 11:16:22,administrator,Wrench #132,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+3,2016-03-10 11:38:58,administrator,Wrench #141,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+4,2016-03-10 15:08:21,administrator,Wrench #062,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+5,2016-03-10 15:08:21,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+6,2016-03-10 15:26:07,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+7,2016-03-16 11:37:10,slafoy06,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+8,2016-03-22 11:23:19,slafoy06,Flat screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,FSD-3,Flat screwdriver,1,Showroom Sophia/XL Cabinet
+9,2016-03-22 16:38:26,test,Wrench #072,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+10,2016-03-22 17:26:23,test,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+11,2016-03-23 11:06:05,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+12,2016-03-23 11:11:37,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+13,2016-04-07 17:44:30,Marie,Mallet hammer #2,LEAVE_TO_MAINTENANCE,Hammer,MH-2,Mallet hammer,1,Showroom Sophia/XL Cabinet
+14,2016-04-12 09:45:07,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+15,2016-04-12 09:49:08,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+16,2016-04-12 10:00:50,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+17,2016-04-12 10:16:19,slafoy06,Cruciform screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,CSD-3,Cruciform screwdriver,1,Showroom Sophia/XL Cabinet
+18,2016-04-12 10:16:19,slafoy06,Torx screwdriver #5,LEAVE_TO_MAINTENANCE,Screw driver,TSD-5,Torx screwdriver,1,Showroom Sophia/XL Cabinet
+19,2016-04-12 10:21:16,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+1,2016-03-10 11:14:45,administrator,Wrench #052,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+2,2016-03-10 11:16:22,administrator,Wrench #132,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+3,2016-03-10 11:38:58,administrator,Wrench #141,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+4,2016-03-10 15:08:21,administrator,Wrench #062,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+5,2016-03-10 15:08:21,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+6,2016-03-10 15:26:07,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+7,2016-03-16 11:37:10,slafoy06,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+8,2016-03-22 11:23:19,slafoy06,Flat screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,FSD-3,Flat screwdriver,1,Showroom Sophia/XL Cabinet
+9,2016-03-22 16:38:26,test,Wrench #072,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+10,2016-03-22 17:26:23,test,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+11,2016-03-23 11:06:05,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+12,2016-03-23 11:11:37,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+13,2016-04-07 17:44:30,Marie,Mallet hammer #2,LEAVE_TO_MAINTENANCE,Hammer,MH-2,Mallet hammer,1,Showroom Sophia/XL Cabinet
+14,2016-04-12 09:45:07,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+15,2016-04-12 09:49:08,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+16,2016-04-12 10:00:50,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+17,2016-04-12 10:16:19,slafoy06,Cruciform screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,CSD-3,Cruciform screwdriver,1,Showroom Sophia/XL Cabinet
+18,2016-04-12 10:16:19,slafoy06,Torx screwdriver #5,LEAVE_TO_MAINTENANCE,Screw driver,TSD-5,Torx screwdriver,1,Showroom Sophia/XL Cabinet
+19,2016-04-12 10:21:16,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+1,2016-03-10 11:14:45,administrator,Wrench #052,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+2,2016-03-10 11:16:22,administrator,Wrench #132,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+3,2016-03-10 11:38:58,administrator,Wrench #141,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+4,2016-03-10 15:08:21,administrator,Wrench #062,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+5,2016-03-10 15:08:21,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+6,2016-03-10 15:26:07,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+7,2016-03-16 11:37:10,slafoy06,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+8,2016-03-22 11:23:19,slafoy06,Flat screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,FSD-3,Flat screwdriver,1,Showroom Sophia/XL Cabinet
+9,2016-03-22 16:38:26,test,Wrench #072,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+10,2016-03-22 17:26:23,test,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+11,2016-03-23 11:06:05,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+12,2016-03-23 11:11:37,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+13,2016-04-07 17:44:30,Marie,Mallet hammer #2,LEAVE_TO_MAINTENANCE,Hammer,MH-2,Mallet hammer,1,Showroom Sophia/XL Cabinet
+14,2016-04-12 09:45:07,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+15,2016-04-12 09:49:08,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+16,2016-04-12 10:00:50,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+17,2016-04-12 10:16:19,slafoy06,Cruciform screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,CSD-3,Cruciform screwdriver,1,Showroom Sophia/XL Cabinet
+18,2016-04-12 10:16:19,slafoy06,Torx screwdriver #5,LEAVE_TO_MAINTENANCE,Screw driver,TSD-5,Torx screwdriver,1,Showroom Sophia/XL Cabinet
+19,2016-04-12 10:21:16,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+1,2016-03-10 11:14:45,administrator,Wrench #052,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+2,2016-03-10 11:16:22,administrator,Wrench #132,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+3,2016-03-10 11:38:58,administrator,Wrench #141,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+4,2016-03-10 15:08:21,administrator,Wrench #062,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+5,2016-03-10 15:08:21,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+6,2016-03-10 15:26:07,administrator,Wrench #071,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+7,2016-03-16 11:37:10,slafoy06,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+8,2016-03-22 11:23:19,slafoy06,Flat screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,FSD-3,Flat screwdriver,1,Showroom Sophia/XL Cabinet
+9,2016-03-22 16:38:26,test,Wrench #072,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+10,2016-03-22 17:26:23,test,Wrench #073,LEAVE_TO_MAINTENANCE,Test Wrench,TW-010,Test Wrench 10,1,Showroom Sophia/XDL Cabinet
+11,2016-03-23 11:06:05,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+12,2016-03-23 11:11:37,test,Torque wrench N280238,LEAVE_TO_MAINTENANCE,Mecanical Torque Wrench,TW-0238,Torque Wrench,1,Showroom Sophia/XL Cabinet
+13,2016-04-07 17:44:30,Marie,Mallet hammer #2,LEAVE_TO_MAINTENANCE,Hammer,MH-2,Mallet hammer,1,Showroom Sophia/XL Cabinet
+14,2016-04-12 09:45:07,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+15,2016-04-12 09:49:08,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet
+16,2016-04-12 10:00:50,slafoy06,Inspection Mirror #1,LEAVE_TO_MAINTENANCE,Mirror,IM-1,Inspection Mirror 5515T-52,1,Showroom Sophia/XL Cabinet
+17,2016-04-12 10:16:19,slafoy06,Cruciform screwdriver #3,LEAVE_TO_MAINTENANCE,Screw driver,CSD-3,Cruciform screwdriver,1,Showroom Sophia/XL Cabinet
+18,2016-04-12 10:16:19,slafoy06,Torx screwdriver #5,LEAVE_TO_MAINTENANCE,Screw driver,TSD-5,Torx screwdriver,1,Showroom Sophia/XL Cabinet
+19,2016-04-12 10:21:16,slafoy06,Metal Chisel #1,LEAVE_TO_MAINTENANCE,Chisel,MC-1,Metal chisel 1006901-1CM,1,Showroom Sophia/XL Cabinet

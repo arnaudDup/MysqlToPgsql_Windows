@@ -1,0 +1,5 @@
+6,JUNIT device,2017-09-01 00:00:00,Junit_material_Name,Junit_Name,,,,,0,1,1
+6,JUNIT device,2017-09-01 00:00:00,Junit_material_Name,Junit_Name,,,,,0,1,1
+6,JUNIT device,2017-09-01 00:00:00,Junit_material_Name,Junit_Name,,,,,0,1,1
+6,JUNIT device,2017-09-01 00:00:00,Junit_material_Name,Junit_Name,,,,,0,1,1
+6,JUNIT device,2017-09-01 00:00:00,Junit_material_Name,Junit_Name,,,,,0,1,1

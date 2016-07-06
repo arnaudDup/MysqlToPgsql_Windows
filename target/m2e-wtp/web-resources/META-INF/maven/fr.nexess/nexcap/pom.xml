@@ -1,0 +1,728 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	
+	<parent>
+		<groupId>fr.nexess</groupId>
+		<artifactId>nexcap-parent</artifactId>
+		<version>2.0-SNAPSHOT</version>
+		<relativePath>../nexcap-parent/</relativePath>
+	</parent>
+	
+
+	<artifactId>nexcap</artifactId>	
+	<packaging>war</packaging>
+	<name>Nexcap</name>
+
+	<profiles>
+		<profile>
+			<id>Jarbuild</id>
+			<properties>
+				<dependency.scope.provided>compile</dependency.scope.provided>
+			</properties>
+			<build>
+				<!-- Add the folder "src\main\webapp\WEB-INF\spring" to the resources -->
+				<resources>
+					<resource>
+						<directory>src\main\resources</directory>
+					</resource>
+					<resource>
+						<directory>src\main\webapp\WEB-INF\spring</directory>
+					</resource>
+				</resources>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-jar-plugin</artifactId>
+						<version>2.6</version>
+						<executions>
+							<execution>
+								<id>make-a-jar</id>
+								<phase>compile</phase>
+								<goals>
+									<goal>jar</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-install-plugin</artifactId>
+						<version>2.5.2</version>
+						<executions>
+							<execution>
+								<phase>install</phase>
+								<goals>
+									<goal>install-file</goal>
+								</goals>
+								<configuration>
+									<packaging>jar</packaging>
+									<artifactId>${project.artifactId}</artifactId>
+									<groupId>${project.groupId}</groupId>
+									<version>${project.version}</version>
+									<file>
+										${project.build.directory}/${project.artifactId}-${project.version}.jar
+									</file>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-deploy-plugin</artifactId>
+						<version>2.8.2</version>
+						<executions>
+							<execution>
+								<phase>deploy</phase>
+								<goals>
+									<goal>deploy-file</goal>
+								</goals>
+								<configuration>
+									<packaging>jar</packaging>
+									<generatePom>true</generatePom>
+									<url>${project.distributionManagement.repository.url}</url>
+									<artifactId>${project.artifactId}</artifactId>
+									<groupId>${project.groupId}</groupId>
+									<version>${project.version}</version>
+									<file>${project.build.directory}/${project.artifactId}-${project.version}.jar</file>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.liquibase</groupId>
+						<artifactId>liquibase-maven-plugin</artifactId>
+						<version>3.5.0</version>
+						<configuration>
+							<propertyFile>liquibase.properties</propertyFile>
+						</configuration>
+						<executions>
+							<execution>
+								<phase>process-resources</phase>
+								<goals>
+									<goal>update</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+
+		<profile>
+			<!-- Profile used to link to GMO2 project -->
+			<id>T2M</id>
+			<properties>
+				<plugin.compiler.exclude />
+				<tests.skip>true</tests.skip>
+				<gmo2.version>1.0.0</gmo2.version>
+				<spring.bean.t2mswitchusermanager.class>fr.nexess.nexcap.t2m.manager.T2mSwitchUserManager</spring.bean.t2mswitchusermanager.class>
+				<spring.bean.t2mswitchmaterialmanager.class>fr.nexess.nexcap.t2m.manager.T2mSwitchMaterialManager</spring.bean.t2mswitchmaterialmanager.class>
+			</properties>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-compiler-plugin</artifactId>
+						<version>2.3.2</version>
+						<configuration>
+							<source>1.7</source>
+							<target>1.7</target>
+							<compilerArguments>
+								<endorseddirs>${endorsed.dir}</endorseddirs>
+							</compilerArguments>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+			<dependencies>
+				<dependency>
+					<groupId>nexess</groupId>
+					<artifactId>gmo2</artifactId>
+					<version>${gmo2.version}</version>
+					<type>jar</type>
+				</dependency>
+			</dependencies>
+		</profile>
+
+		<profile>
+			<id>UnitTests</id>
+			<properties>
+				<tests.skip>false</tests.skip>
+				<integration.tests.skip>true</integration.tests.skip>
+			</properties>
+		</profile>
+
+		<!-- Development Build: Profile used in Netbeans, on each local deployment. Should be as fast as possible: No extra features. -->
+		<profile>
+			<id>Developement</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.liquibase</groupId>
+						<artifactId>liquibase-maven-plugin</artifactId>
+						<version>3.5.0</version>
+						<configuration>
+							<propertyFile>liquibase.properties</propertyFile>
+						</configuration>
+						<executions>
+							<execution>
+								<phase>generate-test-resources</phase>
+								<goals>
+									<goal>update</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+
+		<!-- Integration Build: Profile used by Jenkins. Run on each SVN commit. should guarantee commit quality. -->
+		<profile>
+			<id>IntegrationBuild</id>
+			<properties>
+				<tests.skip>true</tests.skip>
+				<backup.mysql.skip>true</backup.mysql.skip>
+			</properties>
+		</profile>
+
+		<!-- Server Deployment Profile (used by Jenkins to deploy on integration server). Run manually. -->
+		<profile>
+			<id>ServerDeployment</id>
+			<properties>
+				<tests.skip>true</tests.skip>
+				<integration.tests.skip>false</integration.tests.skip>
+				<backup.mysql.skip>false</backup.mysql.skip>
+			</properties>
+			<!--activation><os><family>unix</family></os></activation -->
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.liquibase</groupId>
+						<artifactId>liquibase-maven-plugin</artifactId>
+						<version>3.5.0</version>
+						<configuration>
+							<changeLogFile>${liquibase.changeLogFile}</changeLogFile>
+							<driver>com.mysql.jdbc.Driver</driver>
+							<url>${jdbc.url}</url>
+							<username>${jdbc.login}</username>
+							<password>${jdbc.password}</password>
+							<verbose>true</verbose>
+							<promptOnNonLocalDatabase>false</promptOnNonLocalDatabase>
+							<defaultSchemaName>${jdbc.schema}</defaultSchemaName>
+						</configuration>
+						<executions>
+							<execution>
+								<phase>process-resources</phase>
+								<goals>
+									<goal>update</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.tomcat.maven</groupId>
+						<artifactId>tomcat7-maven-plugin</artifactId>
+						<version>2.2</version>
+						<executions>
+							<execution>
+								<id>tomcat-run</id>
+								<goals>
+									<goal>redeploy-only</goal>
+								</goals>
+								<phase>package</phase>
+								<configuration>
+									<url>${tomcat.manager.url}</url>
+									<username>${tomcat.manager.login}</username>
+									<password>${tomcat.manager.password}</password>
+									<path>/nexcap</path>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>	
+	
+	
+
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>2.9</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+					<compilerArguments>
+						<endorseddirs>${endorsed.dir}</endorseddirs>
+					</compilerArguments>
+					<!--
+						<excludes>
+						<exclude>fr/nexess/nexcap/t2m/controller/http/*.java</exclude>
+						<exclude>fr/nexess/nexcap/t2m/dto/*.java</exclude>
+						<exclude>fr/nexess/nexcap/t2m/manager/*.java</exclude>
+						<exclude>fr/nexess/nexcap/t2m/materielmouvement/controller/*.java</exclude>
+						<exclude>fr/nexess/nexcap/t2m/materielupdate/controller/*.java</exclude>
+						</excludes>
+					-->
+				</configuration>
+			</plugin>
+
+			<!-- Adds source and resource directories to our build -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>build-helper-maven-plugin</artifactId>
+				<version>1.10</version>
+				<executions>
+					<!-- Add a new source directory to our build -->
+					<execution>
+						<id>add-integration-test-sources</id>
+						<phase>generate-test-sources</phase>
+						<goals>
+							<goal>add-test-source</goal>
+						</goals>
+						<configuration>
+							<!-- Configures the source directory of our integration tests -->
+							<sources>
+								<source>src/integration-test/java</source>
+							</sources>
+						</configuration>
+					</execution>
+					<!-- Add a new resource directory to our build -->
+					<execution>
+						<id>add-integration-test-resources</id>
+						<phase>generate-test-resources</phase>
+						<goals>
+							<goal>add-test-resource</goal>
+						</goals>
+						<configuration>
+							<!-- Configures the resource directory of our integration tests -->
+							<resources>
+								<!--
+									Placeholders that are found from the files located in the configured resource
+									directories are replaced with the property values found from the profile
+									specific configuration file.
+								-->
+								<resource>
+									<!--<filtering>true</filtering> -->
+									<directory>src/integration-test/resources</directory>
+								</resource>
+							</resources>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.12.4</version>
+				<configuration>
+					<argLine>-XX:-UseSplitVerifier</argLine>
+					<skipTests>${tests.skip}</skipTests>
+					<!-- Excludes integration tests when unit tests are run -->
+					<excludes>
+						<exclude>**/IT*.java</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+
+			<!-- Save database before integration test and restore it after -->
+			<plugin>
+				 <groupId>org.codehaus.mojo</groupId>
+				 <artifactId>exec-maven-plugin</artifactId>
+				 <version>1.4.0</version>
+				 <executions>
+					 <execution>
+						 <id>default-cli1</id>
+						 <phase>pre-integration-test</phase>
+						 <goals>
+							 <goal>exec</goal>
+						 </goals>					             
+						 <configuration>
+							 <skip>${backup.mysql.skip}</skip>
+							 <executable>${mysql.dump}</executable>
+							 <workingDirectory>/temp/${jdbc.schema}</workingDirectory>
+							 <commandlineArgs>${jdbc.schema} --host ${database.host} --user=${jdbc.login} --password=${jdbc.password} --result-file=/temp/${database.host}_${jdbc.schema}_backup.sql</commandlineArgs>
+						</configuration>					             
+					 </execution>
+					<execution>
+						<id>default-cli2</id>
+						<phase>post-integration-test</phase>
+						<goals>
+							<goal>exec</goal>
+						</goals>					
+						<configuration>
+							<skip>${backup.mysql.skip}</skip>
+					        <executable>restore-db</executable>					        
+				         	<arguments>
+								<argument>${mysql.exec}</argument>
+           						<argument>${jdbc.login}</argument>
+           						<argument>${jdbc.password}</argument>
+           						<argument>${jdbc.schema}</argument>
+           						<argument>${database.host}</argument>            						
+           					</arguments>					         
+						</configuration>					             							    					    	
+					 </execution>							 
+				 </executions>
+			</plugin>			
+
+
+
+
+			<!-- Runs integration tests -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-failsafe-plugin</artifactId>
+				<version>2.18</version>
+				<executions>
+					<!--
+						Invokes both the integration-test and the verify goals of the
+						Failsafe Maven plugin
+					-->
+					<execution>
+						<id>integration-tests</id>
+						<goals>
+							<goal>integration-test</goal>
+							<goal>verify</goal>
+						</goals>
+						<configuration>
+							<!--
+								Skips integration tests if the value of skip.integration.tests
+								property is true
+							-->
+
+							<systemPropertyVariables>
+								<log4j.configuration>log4j2-integration.xml</log4j.configuration>
+							</systemPropertyVariables>
+
+							<skipTests>${integration.tests.skip}</skipTests>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>2.1</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.1.1</version>
+				<configuration>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
+					<!-- enable the webapp resources filtering, in files src/main/webapp/WEB-INF/*.xml -->
+					<webResources>
+						<resource>
+							<filtering>true</filtering>
+							<directory>src/main/webapp</directory>
+							<includes>
+								<include>**/*.xml</include>
+							</includes>
+							<!-- excludes><exclude>dashboard/*.*</exclude></excludes -->
+						</resource>
+					</webResources>
+					<!-- warName>nexcap</warName -->
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<version>2.1</version>
+				<executions>
+					<execution>
+						<phase>validate</phase>
+						<goals>
+							<goal>copy</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${endorsed.dir}</outputDirectory>
+							<silent>true</silent>
+							<artifactItems>
+								<artifactItem>
+									<groupId>javax</groupId>
+									<artifactId>javaee-endorsed-api</artifactId>
+									<version>6.0</version>
+									<type>jar</type>
+								</artifactItem>
+							</artifactItems>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.6</version>
+				<executions>
+					<execution>
+						<id>database</id>
+						<configuration>
+							<finalName>nexcapup-database-${project.version}</finalName>
+							<descriptors>
+								<descriptor>assembly-database.xml</descriptor>
+							</descriptors>
+						</configuration>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<!-- GETEXT -->
+			<!-- A NEW EXECUTION TAG HAS BEEN IMPLEMENTED BY LANGUAGE -->
+			<!-- NEED TO HAVE POEDIT AND THEIR EXECUTABLE FILE ON THE SYSTEM USING THIS PLUGIN -->
+			<!-- New version to use ?https://github.com/rlf/maven-gettext-plugin/blob/master/src/main/java/org/xnap/commons/maven/gettext/GettextMojo.java -->
+			<!-- comment by refacoring
+			<plugin>
+				<groupId>org.xnap.commons</groupId>
+				<artifactId>maven-gettext-plugin</artifactId>
+				<version>1.2.3</version>
+				<executions>
+					<execution>
+						<id>fr</id>
+						<configuration>
+							<poDirectory>src/main/java/nexess/nexcapup/locale/fr_FR</poDirectory>
+							<outputDirectory>src/main/resources</outputDirectory>
+							<targetBundle>nexess.nexcapup.locale.fr_FR.fr_FR</targetBundle>
+							<sourceLocale>fr_FR</sourceLocale>
+							<msgfmtCmd>lib/poedit/msgfmt</msgfmtCmd>
+							<msgcatCmd>lib/poedit/msgcat</msgcatCmd>
+							<outputFormat>properties</outputFormat>
+						</configuration>
+						<goals>
+							<goal>dist</goal>
+						</goals>
+						<phase>prepare-package</phase>
+					</execution>
+					<execution>
+						<id>en</id>
+						<configuration>
+							<poDirectory>src/main/java/nexess/nexcapup/locale/en_US</poDirectory>
+							<outputDirectory>src/main/resources</outputDirectory>
+							<targetBundle>nexess.nexcapup.locale.en_US.en_US</targetBundle>
+							<sourceLocale>en_US</sourceLocale>
+							<msgfmtCmd>lib/poedit/msgfmt</msgfmtCmd>
+							<msgcatCmd>lib/poedit/msgcat</msgcatCmd>
+							<outputFormat>properties</outputFormat>
+						</configuration>
+						<goals>
+							<goal>dist</goal>
+						</goals>
+						<phase>prepare-package</phase>
+					</execution>
+				</executions>
+			</plugin>
+			-->
+		</plugins>
+		<pluginManagement>
+			<plugins>
+				<!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself. -->
+				<plugin>
+					<groupId>org.eclipse.m2e</groupId>
+					<artifactId>lifecycle-mapping</artifactId>
+					<version>1.0.0</version>
+					<configuration>
+						<lifecycleMappingMetadata>
+							<pluginExecutions>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>org.liquibase</groupId>
+										<artifactId>liquibase-maven-plugin</artifactId>
+										<versionRange>[3.5.0,)</versionRange>
+										<goals>
+											<goal>update</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+							</pluginExecutions>
+						</lifecycleMappingMetadata>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+
+	<dependencies>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<scope>${dependency.scope.provided}</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>fr.nexess</groupId>
+			<artifactId>nexcap-core</artifactId>	
+			<version>${project.version}</version>				
+		</dependency>
+		<dependency>
+			<groupId>fr.nexess</groupId>
+			<artifactId>nexcap-integration</artifactId>	
+			<version>${project.version}</version>					
+		</dependency>
+		<!--<dependency>
+			<groupId>fr.nexess</groupId>
+			<artifactId>nexcap-t2m</artifactId>
+			<version>${project.version}</version>			
+		</dependency>-->
+		<dependency>
+			<groupId>fr.nexess</groupId>
+			<artifactId>nexcapUp</artifactId>	
+			<version>${project.version}</version>		
+		</dependency>
+		
+		
+		<dependency>
+			<groupId>javax.validation</groupId>
+			<artifactId>validation-api</artifactId>
+		</dependency>
+		<!-- dependency for tests -->
+		
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>eviware</groupId>
+			<artifactId>soapui</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>eviware</groupId>
+			<artifactId>soapui-xmlbeans</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>commons-cli</groupId>
+			<artifactId>commons-cli</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlbeans</groupId>
+			<artifactId>xmlbeans</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>xerces</groupId>
+			<artifactId>xercesImpl</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>fife</groupId>
+			<artifactId>rsyntaxtextarea</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>bouncycastle</groupId>
+			<artifactId>bcprov-jdk15</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>wsdl4j</groupId>
+			<artifactId>wsdl4j</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>amf</groupId>
+			<artifactId>flex-messaging-common</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>amf</groupId>
+			<artifactId>flex-messaging-core</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>jtidy</groupId>
+			<artifactId>jtidy</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>json</groupId>
+			<artifactId>json-lib</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>ezmorph</groupId>
+			<artifactId>ezmorph</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<!--
+			<dependency>
+			<groupId>commons-beanutils</groupId>
+			<artifactId>commons-beanutils</artifactId>
+			<version>1.7.0</version>
+			<scope>test</scope>
+			</dependency>
+		-->
+		<dependency>
+			<groupId>xom</groupId>
+			<artifactId>xom</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<!--
+			<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>sqljdbc4</artifactId>
+			<version>4.1</version>
+			<scope>test</scope>
+			</dependency>
+		-->
+
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-core</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>				
+			<scope>test</scope>
+		</dependency>		
+		
+	</dependencies>
+	
+</project>

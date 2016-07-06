@@ -1,0 +1,1000 @@
+1,Organisation,Showroom1,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-20 18:24:19,adminnexess,adminnexess,RETURN
+2,Showroom Sophia,XD Cabinet,Adjustable Wrench 6#6,Wrench,AW-66,Adjustable Wrench 6,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+3,Showroom Sophia,XD Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+4,Showroom Sophia,XD Cabinet,Combination Wrench 16,Wrench,CW-16,Combination Wrench 16,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+5,Showroom Sophia,XD Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+6,Showroom Sophia,XD Cabinet,Combination Wrench 18 #1,Wrench,CW-181,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+7,Showroom Sophia,XD Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+8,Showroom Sophia,XD Cabinet,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+9,Showroom Sophia,XD Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+10,Showroom Sophia,XD Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+11,Showroom Sophia,XD Cabinet,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+12,Showroom Sophia,XD Cabinet,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+13,Showroom Sophia,XD Cabinet,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+14,Showroom Sophia,XD Cabinet,Combination Wrench 1 #2,Wrench,CW-101,Combination Wrench 1 #1,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+15,Showroom Sophia,XD Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+16,Showroom Sophia,XD Cabinet,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+17,Showroom Sophia,XD Cabinet,Flat screwdriver #1,Screw driver,FSD-1,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+18,Showroom Sophia,XD Cabinet,Flat screwdriver #2,Screw driver,FSD-2,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+19,Showroom Sophia,XD Cabinet,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+20,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+21,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+22,Showroom Sophia,XD Cabinet,Flat screwdriver #6,Screw driver,FSD-6,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+23,Showroom Sophia,XD Cabinet,Flat screwdriver #7,Screw driver,FSD-7,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+24,Showroom Sophia,XD Cabinet,Flat screwdriver #8,Screw driver,FSD-8,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+25,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+26,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+27,Showroom Sophia,XD Cabinet,Flat screwdriver #11,Screw driver,FSD-11,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+28,Showroom Sophia,XD Cabinet,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+29,Showroom Sophia,XD Cabinet,Flat screwdriver #13,Screw driver,FSD-13,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+30,Showroom Sophia,XD Cabinet,Flat screwdriver #14,Screw driver,FSD-14,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+31,Showroom Sophia,XD Cabinet,Cruciform screwdriver #1,Screw driver,CSD-1,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+32,Showroom Sophia,XD Cabinet,Cruciform screwdriver #2,Screw driver,CSD-2,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+33,Showroom Sophia,XD Cabinet,Cruciform screwdriver #3,Screw driver,CSD-3,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+34,Showroom Sophia,XD Cabinet,Cruciform screwdriver #4,Screw driver,CSD-4,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+35,Showroom Sophia,XD Cabinet,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+36,Showroom Sophia,XD Cabinet,Cruciform screwdriver #6,Screw driver,CSD-6,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+37,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+38,Showroom Sophia,XD Cabinet,Cruciform screwdriver #8,Screw driver,CSD-8,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+39,Showroom Sophia,XD Cabinet,Cruciform screwdriver #9,Screw driver,CSD-9,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+40,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+41,Showroom Sophia,XD Cabinet,Torx screwdriver #2,Screw driver,TSD-2,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+42,Showroom Sophia,XD Cabinet,Torx screwdriver #3,Screw driver,TSD-3,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+43,Showroom Sophia,XD Cabinet,Torx screwdriver #4,Screw driver,TSD-4,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+44,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+45,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+46,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+47,Showroom Sophia,XD Cabinet,Torx screwdriver #8,Screw driver,TSD-8,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+48,Showroom Sophia,XD Cabinet,Torx screwdriver #9,Screw driver,TSD-9,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+49,Showroom Sophia,XD Cabinet,Torx screwdriver #10,Screw driver,TSD-10,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+50,Showroom Sophia,XD Cabinet,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+51,Showroom Sophia,XD Cabinet,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+52,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+53,Showroom Sophia,XD Cabinet,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+54,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+55,Showroom Sophia,XD Cabinet,Long nose plier #2,Pliers,LNP-2,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+56,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+57,Showroom Sophia,XD Cabinet,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+58,Showroom Sophia,XD Cabinet,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+59,Showroom Sophia,XD Cabinet,Cutting Plier #3,Pliers,CP-3,Cutting Pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+60,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #1,Socket wrench,SW-381,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+61,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+62,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+63,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+64,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #5,Socket wrench,SW-385,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+65,Showroom Sophia,XD Cabinet,Socket wrench 7750SL,Socket wrench,SW-7750,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+66,Showroom Sophia,XD Cabinet,Socket wrench J.151A,Socket wrench,SW-151,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+67,Showroom Sophia,XD Cabinet,Socket wrench S.153A,Socket wrench,SW-153,Socket wrench,1,2016-01-21 13:39:20,adminnexess,adminnexess,RETURN
+68,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+69,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+70,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+71,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+72,Showroom Sophia,XD Cabinet,Inspection lamp LED,Light,LED-00,Inspection lamp LED,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+73,Showroom Sophia,XD Cabinet,Multimeter,Multimeter,MR-01,89 IV True-RMS Multimeter,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+74,Showroom Sophia,XD Cabinet,Thermometer 9ZTR410YT,Thermometer,TM-9,Thermometer 9ZTR410YT,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+75,Showroom Sophia,XD Cabinet,Air Riveter 1031,Air Riveter ,AR-1031,Air Riveter nø1031,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+76,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #7,Socket wrench,SW-387,Socket wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+77,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+78,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:00:19,adminnexess,adminnexess,RETURN
+79,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:02:19,adminnexess,adminnexess,RETURN
+80,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+81,Showroom Sophia,XD Cabinet,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+82,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+83,Showroom Sophia,XD Cabinet,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+84,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+85,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+86,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+87,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:19:39,adminnexess,adminnexess,RETURN
+88,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+89,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+90,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+91,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+92,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+93,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+94,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+95,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+96,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+97,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+98,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+99,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+100,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:24:26,adminnexess,adminnexess,RETURN
+101,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+102,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+103,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+104,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+105,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+106,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+107,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+108,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+109,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+110,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+111,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+112,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+113,Showroom Sophia,XD Cabinet,Drill Box #14,Box,DB-14,Drill Box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+114,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+115,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+116,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+117,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+118,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+119,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+120,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+121,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+122,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+123,Showroom Sophia,XD Cabinet,Drill Box #10,Box,DB-10,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+124,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+125,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+126,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+127,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+128,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+129,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+130,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 14:56:44,adminnexess,adminnexess,RETURN
+131,Showroom Sophia,XD Cabinet,Pneumatic Clamp 52,Clamp,PC-52,Pneumatic Clamp nø52,1,2016-01-21 15:12:00,adminnexess,adminnexess,RETURN
+132,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #1,Air Die Grinder,ADG-T5501,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+133,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #2,Air Die Grinder,ADG-T5502,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+134,Showroom Sophia,XD Cabinet,Air Die GrinderLBV24S019-91,Air Die Grinder,ADG-91,Air Die GrinderLBV24S019-91,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+135,Showroom Sophia,XD Cabinet,Air Ratchet Wrench 0184,Air Drill,ARW-01184,Air Ratchet Wrench nø0184,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+136,Showroom Sophia,XD Cabinet,Air Hammer 133L46,Air Hammer,AH-133L46,Air Hammer nø133L46,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+137,Showroom Sophia,XD Cabinet,Air Hammer 81477,Air Hammer,AH-81477,Air Hammer nø81477,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+138,Showroom Sophia,XD Cabinet,Duty Air Wrench 0299,Air Impact Wrench,DAW-0299,Duty Air Wrench nø0299,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+139,Showroom Sophia,XD Cabinet,Duty Air Wrench 1248122,Air Impact Wrench,DAW-1248122,Duty Air Wrench nø1248122,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+140,Showroom Sophia,XD Cabinet,Air Screwdriver 0058,Air Screwdriver,AS-0058,Air Screwdriver nø0058,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+141,Showroom Sophia,XD Cabinet,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+142,Showroom Sophia,XD Cabinet,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+143,Showroom Sophia,XD Cabinet,Air Screwdriver 0066,Air Screwdriver,AS-0066,Air Screwdriver nø0066,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+144,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+145,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+146,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+147,Showroom Sophia,XD Cabinet,Torque wrench 6151656300,Socket wrench,TW-5630,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+148,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+149,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P3000,Air Drill,LDP-3000,Light Duty Pistol Air Drill DR350-P3000,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+150,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P5500,Air Drill,LDP-5500,Light Duty Pistol Air Drill DR350-P5500,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+151,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR500-P2700,Air Drill,LDP-2700,Light Duty Pistol Air Drill DR500-P2700,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+152,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+153,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+154,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220311,Air Drill,DPA-11220311,Duty Pistol Air Drill nø11220311,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+155,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220321,Air Drill,DPA-11220321,Duty Pistol Air Drill nø11220321,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+156,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220329,Air Drill,DPA-11220329,Duty Pistol Air Drill nø11220329,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+157,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220336,Air Drill,DPA-11220336,Duty Pistol Air Drill nø11220336,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+158,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230296,Air Drill,DPA-11230296,Duty Pistol Air Drill nø11230296,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+159,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230303,Air Drill,DPA-11230303,Duty Pistol Air Drill nø11230303,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+160,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:10:30,adminnexess,adminnexess,RETURN
+161,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:16:37,adminnexess,adminnexess,RETURN
+162,Showroom Sophia,XL Cabinet,Combination Wrench 1/2,Wrench,CW-12,Combination Wrench 1/2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+163,Showroom Sophia,XL Cabinet,Combination Wrench 11,Wrench,CW-11,Combination Wrench 11,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+164,Showroom Sophia,XL Cabinet,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+165,Showroom Sophia,XL Cabinet,Combination Wrench 13 #1,Wrench,CW-131,Combination Wrench 13,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+166,Showroom Sophia,XL Cabinet,Combination Wrench 13/16,Wrench,CW-1316,Combination Wrench 13/16,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+167,Showroom Sophia,XL Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+168,Showroom Sophia,XL Cabinet,Combination Wrench 15 #1,Wrench,CW-151,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+169,Showroom Sophia,XL Cabinet,Combination Wrench 15 #2,Wrench,CW-152,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+170,Showroom Sophia,XL Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+171,Showroom Sophia,XL Cabinet,Combination Wrench 17 #2,Wrench,CW-172,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+172,Showroom Sophia,XL Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+173,Showroom Sophia,XL Cabinet,Combination Wrench 19 #1,Wrench,CW-191,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+174,Showroom Sophia,XL Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+175,Showroom Sophia,XL Cabinet,Combination Wrench 21 #1,Wrench,CW-211,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+176,Showroom Sophia,XL Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+177,Showroom Sophia,XL Cabinet,Combination Wrench 22,Wrench,CW-22,Combination Wrench 22,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+178,Showroom Sophia,XL Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+179,Showroom Sophia,XL Cabinet,Combination Wrench 5/8,Wrench,CW-58,Combination Wrench 5/8,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+180,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+181,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+182,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+183,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+184,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+185,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+186,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+187,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+188,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+189,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+190,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+191,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+192,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+193,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+194,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+195,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+196,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+197,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+198,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+199,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+200,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+1,Organisation,Showroom1,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-20 18:24:19,adminnexess,adminnexess,RETURN
+2,Showroom Sophia,XD Cabinet,Adjustable Wrench 6#6,Wrench,AW-66,Adjustable Wrench 6,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+3,Showroom Sophia,XD Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+4,Showroom Sophia,XD Cabinet,Combination Wrench 16,Wrench,CW-16,Combination Wrench 16,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+5,Showroom Sophia,XD Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+6,Showroom Sophia,XD Cabinet,Combination Wrench 18 #1,Wrench,CW-181,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+7,Showroom Sophia,XD Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+8,Showroom Sophia,XD Cabinet,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+9,Showroom Sophia,XD Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+10,Showroom Sophia,XD Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+11,Showroom Sophia,XD Cabinet,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+12,Showroom Sophia,XD Cabinet,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+13,Showroom Sophia,XD Cabinet,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+14,Showroom Sophia,XD Cabinet,Combination Wrench 1 #2,Wrench,CW-101,Combination Wrench 1 #1,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+15,Showroom Sophia,XD Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+16,Showroom Sophia,XD Cabinet,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+17,Showroom Sophia,XD Cabinet,Flat screwdriver #1,Screw driver,FSD-1,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+18,Showroom Sophia,XD Cabinet,Flat screwdriver #2,Screw driver,FSD-2,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+19,Showroom Sophia,XD Cabinet,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+20,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+21,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+22,Showroom Sophia,XD Cabinet,Flat screwdriver #6,Screw driver,FSD-6,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+23,Showroom Sophia,XD Cabinet,Flat screwdriver #7,Screw driver,FSD-7,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+24,Showroom Sophia,XD Cabinet,Flat screwdriver #8,Screw driver,FSD-8,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+25,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+26,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+27,Showroom Sophia,XD Cabinet,Flat screwdriver #11,Screw driver,FSD-11,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+28,Showroom Sophia,XD Cabinet,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+29,Showroom Sophia,XD Cabinet,Flat screwdriver #13,Screw driver,FSD-13,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+30,Showroom Sophia,XD Cabinet,Flat screwdriver #14,Screw driver,FSD-14,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+31,Showroom Sophia,XD Cabinet,Cruciform screwdriver #1,Screw driver,CSD-1,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+32,Showroom Sophia,XD Cabinet,Cruciform screwdriver #2,Screw driver,CSD-2,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+33,Showroom Sophia,XD Cabinet,Cruciform screwdriver #3,Screw driver,CSD-3,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+34,Showroom Sophia,XD Cabinet,Cruciform screwdriver #4,Screw driver,CSD-4,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+35,Showroom Sophia,XD Cabinet,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+36,Showroom Sophia,XD Cabinet,Cruciform screwdriver #6,Screw driver,CSD-6,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+37,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+38,Showroom Sophia,XD Cabinet,Cruciform screwdriver #8,Screw driver,CSD-8,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+39,Showroom Sophia,XD Cabinet,Cruciform screwdriver #9,Screw driver,CSD-9,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+40,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+41,Showroom Sophia,XD Cabinet,Torx screwdriver #2,Screw driver,TSD-2,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+42,Showroom Sophia,XD Cabinet,Torx screwdriver #3,Screw driver,TSD-3,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+43,Showroom Sophia,XD Cabinet,Torx screwdriver #4,Screw driver,TSD-4,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+44,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+45,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+46,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+47,Showroom Sophia,XD Cabinet,Torx screwdriver #8,Screw driver,TSD-8,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+48,Showroom Sophia,XD Cabinet,Torx screwdriver #9,Screw driver,TSD-9,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+49,Showroom Sophia,XD Cabinet,Torx screwdriver #10,Screw driver,TSD-10,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+50,Showroom Sophia,XD Cabinet,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+51,Showroom Sophia,XD Cabinet,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+52,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+53,Showroom Sophia,XD Cabinet,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+54,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+55,Showroom Sophia,XD Cabinet,Long nose plier #2,Pliers,LNP-2,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+56,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+57,Showroom Sophia,XD Cabinet,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+58,Showroom Sophia,XD Cabinet,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+59,Showroom Sophia,XD Cabinet,Cutting Plier #3,Pliers,CP-3,Cutting Pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+60,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #1,Socket wrench,SW-381,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+61,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+62,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+63,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+64,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #5,Socket wrench,SW-385,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+65,Showroom Sophia,XD Cabinet,Socket wrench 7750SL,Socket wrench,SW-7750,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+66,Showroom Sophia,XD Cabinet,Socket wrench J.151A,Socket wrench,SW-151,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+67,Showroom Sophia,XD Cabinet,Socket wrench S.153A,Socket wrench,SW-153,Socket wrench,1,2016-01-21 13:39:20,adminnexess,adminnexess,RETURN
+68,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+69,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+70,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+71,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+72,Showroom Sophia,XD Cabinet,Inspection lamp LED,Light,LED-00,Inspection lamp LED,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+73,Showroom Sophia,XD Cabinet,Multimeter,Multimeter,MR-01,89 IV True-RMS Multimeter,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+74,Showroom Sophia,XD Cabinet,Thermometer 9ZTR410YT,Thermometer,TM-9,Thermometer 9ZTR410YT,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+75,Showroom Sophia,XD Cabinet,Air Riveter 1031,Air Riveter ,AR-1031,Air Riveter nø1031,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+76,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #7,Socket wrench,SW-387,Socket wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+77,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+78,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:00:19,adminnexess,adminnexess,RETURN
+79,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:02:19,adminnexess,adminnexess,RETURN
+80,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+81,Showroom Sophia,XD Cabinet,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+82,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+83,Showroom Sophia,XD Cabinet,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+84,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+85,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+86,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+87,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:19:39,adminnexess,adminnexess,RETURN
+88,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+89,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+90,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+91,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+92,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+93,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+94,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+95,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+96,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+97,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+98,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+99,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+100,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:24:26,adminnexess,adminnexess,RETURN
+101,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+102,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+103,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+104,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+105,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+106,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+107,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+108,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+109,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+110,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+111,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+112,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+113,Showroom Sophia,XD Cabinet,Drill Box #14,Box,DB-14,Drill Box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+114,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+115,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+116,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+117,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+118,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+119,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+120,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+121,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+122,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+123,Showroom Sophia,XD Cabinet,Drill Box #10,Box,DB-10,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+124,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+125,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+126,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+127,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+128,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+129,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+130,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 14:56:44,adminnexess,adminnexess,RETURN
+131,Showroom Sophia,XD Cabinet,Pneumatic Clamp 52,Clamp,PC-52,Pneumatic Clamp nø52,1,2016-01-21 15:12:00,adminnexess,adminnexess,RETURN
+132,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #1,Air Die Grinder,ADG-T5501,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+133,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #2,Air Die Grinder,ADG-T5502,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+134,Showroom Sophia,XD Cabinet,Air Die GrinderLBV24S019-91,Air Die Grinder,ADG-91,Air Die GrinderLBV24S019-91,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+135,Showroom Sophia,XD Cabinet,Air Ratchet Wrench 0184,Air Drill,ARW-01184,Air Ratchet Wrench nø0184,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+136,Showroom Sophia,XD Cabinet,Air Hammer 133L46,Air Hammer,AH-133L46,Air Hammer nø133L46,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+137,Showroom Sophia,XD Cabinet,Air Hammer 81477,Air Hammer,AH-81477,Air Hammer nø81477,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+138,Showroom Sophia,XD Cabinet,Duty Air Wrench 0299,Air Impact Wrench,DAW-0299,Duty Air Wrench nø0299,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+139,Showroom Sophia,XD Cabinet,Duty Air Wrench 1248122,Air Impact Wrench,DAW-1248122,Duty Air Wrench nø1248122,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+140,Showroom Sophia,XD Cabinet,Air Screwdriver 0058,Air Screwdriver,AS-0058,Air Screwdriver nø0058,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+141,Showroom Sophia,XD Cabinet,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+142,Showroom Sophia,XD Cabinet,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+143,Showroom Sophia,XD Cabinet,Air Screwdriver 0066,Air Screwdriver,AS-0066,Air Screwdriver nø0066,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+144,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+145,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+146,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+147,Showroom Sophia,XD Cabinet,Torque wrench 6151656300,Socket wrench,TW-5630,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+148,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+149,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P3000,Air Drill,LDP-3000,Light Duty Pistol Air Drill DR350-P3000,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+150,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P5500,Air Drill,LDP-5500,Light Duty Pistol Air Drill DR350-P5500,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+151,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR500-P2700,Air Drill,LDP-2700,Light Duty Pistol Air Drill DR500-P2700,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+152,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+153,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+154,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220311,Air Drill,DPA-11220311,Duty Pistol Air Drill nø11220311,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+155,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220321,Air Drill,DPA-11220321,Duty Pistol Air Drill nø11220321,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+156,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220329,Air Drill,DPA-11220329,Duty Pistol Air Drill nø11220329,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+157,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220336,Air Drill,DPA-11220336,Duty Pistol Air Drill nø11220336,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+158,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230296,Air Drill,DPA-11230296,Duty Pistol Air Drill nø11230296,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+159,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230303,Air Drill,DPA-11230303,Duty Pistol Air Drill nø11230303,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+160,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:10:30,adminnexess,adminnexess,RETURN
+161,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:16:37,adminnexess,adminnexess,RETURN
+162,Showroom Sophia,XL Cabinet,Combination Wrench 1/2,Wrench,CW-12,Combination Wrench 1/2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+163,Showroom Sophia,XL Cabinet,Combination Wrench 11,Wrench,CW-11,Combination Wrench 11,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+164,Showroom Sophia,XL Cabinet,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+165,Showroom Sophia,XL Cabinet,Combination Wrench 13 #1,Wrench,CW-131,Combination Wrench 13,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+166,Showroom Sophia,XL Cabinet,Combination Wrench 13/16,Wrench,CW-1316,Combination Wrench 13/16,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+167,Showroom Sophia,XL Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+168,Showroom Sophia,XL Cabinet,Combination Wrench 15 #1,Wrench,CW-151,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+169,Showroom Sophia,XL Cabinet,Combination Wrench 15 #2,Wrench,CW-152,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+170,Showroom Sophia,XL Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+171,Showroom Sophia,XL Cabinet,Combination Wrench 17 #2,Wrench,CW-172,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+172,Showroom Sophia,XL Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+173,Showroom Sophia,XL Cabinet,Combination Wrench 19 #1,Wrench,CW-191,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+174,Showroom Sophia,XL Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+175,Showroom Sophia,XL Cabinet,Combination Wrench 21 #1,Wrench,CW-211,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+176,Showroom Sophia,XL Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+177,Showroom Sophia,XL Cabinet,Combination Wrench 22,Wrench,CW-22,Combination Wrench 22,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+178,Showroom Sophia,XL Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+179,Showroom Sophia,XL Cabinet,Combination Wrench 5/8,Wrench,CW-58,Combination Wrench 5/8,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+180,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+181,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+182,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+183,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+184,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+185,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+186,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+187,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+188,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+189,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+190,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+191,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+192,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+193,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+194,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+195,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+196,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+197,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+198,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+199,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+200,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+1,Organisation,Showroom1,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-20 18:24:19,adminnexess,adminnexess,RETURN
+2,Showroom Sophia,XD Cabinet,Adjustable Wrench 6#6,Wrench,AW-66,Adjustable Wrench 6,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+3,Showroom Sophia,XD Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+4,Showroom Sophia,XD Cabinet,Combination Wrench 16,Wrench,CW-16,Combination Wrench 16,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+5,Showroom Sophia,XD Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+6,Showroom Sophia,XD Cabinet,Combination Wrench 18 #1,Wrench,CW-181,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+7,Showroom Sophia,XD Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+8,Showroom Sophia,XD Cabinet,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+9,Showroom Sophia,XD Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+10,Showroom Sophia,XD Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+11,Showroom Sophia,XD Cabinet,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+12,Showroom Sophia,XD Cabinet,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+13,Showroom Sophia,XD Cabinet,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+14,Showroom Sophia,XD Cabinet,Combination Wrench 1 #2,Wrench,CW-101,Combination Wrench 1 #1,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+15,Showroom Sophia,XD Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+16,Showroom Sophia,XD Cabinet,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+17,Showroom Sophia,XD Cabinet,Flat screwdriver #1,Screw driver,FSD-1,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+18,Showroom Sophia,XD Cabinet,Flat screwdriver #2,Screw driver,FSD-2,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+19,Showroom Sophia,XD Cabinet,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+20,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+21,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+22,Showroom Sophia,XD Cabinet,Flat screwdriver #6,Screw driver,FSD-6,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+23,Showroom Sophia,XD Cabinet,Flat screwdriver #7,Screw driver,FSD-7,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+24,Showroom Sophia,XD Cabinet,Flat screwdriver #8,Screw driver,FSD-8,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+25,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+26,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+27,Showroom Sophia,XD Cabinet,Flat screwdriver #11,Screw driver,FSD-11,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+28,Showroom Sophia,XD Cabinet,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+29,Showroom Sophia,XD Cabinet,Flat screwdriver #13,Screw driver,FSD-13,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+30,Showroom Sophia,XD Cabinet,Flat screwdriver #14,Screw driver,FSD-14,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+31,Showroom Sophia,XD Cabinet,Cruciform screwdriver #1,Screw driver,CSD-1,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+32,Showroom Sophia,XD Cabinet,Cruciform screwdriver #2,Screw driver,CSD-2,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+33,Showroom Sophia,XD Cabinet,Cruciform screwdriver #3,Screw driver,CSD-3,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+34,Showroom Sophia,XD Cabinet,Cruciform screwdriver #4,Screw driver,CSD-4,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+35,Showroom Sophia,XD Cabinet,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+36,Showroom Sophia,XD Cabinet,Cruciform screwdriver #6,Screw driver,CSD-6,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+37,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+38,Showroom Sophia,XD Cabinet,Cruciform screwdriver #8,Screw driver,CSD-8,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+39,Showroom Sophia,XD Cabinet,Cruciform screwdriver #9,Screw driver,CSD-9,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+40,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+41,Showroom Sophia,XD Cabinet,Torx screwdriver #2,Screw driver,TSD-2,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+42,Showroom Sophia,XD Cabinet,Torx screwdriver #3,Screw driver,TSD-3,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+43,Showroom Sophia,XD Cabinet,Torx screwdriver #4,Screw driver,TSD-4,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+44,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+45,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+46,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+47,Showroom Sophia,XD Cabinet,Torx screwdriver #8,Screw driver,TSD-8,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+48,Showroom Sophia,XD Cabinet,Torx screwdriver #9,Screw driver,TSD-9,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+49,Showroom Sophia,XD Cabinet,Torx screwdriver #10,Screw driver,TSD-10,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+50,Showroom Sophia,XD Cabinet,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+51,Showroom Sophia,XD Cabinet,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+52,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+53,Showroom Sophia,XD Cabinet,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+54,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+55,Showroom Sophia,XD Cabinet,Long nose plier #2,Pliers,LNP-2,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+56,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+57,Showroom Sophia,XD Cabinet,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+58,Showroom Sophia,XD Cabinet,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+59,Showroom Sophia,XD Cabinet,Cutting Plier #3,Pliers,CP-3,Cutting Pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+60,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #1,Socket wrench,SW-381,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+61,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+62,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+63,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+64,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #5,Socket wrench,SW-385,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+65,Showroom Sophia,XD Cabinet,Socket wrench 7750SL,Socket wrench,SW-7750,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+66,Showroom Sophia,XD Cabinet,Socket wrench J.151A,Socket wrench,SW-151,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+67,Showroom Sophia,XD Cabinet,Socket wrench S.153A,Socket wrench,SW-153,Socket wrench,1,2016-01-21 13:39:20,adminnexess,adminnexess,RETURN
+68,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+69,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+70,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+71,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+72,Showroom Sophia,XD Cabinet,Inspection lamp LED,Light,LED-00,Inspection lamp LED,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+73,Showroom Sophia,XD Cabinet,Multimeter,Multimeter,MR-01,89 IV True-RMS Multimeter,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+74,Showroom Sophia,XD Cabinet,Thermometer 9ZTR410YT,Thermometer,TM-9,Thermometer 9ZTR410YT,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+75,Showroom Sophia,XD Cabinet,Air Riveter 1031,Air Riveter ,AR-1031,Air Riveter nø1031,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+76,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #7,Socket wrench,SW-387,Socket wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+77,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+78,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:00:19,adminnexess,adminnexess,RETURN
+79,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:02:19,adminnexess,adminnexess,RETURN
+80,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+81,Showroom Sophia,XD Cabinet,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+82,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+83,Showroom Sophia,XD Cabinet,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+84,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+85,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+86,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+87,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:19:39,adminnexess,adminnexess,RETURN
+88,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+89,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+90,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+91,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+92,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+93,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+94,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+95,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+96,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+97,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+98,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+99,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+100,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:24:26,adminnexess,adminnexess,RETURN
+101,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+102,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+103,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+104,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+105,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+106,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+107,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+108,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+109,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+110,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+111,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+112,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+113,Showroom Sophia,XD Cabinet,Drill Box #14,Box,DB-14,Drill Box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+114,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+115,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+116,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+117,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+118,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+119,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+120,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+121,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+122,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+123,Showroom Sophia,XD Cabinet,Drill Box #10,Box,DB-10,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+124,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+125,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+126,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+127,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+128,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+129,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+130,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 14:56:44,adminnexess,adminnexess,RETURN
+131,Showroom Sophia,XD Cabinet,Pneumatic Clamp 52,Clamp,PC-52,Pneumatic Clamp nø52,1,2016-01-21 15:12:00,adminnexess,adminnexess,RETURN
+132,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #1,Air Die Grinder,ADG-T5501,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+133,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #2,Air Die Grinder,ADG-T5502,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+134,Showroom Sophia,XD Cabinet,Air Die GrinderLBV24S019-91,Air Die Grinder,ADG-91,Air Die GrinderLBV24S019-91,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+135,Showroom Sophia,XD Cabinet,Air Ratchet Wrench 0184,Air Drill,ARW-01184,Air Ratchet Wrench nø0184,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+136,Showroom Sophia,XD Cabinet,Air Hammer 133L46,Air Hammer,AH-133L46,Air Hammer nø133L46,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+137,Showroom Sophia,XD Cabinet,Air Hammer 81477,Air Hammer,AH-81477,Air Hammer nø81477,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+138,Showroom Sophia,XD Cabinet,Duty Air Wrench 0299,Air Impact Wrench,DAW-0299,Duty Air Wrench nø0299,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+139,Showroom Sophia,XD Cabinet,Duty Air Wrench 1248122,Air Impact Wrench,DAW-1248122,Duty Air Wrench nø1248122,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+140,Showroom Sophia,XD Cabinet,Air Screwdriver 0058,Air Screwdriver,AS-0058,Air Screwdriver nø0058,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+141,Showroom Sophia,XD Cabinet,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+142,Showroom Sophia,XD Cabinet,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+143,Showroom Sophia,XD Cabinet,Air Screwdriver 0066,Air Screwdriver,AS-0066,Air Screwdriver nø0066,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+144,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+145,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+146,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+147,Showroom Sophia,XD Cabinet,Torque wrench 6151656300,Socket wrench,TW-5630,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+148,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+149,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P3000,Air Drill,LDP-3000,Light Duty Pistol Air Drill DR350-P3000,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+150,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P5500,Air Drill,LDP-5500,Light Duty Pistol Air Drill DR350-P5500,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+151,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR500-P2700,Air Drill,LDP-2700,Light Duty Pistol Air Drill DR500-P2700,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+152,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+153,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+154,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220311,Air Drill,DPA-11220311,Duty Pistol Air Drill nø11220311,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+155,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220321,Air Drill,DPA-11220321,Duty Pistol Air Drill nø11220321,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+156,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220329,Air Drill,DPA-11220329,Duty Pistol Air Drill nø11220329,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+157,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220336,Air Drill,DPA-11220336,Duty Pistol Air Drill nø11220336,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+158,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230296,Air Drill,DPA-11230296,Duty Pistol Air Drill nø11230296,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+159,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230303,Air Drill,DPA-11230303,Duty Pistol Air Drill nø11230303,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+160,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:10:30,adminnexess,adminnexess,RETURN
+161,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:16:37,adminnexess,adminnexess,RETURN
+162,Showroom Sophia,XL Cabinet,Combination Wrench 1/2,Wrench,CW-12,Combination Wrench 1/2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+163,Showroom Sophia,XL Cabinet,Combination Wrench 11,Wrench,CW-11,Combination Wrench 11,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+164,Showroom Sophia,XL Cabinet,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+165,Showroom Sophia,XL Cabinet,Combination Wrench 13 #1,Wrench,CW-131,Combination Wrench 13,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+166,Showroom Sophia,XL Cabinet,Combination Wrench 13/16,Wrench,CW-1316,Combination Wrench 13/16,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+167,Showroom Sophia,XL Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+168,Showroom Sophia,XL Cabinet,Combination Wrench 15 #1,Wrench,CW-151,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+169,Showroom Sophia,XL Cabinet,Combination Wrench 15 #2,Wrench,CW-152,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+170,Showroom Sophia,XL Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+171,Showroom Sophia,XL Cabinet,Combination Wrench 17 #2,Wrench,CW-172,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+172,Showroom Sophia,XL Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+173,Showroom Sophia,XL Cabinet,Combination Wrench 19 #1,Wrench,CW-191,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+174,Showroom Sophia,XL Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+175,Showroom Sophia,XL Cabinet,Combination Wrench 21 #1,Wrench,CW-211,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+176,Showroom Sophia,XL Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+177,Showroom Sophia,XL Cabinet,Combination Wrench 22,Wrench,CW-22,Combination Wrench 22,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+178,Showroom Sophia,XL Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+179,Showroom Sophia,XL Cabinet,Combination Wrench 5/8,Wrench,CW-58,Combination Wrench 5/8,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+180,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+181,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+182,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+183,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+184,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+185,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+186,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+187,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+188,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+189,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+190,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+191,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+192,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+193,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+194,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+195,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+196,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+197,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+198,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+199,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+200,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+1,Organisation,Showroom1,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-20 18:24:19,adminnexess,adminnexess,RETURN
+2,Showroom Sophia,XD Cabinet,Adjustable Wrench 6#6,Wrench,AW-66,Adjustable Wrench 6,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+3,Showroom Sophia,XD Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+4,Showroom Sophia,XD Cabinet,Combination Wrench 16,Wrench,CW-16,Combination Wrench 16,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+5,Showroom Sophia,XD Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+6,Showroom Sophia,XD Cabinet,Combination Wrench 18 #1,Wrench,CW-181,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+7,Showroom Sophia,XD Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+8,Showroom Sophia,XD Cabinet,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+9,Showroom Sophia,XD Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+10,Showroom Sophia,XD Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+11,Showroom Sophia,XD Cabinet,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+12,Showroom Sophia,XD Cabinet,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+13,Showroom Sophia,XD Cabinet,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+14,Showroom Sophia,XD Cabinet,Combination Wrench 1 #2,Wrench,CW-101,Combination Wrench 1 #1,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+15,Showroom Sophia,XD Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+16,Showroom Sophia,XD Cabinet,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+17,Showroom Sophia,XD Cabinet,Flat screwdriver #1,Screw driver,FSD-1,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+18,Showroom Sophia,XD Cabinet,Flat screwdriver #2,Screw driver,FSD-2,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+19,Showroom Sophia,XD Cabinet,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+20,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+21,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+22,Showroom Sophia,XD Cabinet,Flat screwdriver #6,Screw driver,FSD-6,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+23,Showroom Sophia,XD Cabinet,Flat screwdriver #7,Screw driver,FSD-7,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+24,Showroom Sophia,XD Cabinet,Flat screwdriver #8,Screw driver,FSD-8,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+25,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+26,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+27,Showroom Sophia,XD Cabinet,Flat screwdriver #11,Screw driver,FSD-11,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+28,Showroom Sophia,XD Cabinet,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+29,Showroom Sophia,XD Cabinet,Flat screwdriver #13,Screw driver,FSD-13,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+30,Showroom Sophia,XD Cabinet,Flat screwdriver #14,Screw driver,FSD-14,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+31,Showroom Sophia,XD Cabinet,Cruciform screwdriver #1,Screw driver,CSD-1,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+32,Showroom Sophia,XD Cabinet,Cruciform screwdriver #2,Screw driver,CSD-2,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+33,Showroom Sophia,XD Cabinet,Cruciform screwdriver #3,Screw driver,CSD-3,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+34,Showroom Sophia,XD Cabinet,Cruciform screwdriver #4,Screw driver,CSD-4,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+35,Showroom Sophia,XD Cabinet,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+36,Showroom Sophia,XD Cabinet,Cruciform screwdriver #6,Screw driver,CSD-6,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+37,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+38,Showroom Sophia,XD Cabinet,Cruciform screwdriver #8,Screw driver,CSD-8,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+39,Showroom Sophia,XD Cabinet,Cruciform screwdriver #9,Screw driver,CSD-9,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+40,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+41,Showroom Sophia,XD Cabinet,Torx screwdriver #2,Screw driver,TSD-2,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+42,Showroom Sophia,XD Cabinet,Torx screwdriver #3,Screw driver,TSD-3,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+43,Showroom Sophia,XD Cabinet,Torx screwdriver #4,Screw driver,TSD-4,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+44,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+45,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+46,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+47,Showroom Sophia,XD Cabinet,Torx screwdriver #8,Screw driver,TSD-8,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+48,Showroom Sophia,XD Cabinet,Torx screwdriver #9,Screw driver,TSD-9,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+49,Showroom Sophia,XD Cabinet,Torx screwdriver #10,Screw driver,TSD-10,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+50,Showroom Sophia,XD Cabinet,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+51,Showroom Sophia,XD Cabinet,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+52,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+53,Showroom Sophia,XD Cabinet,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+54,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+55,Showroom Sophia,XD Cabinet,Long nose plier #2,Pliers,LNP-2,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+56,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+57,Showroom Sophia,XD Cabinet,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+58,Showroom Sophia,XD Cabinet,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+59,Showroom Sophia,XD Cabinet,Cutting Plier #3,Pliers,CP-3,Cutting Pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+60,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #1,Socket wrench,SW-381,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+61,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+62,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+63,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+64,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #5,Socket wrench,SW-385,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+65,Showroom Sophia,XD Cabinet,Socket wrench 7750SL,Socket wrench,SW-7750,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+66,Showroom Sophia,XD Cabinet,Socket wrench J.151A,Socket wrench,SW-151,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+67,Showroom Sophia,XD Cabinet,Socket wrench S.153A,Socket wrench,SW-153,Socket wrench,1,2016-01-21 13:39:20,adminnexess,adminnexess,RETURN
+68,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+69,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+70,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+71,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+72,Showroom Sophia,XD Cabinet,Inspection lamp LED,Light,LED-00,Inspection lamp LED,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+73,Showroom Sophia,XD Cabinet,Multimeter,Multimeter,MR-01,89 IV True-RMS Multimeter,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+74,Showroom Sophia,XD Cabinet,Thermometer 9ZTR410YT,Thermometer,TM-9,Thermometer 9ZTR410YT,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+75,Showroom Sophia,XD Cabinet,Air Riveter 1031,Air Riveter ,AR-1031,Air Riveter nø1031,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+76,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #7,Socket wrench,SW-387,Socket wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+77,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+78,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:00:19,adminnexess,adminnexess,RETURN
+79,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:02:19,adminnexess,adminnexess,RETURN
+80,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+81,Showroom Sophia,XD Cabinet,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+82,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+83,Showroom Sophia,XD Cabinet,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+84,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+85,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+86,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+87,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:19:39,adminnexess,adminnexess,RETURN
+88,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+89,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+90,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+91,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+92,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+93,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+94,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+95,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+96,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+97,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+98,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+99,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+100,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:24:26,adminnexess,adminnexess,RETURN
+101,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+102,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+103,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+104,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+105,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+106,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+107,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+108,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+109,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+110,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+111,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+112,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+113,Showroom Sophia,XD Cabinet,Drill Box #14,Box,DB-14,Drill Box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+114,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+115,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+116,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+117,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+118,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+119,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+120,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+121,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+122,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+123,Showroom Sophia,XD Cabinet,Drill Box #10,Box,DB-10,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+124,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+125,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+126,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+127,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+128,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+129,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+130,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 14:56:44,adminnexess,adminnexess,RETURN
+131,Showroom Sophia,XD Cabinet,Pneumatic Clamp 52,Clamp,PC-52,Pneumatic Clamp nø52,1,2016-01-21 15:12:00,adminnexess,adminnexess,RETURN
+132,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #1,Air Die Grinder,ADG-T5501,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+133,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #2,Air Die Grinder,ADG-T5502,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+134,Showroom Sophia,XD Cabinet,Air Die GrinderLBV24S019-91,Air Die Grinder,ADG-91,Air Die GrinderLBV24S019-91,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+135,Showroom Sophia,XD Cabinet,Air Ratchet Wrench 0184,Air Drill,ARW-01184,Air Ratchet Wrench nø0184,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+136,Showroom Sophia,XD Cabinet,Air Hammer 133L46,Air Hammer,AH-133L46,Air Hammer nø133L46,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+137,Showroom Sophia,XD Cabinet,Air Hammer 81477,Air Hammer,AH-81477,Air Hammer nø81477,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+138,Showroom Sophia,XD Cabinet,Duty Air Wrench 0299,Air Impact Wrench,DAW-0299,Duty Air Wrench nø0299,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+139,Showroom Sophia,XD Cabinet,Duty Air Wrench 1248122,Air Impact Wrench,DAW-1248122,Duty Air Wrench nø1248122,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+140,Showroom Sophia,XD Cabinet,Air Screwdriver 0058,Air Screwdriver,AS-0058,Air Screwdriver nø0058,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+141,Showroom Sophia,XD Cabinet,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+142,Showroom Sophia,XD Cabinet,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+143,Showroom Sophia,XD Cabinet,Air Screwdriver 0066,Air Screwdriver,AS-0066,Air Screwdriver nø0066,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+144,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+145,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+146,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+147,Showroom Sophia,XD Cabinet,Torque wrench 6151656300,Socket wrench,TW-5630,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+148,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+149,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P3000,Air Drill,LDP-3000,Light Duty Pistol Air Drill DR350-P3000,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+150,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P5500,Air Drill,LDP-5500,Light Duty Pistol Air Drill DR350-P5500,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+151,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR500-P2700,Air Drill,LDP-2700,Light Duty Pistol Air Drill DR500-P2700,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+152,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+153,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+154,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220311,Air Drill,DPA-11220311,Duty Pistol Air Drill nø11220311,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+155,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220321,Air Drill,DPA-11220321,Duty Pistol Air Drill nø11220321,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+156,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220329,Air Drill,DPA-11220329,Duty Pistol Air Drill nø11220329,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+157,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220336,Air Drill,DPA-11220336,Duty Pistol Air Drill nø11220336,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+158,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230296,Air Drill,DPA-11230296,Duty Pistol Air Drill nø11230296,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+159,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230303,Air Drill,DPA-11230303,Duty Pistol Air Drill nø11230303,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+160,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:10:30,adminnexess,adminnexess,RETURN
+161,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:16:37,adminnexess,adminnexess,RETURN
+162,Showroom Sophia,XL Cabinet,Combination Wrench 1/2,Wrench,CW-12,Combination Wrench 1/2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+163,Showroom Sophia,XL Cabinet,Combination Wrench 11,Wrench,CW-11,Combination Wrench 11,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+164,Showroom Sophia,XL Cabinet,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+165,Showroom Sophia,XL Cabinet,Combination Wrench 13 #1,Wrench,CW-131,Combination Wrench 13,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+166,Showroom Sophia,XL Cabinet,Combination Wrench 13/16,Wrench,CW-1316,Combination Wrench 13/16,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+167,Showroom Sophia,XL Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+168,Showroom Sophia,XL Cabinet,Combination Wrench 15 #1,Wrench,CW-151,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+169,Showroom Sophia,XL Cabinet,Combination Wrench 15 #2,Wrench,CW-152,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+170,Showroom Sophia,XL Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+171,Showroom Sophia,XL Cabinet,Combination Wrench 17 #2,Wrench,CW-172,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+172,Showroom Sophia,XL Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+173,Showroom Sophia,XL Cabinet,Combination Wrench 19 #1,Wrench,CW-191,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+174,Showroom Sophia,XL Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+175,Showroom Sophia,XL Cabinet,Combination Wrench 21 #1,Wrench,CW-211,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+176,Showroom Sophia,XL Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+177,Showroom Sophia,XL Cabinet,Combination Wrench 22,Wrench,CW-22,Combination Wrench 22,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+178,Showroom Sophia,XL Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+179,Showroom Sophia,XL Cabinet,Combination Wrench 5/8,Wrench,CW-58,Combination Wrench 5/8,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+180,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+181,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+182,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+183,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+184,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+185,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+186,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+187,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+188,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+189,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+190,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+191,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+192,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+193,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+194,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+195,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+196,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+197,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+198,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+199,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+200,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+1,Organisation,Showroom1,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-20 18:24:19,adminnexess,adminnexess,RETURN
+2,Showroom Sophia,XD Cabinet,Adjustable Wrench 6#6,Wrench,AW-66,Adjustable Wrench 6,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+3,Showroom Sophia,XD Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+4,Showroom Sophia,XD Cabinet,Combination Wrench 16,Wrench,CW-16,Combination Wrench 16,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+5,Showroom Sophia,XD Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+6,Showroom Sophia,XD Cabinet,Combination Wrench 18 #1,Wrench,CW-181,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+7,Showroom Sophia,XD Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+8,Showroom Sophia,XD Cabinet,Combination Wrench 19 #3,Wrench,CW-193,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+9,Showroom Sophia,XD Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+10,Showroom Sophia,XD Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+11,Showroom Sophia,XD Cabinet,Combination Wrench 24 #3,Wrench,CW-25,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+12,Showroom Sophia,XD Cabinet,Combination Wrench 24 #1,Wrench,CW-241,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+13,Showroom Sophia,XD Cabinet,Combination Wrench 24 #2,Wrench,CW-242,Combination Wrench 24,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+14,Showroom Sophia,XD Cabinet,Combination Wrench 1 #2,Wrench,CW-101,Combination Wrench 1 #1,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+15,Showroom Sophia,XD Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+16,Showroom Sophia,XD Cabinet,Combination Wrench 8,Wrench,CW-8,Combination Wrench 8,1,2016-01-21 11:20:35,adminnexess,adminnexess,RETURN
+17,Showroom Sophia,XD Cabinet,Flat screwdriver #1,Screw driver,FSD-1,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+18,Showroom Sophia,XD Cabinet,Flat screwdriver #2,Screw driver,FSD-2,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+19,Showroom Sophia,XD Cabinet,Flat screwdriver #3,Screw driver,FSD-3,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+20,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+21,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+22,Showroom Sophia,XD Cabinet,Flat screwdriver #6,Screw driver,FSD-6,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+23,Showroom Sophia,XD Cabinet,Flat screwdriver #7,Screw driver,FSD-7,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+24,Showroom Sophia,XD Cabinet,Flat screwdriver #8,Screw driver,FSD-8,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+25,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+26,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+27,Showroom Sophia,XD Cabinet,Flat screwdriver #11,Screw driver,FSD-11,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+28,Showroom Sophia,XD Cabinet,Flat screwdriver #12,Screw driver,FSD-12,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+29,Showroom Sophia,XD Cabinet,Flat screwdriver #13,Screw driver,FSD-13,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+30,Showroom Sophia,XD Cabinet,Flat screwdriver #14,Screw driver,FSD-14,Flat screwdriver,1,2016-01-21 11:36:36,adminnexess,adminnexess,RETURN
+31,Showroom Sophia,XD Cabinet,Cruciform screwdriver #1,Screw driver,CSD-1,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+32,Showroom Sophia,XD Cabinet,Cruciform screwdriver #2,Screw driver,CSD-2,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+33,Showroom Sophia,XD Cabinet,Cruciform screwdriver #3,Screw driver,CSD-3,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+34,Showroom Sophia,XD Cabinet,Cruciform screwdriver #4,Screw driver,CSD-4,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+35,Showroom Sophia,XD Cabinet,Cruciform screwdriver #5,Screw driver,CSD-5,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+36,Showroom Sophia,XD Cabinet,Cruciform screwdriver #6,Screw driver,CSD-6,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+37,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+38,Showroom Sophia,XD Cabinet,Cruciform screwdriver #8,Screw driver,CSD-8,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+39,Showroom Sophia,XD Cabinet,Cruciform screwdriver #9,Screw driver,CSD-9,Cruciform screwdriver,1,2016-01-21 11:52:22,adminnexess,adminnexess,RETURN
+40,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+41,Showroom Sophia,XD Cabinet,Torx screwdriver #2,Screw driver,TSD-2,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+42,Showroom Sophia,XD Cabinet,Torx screwdriver #3,Screw driver,TSD-3,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+43,Showroom Sophia,XD Cabinet,Torx screwdriver #4,Screw driver,TSD-4,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+44,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+45,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+46,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+47,Showroom Sophia,XD Cabinet,Torx screwdriver #8,Screw driver,TSD-8,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+48,Showroom Sophia,XD Cabinet,Torx screwdriver #9,Screw driver,TSD-9,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+49,Showroom Sophia,XD Cabinet,Torx screwdriver #10,Screw driver,TSD-10,Torx screwdriver,1,2016-01-21 12:02:43,adminnexess,adminnexess,RETURN
+50,Showroom Sophia,XD Cabinet,Cutting Plier #1,Pliers,CP-1,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+51,Showroom Sophia,XD Cabinet,Cutting Plier #2,Pliers,CP-2,Cutting pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+52,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+53,Showroom Sophia,XD Cabinet,Locking Plier,Pliers,LP-0,Locking pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+54,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+55,Showroom Sophia,XD Cabinet,Long nose plier #2,Pliers,LNP-2,Long nose and needle nose pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+56,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+57,Showroom Sophia,XD Cabinet,Inspection Mirror #1,Mirror,IM-1,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+58,Showroom Sophia,XD Cabinet,Inspection Mirror #2,Mirror,IM-2,Inspection Mirror 5515T-52,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+59,Showroom Sophia,XD Cabinet,Cutting Plier #3,Pliers,CP-3,Cutting Pliers,1,2016-01-21 13:23:19,adminnexess,adminnexess,RETURN
+60,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #1,Socket wrench,SW-381,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+61,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #2,Socket wrench,SW-382,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+62,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #3,Socket wrench,SW-383,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+63,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #4,Socket wrench,SW-384,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+64,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #5,Socket wrench,SW-385,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+65,Showroom Sophia,XD Cabinet,Socket wrench 7750SL,Socket wrench,SW-7750,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+66,Showroom Sophia,XD Cabinet,Socket wrench J.151A,Socket wrench,SW-151,Socket wrench,1,2016-01-21 13:38:38,adminnexess,adminnexess,RETURN
+67,Showroom Sophia,XD Cabinet,Socket wrench S.153A,Socket wrench,SW-153,Socket wrench,1,2016-01-21 13:39:20,adminnexess,adminnexess,RETURN
+68,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+69,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+70,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+71,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+72,Showroom Sophia,XD Cabinet,Inspection lamp LED,Light,LED-00,Inspection lamp LED,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+73,Showroom Sophia,XD Cabinet,Multimeter,Multimeter,MR-01,89 IV True-RMS Multimeter,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+74,Showroom Sophia,XD Cabinet,Thermometer 9ZTR410YT,Thermometer,TM-9,Thermometer 9ZTR410YT,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+75,Showroom Sophia,XD Cabinet,Air Riveter 1031,Air Riveter ,AR-1031,Air Riveter nø1031,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+76,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #7,Socket wrench,SW-387,Socket wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+77,Showroom Sophia,XD Cabinet,Socket wrench 7750RN-3/8 #6,Socket wrench,SW-386,Socket Wrench,1,2016-01-21 13:52:55,adminnexess,adminnexess,RETURN
+78,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:00:19,adminnexess,adminnexess,RETURN
+79,Showroom Sophia,XD Cabinet,Socket wrench 08-50 #2,Socket wrench,SW-80502,Socket wrench,1,2016-01-21 14:02:19,adminnexess,adminnexess,RETURN
+80,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+81,Showroom Sophia,XD Cabinet,Mallet hammer #1,Hammer,MH-1,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+82,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+83,Showroom Sophia,XD Cabinet,Mallet hammer #3,Hammer,MH-3,Mallet hammer,1,2016-01-21 14:05:39,adminnexess,adminnexess,RETURN
+84,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+85,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+86,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 14:09:30,adminnexess,adminnexess,RETURN
+87,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:19:39,adminnexess,adminnexess,RETURN
+88,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+89,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+90,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+91,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+92,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+93,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+94,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+95,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:20:31,adminnexess,adminnexess,RETURN
+96,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+97,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+98,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+99,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:23:38,adminnexess,adminnexess,RETURN
+100,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:24:26,adminnexess,adminnexess,RETURN
+101,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+102,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+103,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+104,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+105,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+106,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+107,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+108,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+109,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+110,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+111,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+112,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+113,Showroom Sophia,XD Cabinet,Drill Box #14,Box,DB-14,Drill Box,1,2016-01-21 14:26:38,adminnexess,adminnexess,RETURN
+114,Showroom Sophia,XD Cabinet,Drill Box #1,Box,DB-1,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+115,Showroom Sophia,XD Cabinet,Drill Box #2,Box,DB-2,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+116,Showroom Sophia,XD Cabinet,Drill Box #3,Box,DB-3,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+117,Showroom Sophia,XD Cabinet,Drill Box #4,Box,DB-4,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+118,Showroom Sophia,XD Cabinet,Drill Box #5,Box,DB-5,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+119,Showroom Sophia,XD Cabinet,Drill Box #6,Box,DB-6,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+120,Showroom Sophia,XD Cabinet,Drill Box #7,Box,DB-7,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+121,Showroom Sophia,XD Cabinet,Drill Box #8,Box,DB-8,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+122,Showroom Sophia,XD Cabinet,Drill Box #9,Box,DB-9,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+123,Showroom Sophia,XD Cabinet,Drill Box #10,Box,DB-10,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+124,Showroom Sophia,XD Cabinet,Drill Box #11,Box,DB-11,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+125,Showroom Sophia,XD Cabinet,Drill Box #12,Box,DB-12,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+126,Showroom Sophia,XD Cabinet,Drill Box #13,Box,DB-13,Drill box,1,2016-01-21 14:46:42,adminnexess,adminnexess,RETURN
+127,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+128,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+129,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 14:55:02,adminnexess,adminnexess,RETURN
+130,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 14:56:44,adminnexess,adminnexess,RETURN
+131,Showroom Sophia,XD Cabinet,Pneumatic Clamp 52,Clamp,PC-52,Pneumatic Clamp nø52,1,2016-01-21 15:12:00,adminnexess,adminnexess,RETURN
+132,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #1,Air Die Grinder,ADG-T5501,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+133,Showroom Sophia,XD Cabinet,Air Die Grinder DR300-T550 #2,Air Die Grinder,ADG-T5502,Air Die Grinder DR300-T550,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+134,Showroom Sophia,XD Cabinet,Air Die GrinderLBV24S019-91,Air Die Grinder,ADG-91,Air Die GrinderLBV24S019-91,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+135,Showroom Sophia,XD Cabinet,Air Ratchet Wrench 0184,Air Drill,ARW-01184,Air Ratchet Wrench nø0184,1,2016-01-21 15:15:22,adminnexess,adminnexess,RETURN
+136,Showroom Sophia,XD Cabinet,Air Hammer 133L46,Air Hammer,AH-133L46,Air Hammer nø133L46,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+137,Showroom Sophia,XD Cabinet,Air Hammer 81477,Air Hammer,AH-81477,Air Hammer nø81477,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+138,Showroom Sophia,XD Cabinet,Duty Air Wrench 0299,Air Impact Wrench,DAW-0299,Duty Air Wrench nø0299,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+139,Showroom Sophia,XD Cabinet,Duty Air Wrench 1248122,Air Impact Wrench,DAW-1248122,Duty Air Wrench nø1248122,1,2016-01-21 15:20:52,adminnexess,adminnexess,RETURN
+140,Showroom Sophia,XD Cabinet,Air Screwdriver 0058,Air Screwdriver,AS-0058,Air Screwdriver nø0058,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+141,Showroom Sophia,XD Cabinet,Air Screwdriver 0062,Air Screwdriver,AS-0062,Air Screwdriver nø0062,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+142,Showroom Sophia,XD Cabinet,Air Screwdriver 0063,Air Screwdriver,AS-0063,Air Screwdriver nø0063,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+143,Showroom Sophia,XD Cabinet,Air Screwdriver 0066,Air Screwdriver,AS-0066,Air Screwdriver nø0066,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+144,Showroom Sophia,XD Cabinet,Torque wrench 0311000642,Socket wrench,TW-0642,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+145,Showroom Sophia,XD Cabinet,Torque wrench 0311000680,Socket wrench,TW-0680,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+146,Showroom Sophia,XD Cabinet,Torque wrench 6151657380,Socket wrench,TW-7380,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+147,Showroom Sophia,XD Cabinet,Torque wrench 6151656300,Socket wrench,TW-5630,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+148,Showroom Sophia,XD Cabinet,Torque wrench 1013045057,Socket wrench,TW-5057,Torque Wrench,1,2016-01-21 15:35:25,adminnexess,adminnexess,RETURN
+149,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P3000,Air Drill,LDP-3000,Light Duty Pistol Air Drill DR350-P3000,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+150,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR350-P5500,Air Drill,LDP-5500,Light Duty Pistol Air Drill DR350-P5500,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+151,Showroom Sophia,XD Cabinet,Light Duty Pistol Air Drill DR500-P2700,Air Drill,LDP-2700,Light Duty Pistol Air Drill DR500-P2700,1,2016-01-21 15:43:56,adminnexess,adminnexess,RETURN
+152,Showroom Sophia,XD Cabinet,Handel air drill #1,Handel,HAD-1,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+153,Showroom Sophia,XD Cabinet,Handel air drill #2,Handel,HAD-2,Handel air drill,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+154,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220311,Air Drill,DPA-11220311,Duty Pistol Air Drill nø11220311,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+155,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220321,Air Drill,DPA-11220321,Duty Pistol Air Drill nø11220321,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+156,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220329,Air Drill,DPA-11220329,Duty Pistol Air Drill nø11220329,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+157,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11220336,Air Drill,DPA-11220336,Duty Pistol Air Drill nø11220336,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+158,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230296,Air Drill,DPA-11230296,Duty Pistol Air Drill nø11230296,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+159,Showroom Sophia,XD Cabinet,Duty Pistol Air Drill 11230303,Air Drill,DPA-11230303,Duty Pistol Air Drill nø11230303,1,2016-01-21 15:52:22,adminnexess,adminnexess,RETURN
+160,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:10:30,adminnexess,adminnexess,RETURN
+161,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:16:37,adminnexess,adminnexess,RETURN
+162,Showroom Sophia,XL Cabinet,Combination Wrench 1/2,Wrench,CW-12,Combination Wrench 1/2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+163,Showroom Sophia,XL Cabinet,Combination Wrench 11,Wrench,CW-11,Combination Wrench 11,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+164,Showroom Sophia,XL Cabinet,Combination Wrench 12 #2,Wrench,CW-122,Combination Wrench 12,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+165,Showroom Sophia,XL Cabinet,Combination Wrench 13 #1,Wrench,CW-131,Combination Wrench 13,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+166,Showroom Sophia,XL Cabinet,Combination Wrench 13/16,Wrench,CW-1316,Combination Wrench 13/16,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+167,Showroom Sophia,XL Cabinet,Combination Wrench 14 #1,Wrench,CW-141,Combination Wrench 14,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+168,Showroom Sophia,XL Cabinet,Combination Wrench 15 #1,Wrench,CW-151,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+169,Showroom Sophia,XL Cabinet,Combination Wrench 15 #2,Wrench,CW-152,Combination Wrench 15,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+170,Showroom Sophia,XL Cabinet,Combination Wrench 17 #1,Wrench,CW-171,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+171,Showroom Sophia,XL Cabinet,Combination Wrench 17 #2,Wrench,CW-172,Combination Wrench 17,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+172,Showroom Sophia,XL Cabinet,Combination Wrench 18 #2,Wrench,CW-182,Combination Wrench 18,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+173,Showroom Sophia,XL Cabinet,Combination Wrench 19 #1,Wrench,CW-191,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+174,Showroom Sophia,XL Cabinet,Combination Wrench 19 #4,Wrench,CW-194,Combination Wrench 19,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+175,Showroom Sophia,XL Cabinet,Combination Wrench 21 #1,Wrench,CW-211,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+176,Showroom Sophia,XL Cabinet,Combination Wrench 21 #2,Wrench,CW-212,Combination Wrench 21,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+177,Showroom Sophia,XL Cabinet,Combination Wrench 22,Wrench,CW-22,Combination Wrench 22,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+178,Showroom Sophia,XL Cabinet,Combination Wrench 1 #3,Wrench,CW-102,Combination Wrench 1 #2,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+179,Showroom Sophia,XL Cabinet,Combination Wrench 5/8,Wrench,CW-58,Combination Wrench 5/8,1,2016-01-21 16:21:04,adminnexess,adminnexess,RETURN
+180,Showroom Sophia,XD Cabinet,Metal Chisel #1,Chisel,MC-1,Metal chisel 1006901-1CM,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+181,Showroom Sophia,XD Cabinet,Metal Chisel 3734N,Chisel,MC-3734,Metal Chisel nø3734N,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+182,Showroom Sophia,XD Cabinet,Wire Brush #1,Wire Brush,WB-1,Wire Brush,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+183,Showroom Sophia,XD Cabinet,Hacksaw 317,Saw,HS-317,Hacksaw nø317,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+184,Showroom Sophia,XD Cabinet,Flat file #1,File,FF-01,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+185,Showroom Sophia,XD Cabinet,Flat file #2,File,FF-02,Flat file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+186,Showroom Sophia,XD Cabinet,Round file,File,RF-00,Round file,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+187,Showroom Sophia,XD Cabinet,Hammer #1,Hammer,HM-1,Hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+188,Showroom Sophia,XD Cabinet,Mallet hammer #2,Hammer,MH-2,Mallet hammer,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+189,Showroom Sophia,XD Cabinet,Linemans Plier,Pliers,LP-1,Linemans pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+190,Showroom Sophia,XD Cabinet,Long nose plier #1,Pliers,LNP-1,Long nose and needle nose pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+191,Showroom Sophia,XD Cabinet,Tongue and groove Plier #1,Pliers,TGP-1,Tongue and groove pliers,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+192,Showroom Sophia,XD Cabinet,Cruciform screwdriver #7,Screw driver,CSD-7,Cruciform screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+193,Showroom Sophia,XD Cabinet,Flat screwdriver #4,Screw driver,FSD-4,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+194,Showroom Sophia,XD Cabinet,Flat screwdriver #5,Screw driver,FSD-5,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+195,Showroom Sophia,XD Cabinet,Flat screwdriver #9,Screw driver,FSD-9,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+196,Showroom Sophia,XD Cabinet,Flat screwdriver #10,Screw driver,FSD-10,Flat screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+197,Showroom Sophia,XD Cabinet,Torx screwdriver #1,Screw driver,TSD-1,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+198,Showroom Sophia,XD Cabinet,Torx screwdriver #5,Screw driver,TSD-5,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+199,Showroom Sophia,XD Cabinet,Torx screwdriver #6,Screw driver,TSD-6,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN
+200,Showroom Sophia,XD Cabinet,Torx screwdriver #7,Screw driver,TSD-7,Torx screwdriver,1,2016-01-21 16:23:21,adminnexess,adminnexess,RETURN

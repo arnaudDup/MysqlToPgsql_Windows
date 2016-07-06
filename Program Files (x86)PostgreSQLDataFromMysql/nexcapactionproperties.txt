@@ -1,0 +1,105 @@
+1,1,controlid
+1,JUNIT TEST Footer1,mailfooter
+1,JUNIT TEST Header1,mailheader
+1, ,mailpassword
+1, ,mailuser
+1,[6],profileids
+1,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+3,1,controlid
+3,JUNIT TEST Footer4,mailfooter
+3,JUNIT TEST Header4,mailheader
+3, ,mailpassword
+3, ,mailuser
+3,[6],profileids
+3,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+4,1,controlid
+4,JUNIT TEST Footer3,mailfooter
+4,JUNIT TEST Header3,mailheader
+4, ,mailpassword
+4, ,mailuser
+4,[6],profileids
+4,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+1,1,controlid
+1,JUNIT TEST Footer1,mailfooter
+1,JUNIT TEST Header1,mailheader
+1, ,mailpassword
+1, ,mailuser
+1,[6],profileids
+1,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+3,1,controlid
+3,JUNIT TEST Footer4,mailfooter
+3,JUNIT TEST Header4,mailheader
+3, ,mailpassword
+3, ,mailuser
+3,[6],profileids
+3,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+4,1,controlid
+4,JUNIT TEST Footer3,mailfooter
+4,JUNIT TEST Header3,mailheader
+4, ,mailpassword
+4, ,mailuser
+4,[6],profileids
+4,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+1,1,controlid
+1,JUNIT TEST Footer1,mailfooter
+1,JUNIT TEST Header1,mailheader
+1, ,mailpassword
+1, ,mailuser
+1,[6],profileids
+1,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+3,1,controlid
+3,JUNIT TEST Footer4,mailfooter
+3,JUNIT TEST Header4,mailheader
+3, ,mailpassword
+3, ,mailuser
+3,[6],profileids
+3,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+4,1,controlid
+4,JUNIT TEST Footer3,mailfooter
+4,JUNIT TEST Header3,mailheader
+4, ,mailpassword
+4, ,mailuser
+4,[6],profileids
+4,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+1,1,controlid
+1,JUNIT TEST Footer1,mailfooter
+1,JUNIT TEST Header1,mailheader
+1, ,mailpassword
+1, ,mailuser
+1,[6],profileids
+1,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+3,1,controlid
+3,JUNIT TEST Footer4,mailfooter
+3,JUNIT TEST Header4,mailheader
+3, ,mailpassword
+3, ,mailuser
+3,[6],profileids
+3,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+4,1,controlid
+4,JUNIT TEST Footer3,mailfooter
+4,JUNIT TEST Header3,mailheader
+4, ,mailpassword
+4, ,mailuser
+4,[6],profileids
+4,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+1,1,controlid
+1,JUNIT TEST Footer1,mailfooter
+1,JUNIT TEST Header1,mailheader
+1, ,mailpassword
+1, ,mailuser
+1,[6],profileids
+1,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+3,1,controlid
+3,JUNIT TEST Footer4,mailfooter
+3,JUNIT TEST Header4,mailheader
+3, ,mailpassword
+3, ,mailuser
+3,[6],profileids
+3,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties
+4,1,controlid
+4,JUNIT TEST Footer3,mailfooter
+4,JUNIT TEST Header3,mailheader
+4, ,mailpassword
+4, ,mailuser
+4,[6],profileids
+4,{mail.from:arnaud.dupeyrat@nexess-solutions.commail.smtp.host:178.33.244.88mail.transport.protocol:smtp},sessionproperties

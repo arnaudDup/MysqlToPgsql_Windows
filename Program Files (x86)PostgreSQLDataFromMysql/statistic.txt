@@ -1,0 +1,70 @@
+64,itemsinmaintenancecount,Matériel en maintenance,Matériel en maintenance,itemsInMaintenanceCount
+65,itemsinservicecount,Matériel en service,Matériel en service,itemsInServiceCount
+66,itemsstockedcount,Matériel en stock,Matériel en stock,itemsStockedCount
+67,itemsincalibrationcount,Matériel en étalonnage,Matériel en étalonnage,itemsInCalibrationCount
+68,operationborrowedcount,Nombre d'opérations d'emprunt,Nombre d'opérations d'emprunt,operationBorrowingCount
+69,operationreturnedcount,Nombre d'opérations de restitution,Nombre d'opérations de restitution,operationReturnedCount
+70,itemscalibrationdateexpiredcount,Matériel - date étalonnage dépassée,Matériel - date étalonnage dépassée,itemsCalibrationDateExpiredCount
+71,itemsnearcalibrationdatecount,Matériel - date étalonnage proche,Matériel - date étalonnage proche,itemsNearCalibrationDateCount
+72,itemspendingcalibrationdatecount,Matériel - date étalonnage imminente,Matériel - date étalonnage imminente,itemsPendingCalibrationDateCount
+73,itemskocount,Matériel hors service,Matériel hors service,itemsKOCount
+74,itemsunknowstatuscount,Matériel au statut inconnu,Matériel au statut inconnu,itemsUnknowStatusCount
+75,itemsunknowcalibrationcount,Matériel sans date d'étalonnage,Matériel sans date d'étalonnage,itemsUnknowCalibrationCount
+76,itemstoverifycount,Matériel à vérifier,Matériel à vérifier,itemsToVerifyCount
+77,itemsborrowingcount,Matériel emprunté,Matériel emprunté (en cours),itemsBorrowingCount
+64,itemsinmaintenancecount,Matériel en maintenance,Matériel en maintenance,itemsInMaintenanceCount
+65,itemsinservicecount,Matériel en service,Matériel en service,itemsInServiceCount
+66,itemsstockedcount,Matériel en stock,Matériel en stock,itemsStockedCount
+67,itemsincalibrationcount,Matériel en étalonnage,Matériel en étalonnage,itemsInCalibrationCount
+68,operationborrowedcount,Nombre d'opérations d'emprunt,Nombre d'opérations d'emprunt,operationBorrowingCount
+69,operationreturnedcount,Nombre d'opérations de restitution,Nombre d'opérations de restitution,operationReturnedCount
+70,itemscalibrationdateexpiredcount,Matériel - date étalonnage dépassée,Matériel - date étalonnage dépassée,itemsCalibrationDateExpiredCount
+71,itemsnearcalibrationdatecount,Matériel - date étalonnage proche,Matériel - date étalonnage proche,itemsNearCalibrationDateCount
+72,itemspendingcalibrationdatecount,Matériel - date étalonnage imminente,Matériel - date étalonnage imminente,itemsPendingCalibrationDateCount
+73,itemskocount,Matériel hors service,Matériel hors service,itemsKOCount
+74,itemsunknowstatuscount,Matériel au statut inconnu,Matériel au statut inconnu,itemsUnknowStatusCount
+75,itemsunknowcalibrationcount,Matériel sans date d'étalonnage,Matériel sans date d'étalonnage,itemsUnknowCalibrationCount
+76,itemstoverifycount,Matériel à vérifier,Matériel à vérifier,itemsToVerifyCount
+77,itemsborrowingcount,Matériel emprunté,Matériel emprunté (en cours),itemsBorrowingCount
+64,itemsinmaintenancecount,Matériel en maintenance,Matériel en maintenance,itemsInMaintenanceCount
+65,itemsinservicecount,Matériel en service,Matériel en service,itemsInServiceCount
+66,itemsstockedcount,Matériel en stock,Matériel en stock,itemsStockedCount
+67,itemsincalibrationcount,Matériel en étalonnage,Matériel en étalonnage,itemsInCalibrationCount
+68,operationborrowedcount,Nombre d'opérations d'emprunt,Nombre d'opérations d'emprunt,operationBorrowingCount
+69,operationreturnedcount,Nombre d'opérations de restitution,Nombre d'opérations de restitution,operationReturnedCount
+70,itemscalibrationdateexpiredcount,Matériel - date étalonnage dépassée,Matériel - date étalonnage dépassée,itemsCalibrationDateExpiredCount
+71,itemsnearcalibrationdatecount,Matériel - date étalonnage proche,Matériel - date étalonnage proche,itemsNearCalibrationDateCount
+72,itemspendingcalibrationdatecount,Matériel - date étalonnage imminente,Matériel - date étalonnage imminente,itemsPendingCalibrationDateCount
+73,itemskocount,Matériel hors service,Matériel hors service,itemsKOCount
+74,itemsunknowstatuscount,Matériel au statut inconnu,Matériel au statut inconnu,itemsUnknowStatusCount
+75,itemsunknowcalibrationcount,Matériel sans date d'étalonnage,Matériel sans date d'étalonnage,itemsUnknowCalibrationCount
+76,itemstoverifycount,Matériel à vérifier,Matériel à vérifier,itemsToVerifyCount
+77,itemsborrowingcount,Matériel emprunté,Matériel emprunté (en cours),itemsBorrowingCount
+64,itemsinmaintenancecount,Matériel en maintenance,Matériel en maintenance,itemsInMaintenanceCount
+65,itemsinservicecount,Matériel en service,Matériel en service,itemsInServiceCount
+66,itemsstockedcount,Matériel en stock,Matériel en stock,itemsStockedCount
+67,itemsincalibrationcount,Matériel en étalonnage,Matériel en étalonnage,itemsInCalibrationCount
+68,operationborrowedcount,Nombre d'opérations d'emprunt,Nombre d'opérations d'emprunt,operationBorrowingCount
+69,operationreturnedcount,Nombre d'opérations de restitution,Nombre d'opérations de restitution,operationReturnedCount
+70,itemscalibrationdateexpiredcount,Matériel - date étalonnage dépassée,Matériel - date étalonnage dépassée,itemsCalibrationDateExpiredCount
+71,itemsnearcalibrationdatecount,Matériel - date étalonnage proche,Matériel - date étalonnage proche,itemsNearCalibrationDateCount
+72,itemspendingcalibrationdatecount,Matériel - date étalonnage imminente,Matériel - date étalonnage imminente,itemsPendingCalibrationDateCount
+73,itemskocount,Matériel hors service,Matériel hors service,itemsKOCount
+74,itemsunknowstatuscount,Matériel au statut inconnu,Matériel au statut inconnu,itemsUnknowStatusCount
+75,itemsunknowcalibrationcount,Matériel sans date d'étalonnage,Matériel sans date d'étalonnage,itemsUnknowCalibrationCount
+76,itemstoverifycount,Matériel à vérifier,Matériel à vérifier,itemsToVerifyCount
+77,itemsborrowingcount,Matériel emprunté,Matériel emprunté (en cours),itemsBorrowingCount
+64,itemsinmaintenancecount,Matériel en maintenance,Matériel en maintenance,itemsInMaintenanceCount
+65,itemsinservicecount,Matériel en service,Matériel en service,itemsInServiceCount
+66,itemsstockedcount,Matériel en stock,Matériel en stock,itemsStockedCount
+67,itemsincalibrationcount,Matériel en étalonnage,Matériel en étalonnage,itemsInCalibrationCount
+68,operationborrowedcount,Nombre d'opérations d'emprunt,Nombre d'opérations d'emprunt,operationBorrowingCount
+69,operationreturnedcount,Nombre d'opérations de restitution,Nombre d'opérations de restitution,operationReturnedCount
+70,itemscalibrationdateexpiredcount,Matériel - date étalonnage dépassée,Matériel - date étalonnage dépassée,itemsCalibrationDateExpiredCount
+71,itemsnearcalibrationdatecount,Matériel - date étalonnage proche,Matériel - date étalonnage proche,itemsNearCalibrationDateCount
+72,itemspendingcalibrationdatecount,Matériel - date étalonnage imminente,Matériel - date étalonnage imminente,itemsPendingCalibrationDateCount
+73,itemskocount,Matériel hors service,Matériel hors service,itemsKOCount
+74,itemsunknowstatuscount,Matériel au statut inconnu,Matériel au statut inconnu,itemsUnknowStatusCount
+75,itemsunknowcalibrationcount,Matériel sans date d'étalonnage,Matériel sans date d'étalonnage,itemsUnknowCalibrationCount
+76,itemstoverifycount,Matériel à vérifier,Matériel à vérifier,itemsToVerifyCount
+77,itemsborrowingcount,Matériel emprunté,Matériel emprunté (en cours),itemsBorrowingCount

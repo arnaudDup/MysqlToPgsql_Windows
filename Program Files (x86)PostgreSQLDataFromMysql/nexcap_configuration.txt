@@ -1,0 +1,160 @@
+1,application.version,2.0_JUNIT_TEST
+2,application.title,Gestion outils
+3,application.subtitle,
+4,application.defaultLanguage,fr_FR
+5,application.features,{  SEND_RECEIVE		:true  BORROW_RETURN		:true  CONSUME				:true  MOVE				:true  TAGS				:true  SPECIFIC_CHECKS		:true  INVENTORIES			:true  STOCK_LEVELS		:true  PLANNED_OPERATIONS	:true  EXPIRATION_DATES	:true  INTERVENTION_ORDERS	:true  MATERIAL_MAINTENANCE:true  MATERIAL_CALIBRATION:true  MATERIAL_USE_COUNT	:true  REFERENCE_INVENTORY	:true  ALERTS				:true  ASSIGNED_LOCS_FOR_POSITIONS:true  DATA_SYNCHRONIZATION:false  	   }
+6,application.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+7,application.managedMaterialFields,[		DESCRIPTION	   ]
+8,application.materialsFolder,/usr/share/tomcat7/nexcapupJunit
+9,application.productReferencesFolder,/usr/share/tomcat7/nexcapup/productreferences
+10,application.specificChecksFolder,/usr/share/tomcat7/nexcapup/specificchecks
+11,application.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+12,application.grids,[		{			reference: MAT_ADMIN			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}{					propertyName: curState					label:Etat					width : 100				}			]		}		{			reference: MAT_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}				{					propertyName: curState					label:Etat					width : 100				}			]						displayedColumns : [				{					propertyName: lastCalibrationDate					label:Date de dernier étalonnage					width : 160				}				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}				{					propertyName: lastMaintenanceDate					label:Date de dernière maintenance					width : 160				}				{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}		{			reference: MAT_BY_LOC_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}				]
+13,application.intervalForExpirationAlert,10
+14,security.password.policy.regex,.{8}
+15,security.password.policy.description,Le mot de passe doit avoir au minimum 8 caractères
+16,application.pdaSessionTimeout,30
+17,application.webSessionTimeout,30
+18,security.login.regex,.{4}$
+19,security.password.history.size,5
+20,security.login.attempsBeforeDesactivation,6
+21,security.password.validityDuration,5
+27,toolTracking.core.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+28,toolTracking.core.managedMaterialFields,[		DESCRIPTION	   ]
+29,toolTracking.core.resourceFolder,/usr/share/tomcat7/nexcapupJunit
+32,specificCheck.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+34,alert.intervalForExpirationAlert,10
+35,security.passwordRegex,.{8}
+36,security.passwordRegexDescription,Le mot de passe doit avoir au minimum 8 caractères
+39,security.loginRegex,.{4}$
+40,security.loginAttempsBeforeDesactivation,6
+41,security.passwordHistorySize,5
+42,security.passwordValidityDuration,5
+1,application.version,2.0_JUNIT_TEST
+2,application.title,Gestion outils
+3,application.subtitle,
+4,application.defaultLanguage,fr_FR
+5,application.features,{  SEND_RECEIVE		:true  BORROW_RETURN		:true  CONSUME				:true  MOVE				:true  TAGS				:true  SPECIFIC_CHECKS		:true  INVENTORIES			:true  STOCK_LEVELS		:true  PLANNED_OPERATIONS	:true  EXPIRATION_DATES	:true  INTERVENTION_ORDERS	:true  MATERIAL_MAINTENANCE:true  MATERIAL_CALIBRATION:true  MATERIAL_USE_COUNT	:true  REFERENCE_INVENTORY	:true  ALERTS				:true  ASSIGNED_LOCS_FOR_POSITIONS:true  DATA_SYNCHRONIZATION:false  	   }
+6,application.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+7,application.managedMaterialFields,[		DESCRIPTION	   ]
+8,application.materialsFolder,/usr/share/tomcat7/nexcapupJunit
+9,application.productReferencesFolder,/usr/share/tomcat7/nexcapup/productreferences
+10,application.specificChecksFolder,/usr/share/tomcat7/nexcapup/specificchecks
+11,application.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+12,application.grids,[		{			reference: MAT_ADMIN			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}{					propertyName: curState					label:Etat					width : 100				}			]		}		{			reference: MAT_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}				{					propertyName: curState					label:Etat					width : 100				}			]						displayedColumns : [				{					propertyName: lastCalibrationDate					label:Date de dernier étalonnage					width : 160				}				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}				{					propertyName: lastMaintenanceDate					label:Date de dernière maintenance					width : 160				}				{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}		{			reference: MAT_BY_LOC_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}				]
+13,application.intervalForExpirationAlert,10
+14,security.password.policy.regex,.{8}
+15,security.password.policy.description,Le mot de passe doit avoir au minimum 8 caractères
+16,application.pdaSessionTimeout,30
+17,application.webSessionTimeout,30
+18,security.login.regex,.{4}$
+19,security.password.history.size,5
+20,security.login.attempsBeforeDesactivation,6
+21,security.password.validityDuration,5
+27,toolTracking.core.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+28,toolTracking.core.managedMaterialFields,[		DESCRIPTION	   ]
+29,toolTracking.core.resourceFolder,/usr/share/tomcat7/nexcapupJunit
+32,specificCheck.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+34,alert.intervalForExpirationAlert,10
+35,security.passwordRegex,.{8}
+36,security.passwordRegexDescription,Le mot de passe doit avoir au minimum 8 caractères
+39,security.loginRegex,.{4}$
+40,security.loginAttempsBeforeDesactivation,6
+41,security.passwordHistorySize,5
+42,security.passwordValidityDuration,5
+1,application.version,2.0_JUNIT_TEST
+2,application.title,Gestion outils
+3,application.subtitle,
+4,application.defaultLanguage,fr_FR
+5,application.features,{  SEND_RECEIVE		:true  BORROW_RETURN		:true  CONSUME				:true  MOVE				:true  TAGS				:true  SPECIFIC_CHECKS		:true  INVENTORIES			:true  STOCK_LEVELS		:true  PLANNED_OPERATIONS	:true  EXPIRATION_DATES	:true  INTERVENTION_ORDERS	:true  MATERIAL_MAINTENANCE:true  MATERIAL_CALIBRATION:true  MATERIAL_USE_COUNT	:true  REFERENCE_INVENTORY	:true  ALERTS				:true  ASSIGNED_LOCS_FOR_POSITIONS:true  DATA_SYNCHRONIZATION:false  	   }
+6,application.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+7,application.managedMaterialFields,[		DESCRIPTION	   ]
+8,application.materialsFolder,/usr/share/tomcat7/nexcapupJunit
+9,application.productReferencesFolder,/usr/share/tomcat7/nexcapup/productreferences
+10,application.specificChecksFolder,/usr/share/tomcat7/nexcapup/specificchecks
+11,application.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+12,application.grids,[		{			reference: MAT_ADMIN			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}{					propertyName: curState					label:Etat					width : 100				}			]		}		{			reference: MAT_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}				{					propertyName: curState					label:Etat					width : 100				}			]						displayedColumns : [				{					propertyName: lastCalibrationDate					label:Date de dernier étalonnage					width : 160				}				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}				{					propertyName: lastMaintenanceDate					label:Date de dernière maintenance					width : 160				}				{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}		{			reference: MAT_BY_LOC_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}				]
+13,application.intervalForExpirationAlert,10
+14,security.password.policy.regex,.{8}
+15,security.password.policy.description,Le mot de passe doit avoir au minimum 8 caractères
+16,application.pdaSessionTimeout,30
+17,application.webSessionTimeout,30
+18,security.login.regex,.{4}$
+19,security.password.history.size,5
+20,security.login.attempsBeforeDesactivation,6
+21,security.password.validityDuration,5
+27,toolTracking.core.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+28,toolTracking.core.managedMaterialFields,[		DESCRIPTION	   ]
+29,toolTracking.core.resourceFolder,/usr/share/tomcat7/nexcapupJunit
+32,specificCheck.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+34,alert.intervalForExpirationAlert,10
+35,security.passwordRegex,.{8}
+36,security.passwordRegexDescription,Le mot de passe doit avoir au minimum 8 caractères
+39,security.loginRegex,.{4}$
+40,security.loginAttempsBeforeDesactivation,6
+41,security.passwordHistorySize,5
+42,security.passwordValidityDuration,5
+1,application.version,2.0_JUNIT_TEST
+2,application.title,Gestion outils
+3,application.subtitle,
+4,application.defaultLanguage,fr_FR
+5,application.features,{  SEND_RECEIVE		:true  BORROW_RETURN		:true  CONSUME				:true  MOVE				:true  TAGS				:true  SPECIFIC_CHECKS		:true  INVENTORIES			:true  STOCK_LEVELS		:true  PLANNED_OPERATIONS	:true  EXPIRATION_DATES	:true  INTERVENTION_ORDERS	:true  MATERIAL_MAINTENANCE:true  MATERIAL_CALIBRATION:true  MATERIAL_USE_COUNT	:true  REFERENCE_INVENTORY	:true  ALERTS				:true  ASSIGNED_LOCS_FOR_POSITIONS:true  DATA_SYNCHRONIZATION:false  	   }
+6,application.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+7,application.managedMaterialFields,[		DESCRIPTION	   ]
+8,application.materialsFolder,/usr/share/tomcat7/nexcapupJunit
+9,application.productReferencesFolder,/usr/share/tomcat7/nexcapup/productreferences
+10,application.specificChecksFolder,/usr/share/tomcat7/nexcapup/specificchecks
+11,application.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+12,application.grids,[		{			reference: MAT_ADMIN			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}{					propertyName: curState					label:Etat					width : 100				}			]		}		{			reference: MAT_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}				{					propertyName: curState					label:Etat					width : 100				}			]						displayedColumns : [				{					propertyName: lastCalibrationDate					label:Date de dernier étalonnage					width : 160				}				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}				{					propertyName: lastMaintenanceDate					label:Date de dernière maintenance					width : 160				}				{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}		{			reference: MAT_BY_LOC_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}				]
+13,application.intervalForExpirationAlert,10
+14,security.password.policy.regex,.{8}
+15,security.password.policy.description,Le mot de passe doit avoir au minimum 8 caractères
+16,application.pdaSessionTimeout,30
+17,application.webSessionTimeout,30
+18,security.login.regex,.{4}$
+19,security.password.history.size,5
+20,security.login.attempsBeforeDesactivation,6
+21,security.password.validityDuration,5
+27,toolTracking.core.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+28,toolTracking.core.managedMaterialFields,[		DESCRIPTION	   ]
+29,toolTracking.core.resourceFolder,/usr/share/tomcat7/nexcapupJunit
+32,specificCheck.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+34,alert.intervalForExpirationAlert,10
+35,security.passwordRegex,.{8}
+36,security.passwordRegexDescription,Le mot de passe doit avoir au minimum 8 caractères
+39,security.loginRegex,.{4}$
+40,security.loginAttempsBeforeDesactivation,6
+41,security.passwordHistorySize,5
+42,security.passwordValidityDuration,5
+1,application.version,2.0_JUNIT_TEST
+2,application.title,Gestion outils
+3,application.subtitle,
+4,application.defaultLanguage,fr_FR
+5,application.features,{  SEND_RECEIVE		:true  BORROW_RETURN		:true  CONSUME				:true  MOVE				:true  TAGS				:true  SPECIFIC_CHECKS		:true  INVENTORIES			:true  STOCK_LEVELS		:true  PLANNED_OPERATIONS	:true  EXPIRATION_DATES	:true  INTERVENTION_ORDERS	:true  MATERIAL_MAINTENANCE:true  MATERIAL_CALIBRATION:true  MATERIAL_USE_COUNT	:true  REFERENCE_INVENTORY	:true  ALERTS				:true  ASSIGNED_LOCS_FOR_POSITIONS:true  DATA_SYNCHRONIZATION:false  	   }
+6,application.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+7,application.managedMaterialFields,[		DESCRIPTION	   ]
+8,application.materialsFolder,/usr/share/tomcat7/nexcapupJunit
+9,application.productReferencesFolder,/usr/share/tomcat7/nexcapup/productreferences
+10,application.specificChecksFolder,/usr/share/tomcat7/nexcapup/specificchecks
+11,application.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+12,application.grids,[		{			reference: MAT_ADMIN			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}{					propertyName: curState					label:Etat					width : 100				}			]		}		{			reference: MAT_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}				{					propertyName: curState					label:Etat					width : 100				}			]						displayedColumns : [				{					propertyName: lastCalibrationDate					label:Date de dernier étalonnage					width : 160				}				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}				{					propertyName: lastMaintenanceDate					label:Date de dernière maintenance					width : 160				}				{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}		{			reference: MAT_BY_LOC_INVENTORY			filters : [				{   propertyName: nextCalibrationDate					label:Date de prochain étalonnage					controlType: date					width : 120 				}				{   propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					controlType: date					width : 120 				}			]						displayedColumns : [				{					propertyName: nextCalibrationDate					label:Date de prochain étalonnage					width : 160				}{					propertyName: nextMaintenanceDate					label:Date de prochaine maintenance					width : 160				}			]		}				]
+13,application.intervalForExpirationAlert,10
+14,security.password.policy.regex,.{8}
+15,security.password.policy.description,Le mot de passe doit avoir au minimum 8 caractères
+16,application.pdaSessionTimeout,30
+17,application.webSessionTimeout,30
+18,security.login.regex,.{4}$
+19,security.password.history.size,5
+20,security.login.attempsBeforeDesactivation,6
+21,security.password.validityDuration,5
+27,toolTracking.core.managedProductReferenceFields,[		  MANUFACTURER		  UNIT		  PRODUCTREFERENCEGROUP		  		  DESCRIPTION	   ]
+28,toolTracking.core.managedMaterialFields,[		DESCRIPTION	   ]
+29,toolTracking.core.resourceFolder,/usr/share/tomcat7/nexcapupJunit
+32,specificCheck.specificCheckTemplates,[     {     	id: 1     	name: Contrôle Etalonnage     	specificForm: [{     		type: paragraph     		title: Etalonnage     		controls: [{     			propertyName: nextCalibrationDate     			controlType: date     			label: Date d'étalonnage     		}]     	} {     		type: picture     		title: Photos     		max: 100     	}]     }]
+34,alert.intervalForExpirationAlert,10
+35,security.passwordRegex,.{8}
+36,security.passwordRegexDescription,Le mot de passe doit avoir au minimum 8 caractères
+39,security.loginRegex,.{4}$
+40,security.loginAttempsBeforeDesactivation,6
+41,security.passwordHistorySize,5
+42,security.passwordValidityDuration,5
