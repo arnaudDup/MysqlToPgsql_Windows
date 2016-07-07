@@ -1,5 +1,0 @@
-1,Mode emprunt rapide,Fast borrowing,Emprunt rapide,,FAST_BORROWING
-1,Mode emprunt rapide,Fast borrowing,Emprunt rapide,,FAST_BORROWING
-1,Mode emprunt rapide,Fast borrowing,Emprunt rapide,,FAST_BORROWING
-1,Mode emprunt rapide,Fast borrowing,Emprunt rapide,,FAST_BORROWING
-1,Mode emprunt rapide,Fast borrowing,Emprunt rapide,,FAST_BORROWING

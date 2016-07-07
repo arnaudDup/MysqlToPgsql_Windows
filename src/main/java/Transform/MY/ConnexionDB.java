@@ -34,6 +34,7 @@ public class ConnexionDB {
 	public static final String END_OF_LINE = "**\\r\\n";
 	public static final String EXTENSION = ".txt"; 
 	public static final String REGEXTRUNCATE = "TRUNCATE nexcapup.{table} CASCADE;"; 
+	public static final String REGEXTRUNCATEMYSQL = "TRUNCATE  {table};"; 
 	public static final String REGEX_TABLE = "{table}";
 
 	Properties prop;
@@ -111,6 +112,29 @@ public class ConnexionDB {
 		}
 	}
 	
+	
+	public void TruncateAllTableInMysqlDatabase() throws SQLException{
+
+		// disable constraints
+		Statement statBefore =  connecMysql.createStatement();
+		statBefore.execute("SET FOREIGN_KEY_CHECKS = 0;");
+		
+		for (String nameFile : csvRepo.list()){
+			nameFile = nameFile.replace(EXTENSION,"");
+
+			String query = REGEXTRUNCATEMYSQL.replace(REGEX_TABLE, nameFile);	
+			try {
+				Statement stat =  connecMysql.createStatement();
+				System.out.println(query);
+				stat.execute(query);
+			} catch (SQLException e) {e.printStackTrace();}
+		}
+		
+		// disable constraints
+		Statement statAfter =  connecMysql.createStatement();
+		statAfter.execute("SET FOREIGN_KEY_CHECKS = 1;");
+	}
+	
 
 	/**
 	 * Create csv from MySQl database.
@@ -118,9 +142,10 @@ public class ConnexionDB {
 	 */
 	public void MakeCsvFromDataMysqlDatabase(boolean needToLoad){
 		
+		File RessourcesFolder = new File("resources");
 		// execute the query in order to load data --> debug
 		if(needToLoad){
-			String command = "mysqldump -u root --host=localhost --skip-set-charset --compatible=postgres  --port=3306 -p nexcapup  --password=454gf360 --fields-terminated-by=\""+END_OF_FIELD+"\" --lines-terminated-by=\""+END_OF_LINE+"\" --default-character-set=utf8   --tab=\"C:/ProgramData/MySQL/MySQL Server 5.6/Uploads\"";
+			String command = RessourcesFolder.getAbsolutePath()+"/mysqldump -u root --host=localhost --skip-set-charset --compatible=postgres  --port=3306 -p nexcapup  --password=454gf360 --fields-terminated-by=\""+END_OF_FIELD+"\" --lines-terminated-by=\""+END_OF_LINE+"\" --default-character-set=utf8   --tab=\"C:/ProgramData/MySQL/MySQL Server 5.6/Uploads\"";
 			Runtime runtime = Runtime.getRuntime();
 			try {
 				System.out.println(command);
@@ -149,7 +174,7 @@ public class ConnexionDB {
 				String str = FileUtils.readFileToString(curentDataFile,"UTF-8");
 				
 				str = str.replace("\\N","").replace("\"","").replace("\r\n","")
-						 .replace("\n","").replace("**", "\r\n").replace("","1")
+						 .replace("\n","").replace("**", "\r\n").replace("","1").replace("\u0000","0")
 						 .replace("\\0","0").replace(",","").replace("!!!", ",");
 				
 				fw.append(str);	 
