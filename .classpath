@@ -20,15 +20,10 @@
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/bin/mysql-connector-java-5.1.39-bin.jar"/>
-	<classpathentry kind="lib" path="lib/bin/postgresql-9.4.1208.jre6.jar"/>
-	<classpathentry kind="lib" path="lib/bin/opencsv-3.8.jar"/>
-	<classpathentry kind="src" output="target/test-classes" path="src/integration-test/java">
+	<classpathentry excluding="**" kind="src" output="target/classes" path="resources">
 		<attributes>
-			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>

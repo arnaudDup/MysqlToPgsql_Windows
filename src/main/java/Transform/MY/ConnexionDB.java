@@ -1,10 +1,13 @@
 package Transform.MY;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
@@ -30,18 +33,25 @@ import org.apache.commons.io.FileUtils;
 
 public class ConnexionDB {
 	
+	public static final String ENCODING = "UTF-8";
 	public static final String END_OF_FIELD = "!!!,";
 	public static final String END_OF_LINE = "**\\r\\n";
 	public static final String EXTENSION = ".txt"; 
-	public static final String REGEXTRUNCATE = "TRUNCATE nexcapup.{table} CASCADE;"; 
 	public static final String REGEXTRUNCATEMYSQL = "TRUNCATE  {table};"; 
+	public static final String REGEXLISTTABLE = "SHOW full  TABLES From {database} where  Table_Type != 'VIEW';";
+	public static final String REGEX_URL_MYSQL = "jdbc:mysql://{host}:{port}/{database}?characterEncoding=UTF-8";
+	public static final String REGEX_URL_PGSQL = "jdbc:postgresql://{host}:{port}/{database}?characterEncoding=UTF-8";
 	public static final String REGEX_TABLE = "{table}";
+	public static final String REGEX_DATABASE = "{database}";
+	public static final String REGEX_HOST = "{host}";
+	public static final String REGEX_PORT = "{port}";
 
 	Properties prop;
 	private Connection connecPostgres;
 	private Connection connecMysql;
 	private File repo;
 	private File csvRepo;
+	private String REGEXTRUNCATE = "TRUNCATE {database}.{table} CASCADE;"; 
 	
 	public ConnexionDB() throws IOException
 	 {
@@ -53,7 +63,9 @@ public class ConnexionDB {
 	    try{
 	    		System.out.println("Connexion to Mysql Database");
 	            Class.forName(this.prop.getProperty("mysqlDriver"));
-	            connecMysql=DriverManager.getConnection(this.prop.getProperty("mySqlUrl"),
+	            connecMysql=DriverManager.getConnection(REGEX_URL_MYSQL.replace(REGEX_HOST, prop.getProperty("mySqlHost"))
+	         		   													.replace(REGEX_PORT, prop.getProperty("mySqlPort"))
+	         		   													.replace(REGEX_DATABASE,prop.getProperty("MysqlDatabase")),
                 								this.prop.getProperty("mySqlUser"),
                 								this.prop.getProperty("mySqlPassword"));
 	            System.out.println("Success");
@@ -65,7 +77,9 @@ public class ConnexionDB {
         try {
         	System.out.println("Connexion to Postgres database");
         	Class.forName(this.prop.getProperty("postgresDriver"));
-			connecPostgres =DriverManager.getConnection(this.prop.getProperty("postgresUrl"),
+			connecPostgres =DriverManager.getConnection(REGEX_URL_PGSQL.replace(REGEX_HOST, prop.getProperty("postgresHost"))
+					   													.replace(REGEX_PORT, prop.getProperty("postgresPort"))
+					   													.replace(REGEX_DATABASE,prop.getProperty("postgresShema")),
 														this.prop.getProperty("postgresUser"),
 														this.prop.getProperty("postgresPassword"));
 			System.out.println("Succes");
@@ -73,6 +87,7 @@ public class ConnexionDB {
 		} catch (SQLException e) {e.printStackTrace();}
           catch (ClassNotFoundException e) {e.printStackTrace();}
         
+        REGEXTRUNCATE =  REGEXTRUNCATE.replace(REGEX_DATABASE,this.prop.getProperty("postgresShema"));
         // Cleaning repository.
 	    cleanRepo();
 	}
@@ -93,7 +108,7 @@ public class ConnexionDB {
 	 * allow to truncate table before inserting data into postgres database.
 	 */
 	public void TruncateAllTableInPostgresDatabase(){
-		List<String> avoidingTable = Arrays.asList(this.prop.getProperty("TableUpdateAvoid").split("\\s*,\\s*"));
+		List<String> avoidingTable = Arrays.asList(this.prop.getProperty("tableUpdateAvoid").split("\\s*,\\s*"));
 		SettingAutoCommit(connecPostgres,true);
 		// for all table we truncate in cascasde the table  
 		for (String nameFile : csvRepo.list()){
@@ -113,15 +128,36 @@ public class ConnexionDB {
 	}
 	
 	
+	private  List<String> getTableNameMySql() throws SQLException {
+
+		List<String> listTable = new ArrayList<String>();
+		Statement stat = null;
+		try {
+			stat =  connecMysql.createStatement();
+			stat.execute(REGEXLISTTABLE.replace(REGEX_DATABASE, prop.getProperty("MysqlDatabase")));
+		} catch (SQLException e) {e.printStackTrace();}
+		
+		ResultSet  rs= stat.getResultSet();
+		ResultSetMetaData rsmd = rs.getMetaData();
+		int columnsNumber = rsmd.getColumnCount();
+		
+		// get all tables names.
+		while (rs.next()) {
+		    	listTable.add(rs.getString(1));
+		}
+		return listTable;
+	}
+	
+	
 	public void TruncateAllTableInMysqlDatabase() throws SQLException{
 
+		List<String> listTable = getTableNameMySql();
+		
 		// disable constraints
 		Statement statBefore =  connecMysql.createStatement();
 		statBefore.execute("SET FOREIGN_KEY_CHECKS = 0;");
-		
-		for (String nameFile : csvRepo.list()){
-			nameFile = nameFile.replace(EXTENSION,"");
-
+		for (String nameFile : listTable){
+			
 			String query = REGEXTRUNCATEMYSQL.replace(REGEX_TABLE, nameFile);	
 			try {
 				Statement stat =  connecMysql.createStatement();
@@ -139,18 +175,36 @@ public class ConnexionDB {
 	/**
 	 * Create csv from MySQl database.
 	 * @param needToLoad
+	 * @throws Exception 
 	 */
-	public void MakeCsvFromDataMysqlDatabase(boolean needToLoad){
+	public void MakeCsvFromDataMysqlDatabase(boolean needToLoad) throws Exception{
 		
 		File RessourcesFolder = new File("resources");
 		// execute the query in order to load data --> debug
 		if(needToLoad){
-			String command = RessourcesFolder.getAbsolutePath()+"/mysqldump -u root --host=localhost --skip-set-charset --compatible=postgres  --port=3306 -p nexcapup  --password=454gf360 --fields-terminated-by=\""+END_OF_FIELD+"\" --lines-terminated-by=\""+END_OF_LINE+"\" --default-character-set=utf8   --tab=\"C:/ProgramData/MySQL/MySQL Server 5.6/Uploads\"";
+			String command = RessourcesFolder.getAbsolutePath()+"/mysqldump -u"+this.prop.getProperty("mySqlUser")
+																+ " --host="+this.prop.getProperty("mySqlHost")+" --compatible=postgres"
+																+ " --port="+this.prop.getProperty("mySqlPort")+" -p "+this.prop.getProperty("MysqlDatabase")
+																+ " --password="+this.prop.getProperty("mySqlPassword")+" --fields-terminated-by=\""+END_OF_FIELD+"\" "
+																+ " --lines-terminated-by=\""+END_OF_LINE+"\" --default-character-set=\"utf8\""
+																+ " --tab=\""+this.prop.getProperty("mysqlFolderCSVEXPORT")+"\"";
 			Runtime runtime = Runtime.getRuntime();
 			try {
+				
 				System.out.println(command);
 				Process process = runtime.exec(command);
-				process.waitFor();
+				InputStream stdin = process.getInputStream();
+	            InputStreamReader isr = new InputStreamReader(stdin,ENCODING);
+	            BufferedReader br = new BufferedReader(isr);
+	            String line = null;
+	            while ( (line = br.readLine()) != null)System.out.println(line); 
+	            int exitVal = process.waitFor(); 
+				System.out.println(exitVal);
+				
+				// we generate an Exception if the command fail.
+				if (exitVal != 0){
+					throw new Exception("Impossible to import data"); 
+				}
 			} catch (IOException e) {e.printStackTrace();} 
 			  catch (InterruptedException e) {e.printStackTrace();}
 		}
@@ -171,7 +225,7 @@ public class ConnexionDB {
 			} catch (IOException e1){e1.printStackTrace();}
 	
 			try {
-				String str = FileUtils.readFileToString(curentDataFile,"UTF-8");
+				String str = FileUtils.readFileToString(curentDataFile,ENCODING);
 				
 				str = str.replace("\\N","").replace("\"","").replace("\r\n","")
 						 .replace("\n","").replace("**", "\r\n").replace("","1").replace("\u0000","0")
@@ -182,10 +236,33 @@ public class ConnexionDB {
 			} catch (IOException e) {e.printStackTrace();}
 			
 		new File(csvRepo,curentNameFile).setReadable(true,false);
-		} 
+		}
+		if(fw != null){
+			try {
+				fw.close();
+			} catch (IOException e) {e.printStackTrace();}
+		}
+	}
+	
+	public void loadDataINTOMysqlDatabase(){
+		
+		File RessourcesFolder = new File("resources");
+		List<String> params = new ArrayList<String>();
+		String command = RessourcesFolder.getAbsolutePath()+"/mysql -u"+prop.getProperty("mySqlUser")
+						+ " --host="+prop.getProperty("mySqlHost")
+						+ " --port="+prop.getProperty("mySqlPort")
+						+ " -p "+prop.getProperty("MysqlDatabase")
+						+ " --password="+prop.getProperty("mySqlPassword");
+        ProcessBuilder pb = new ProcessBuilder("cmd.exe","/C",command);
+        Process p;
 		try {
-			fw.close();
-		} catch (IOException e) {e.printStackTrace();}
+			System.out.println(command);
+			File sqlFile = new File(this.prop.getProperty("mysqlDumpPath"));
+			p = pb.redirectErrorStream(true).redirectInput(sqlFile).start();
+			int state = p.waitFor();
+			System.out.println(state);
+		} catch (IOException e) {e.printStackTrace();} 
+		  catch (InterruptedException e) {e.printStackTrace();}
 	}
 	
 	private void SettingAutoCommit(Connection con,boolean isAutoCommit){
@@ -218,7 +295,7 @@ public class ConnexionDB {
 
 	
 	public void loadDataINTOPostgresdatabase(){
-		List<String> avoidingTable = Arrays.asList(this.prop.getProperty("TableUpdateAvoid").split("\\s*,\\s*"));
+		List<String> avoidingTable = Arrays.asList(this.prop.getProperty("tableUpdateAvoid").split("\\s*,\\s*"));
 		// Open the transaction
 		SettingAutoCommit(connecPostgres,false);
 		try {
@@ -226,7 +303,7 @@ public class ConnexionDB {
 			disableConstraint(connecPostgres);
 		} catch (SQLException e1) {e1.printStackTrace();}
 
-        CSVLoader loader = new CSVLoader(connecPostgres,"nexcapup","utf-8", ",");
+        CSVLoader loader = new CSVLoader(connecPostgres,prop.getProperty("postgresShema"),ENCODING, ",");
         
         // populate the databse.
         for(String curentFileName : csvRepo.list()){

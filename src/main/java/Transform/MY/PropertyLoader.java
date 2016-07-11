@@ -10,13 +10,10 @@ import java.util.Properties;
 
 
 public class PropertyLoader {
-	
-		   public static final String REPOSITORY = "resources"; 
-		   
+
 		   public static Properties load(String filename) throws IOException, FileNotFoundException{
 		      Properties properties = new Properties();
-		      File repo = new File(REPOSITORY);
-		      File fileProperties = new File(repo,filename);
+		      File fileProperties = new File(filename);
 		      FileInputStream input = new FileInputStream(fileProperties); 
 		      try{
 		    	  properties.load(input);

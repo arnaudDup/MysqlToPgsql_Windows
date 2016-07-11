@@ -41,8 +41,7 @@ public class CSVLoader {
 		// build the specific request.
 		query = query.replace(TABLE_REGEX, tableName); 
 		query = query.replace(Filename_REGEX, csvFile); 
-		
-		
+
 		Statement stat =  connection.createStatement();
 		System.out.println(query);
 		stat.execute(query);
