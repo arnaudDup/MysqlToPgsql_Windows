@@ -1,41 +1,28 @@
 package Transform.MY;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.charset.UnmappableCharacterException;
 import java.sql.Connection;
-import java.sql.DatabaseMetaData;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
-import java.nio.file.Paths;
-import java.security.PermissionCollection;
-import java.io.FilePermission;
-
 import org.apache.commons.io.FileUtils;
 
 public class ConnexionDB {
 	
 	public static final String ENCODING = "UTF-8";
-	public static final String END_OF_FIELD = "!!!,";
-	public static final String END_OF_LINE = "**\\r\\n";
+	public static final String END_OF_FIELD = "~";
+	public static final String END_OF_LINE = "\\r\\n";
+	public static final String QUOTE = "*";
 	public static final String EXTENSION = ".txt"; 
 	public static final String REGEXTRUNCATEMYSQL = "TRUNCATE  {table};"; 
 	public static final String REGEXLISTTABLE = "SHOW full  TABLES From {database} where  Table_Type != 'VIEW';";
@@ -66,8 +53,8 @@ public class ConnexionDB {
 	            connecMysql=DriverManager.getConnection(REGEX_URL_MYSQL.replace(REGEX_HOST, prop.getProperty("mySqlHost"))
 	         		   													.replace(REGEX_PORT, prop.getProperty("mySqlPort"))
 	         		   													.replace(REGEX_DATABASE,prop.getProperty("MysqlDatabase")),
-                								this.prop.getProperty("mySqlUser"),
-                								this.prop.getProperty("mySqlPassword"));
+	         		   													this.prop.getProperty("mySqlUser"),
+	         		   													this.prop.getProperty("mySqlPassword"));
 	            System.out.println("Success");
 	        }catch(Exception e){
 	            System.out.println("Error in connection"+e);
@@ -80,8 +67,8 @@ public class ConnexionDB {
 			connecPostgres =DriverManager.getConnection(REGEX_URL_PGSQL.replace(REGEX_HOST, prop.getProperty("postgresHost"))
 					   													.replace(REGEX_PORT, prop.getProperty("postgresPort"))
 					   													.replace(REGEX_DATABASE,prop.getProperty("postgresShema")),
-														this.prop.getProperty("postgresUser"),
-														this.prop.getProperty("postgresPassword"));
+					   													this.prop.getProperty("postgresUser"),
+																		this.prop.getProperty("postgresPassword"));
 			System.out.println("Succes");
 			
 		} catch (SQLException e) {e.printStackTrace();}
@@ -138,9 +125,6 @@ public class ConnexionDB {
 		} catch (SQLException e) {e.printStackTrace();}
 		
 		ResultSet  rs= stat.getResultSet();
-		ResultSetMetaData rsmd = rs.getMetaData();
-		int columnsNumber = rsmd.getColumnCount();
-		
 		// get all tables names.
 		while (rs.next()) {
 		    	listTable.add(rs.getString(1));
@@ -190,7 +174,7 @@ public class ConnexionDB {
 																+ " --tab=\""+this.prop.getProperty("mysqlFolderCSVEXPORT")+"\"";
 			Runtime runtime = Runtime.getRuntime();
 			try {
-				
+				System.out.println("Getting csv from Mysql database");
 				System.out.println(command);
 				Process process = runtime.exec(command);
 				InputStream stdin = process.getInputStream();
@@ -198,12 +182,10 @@ public class ConnexionDB {
 	            BufferedReader br = new BufferedReader(isr);
 	            String line = null;
 	            while ( (line = br.readLine()) != null)System.out.println(line); 
-	            int exitVal = process.waitFor(); 
-				System.out.println(exitVal);
-				
-				// we generate an Exception if the command fail.
-				if (exitVal != 0){
-					throw new Exception("Impossible to import data"); 
+	            int state = process.waitFor();
+	            System.out.println((state == 0)?"Success":"Fail");
+	            if(state != 0){
+					System.exit(1);
 				}
 			} catch (IOException e) {e.printStackTrace();} 
 			  catch (InterruptedException e) {e.printStackTrace();}
@@ -227,9 +209,14 @@ public class ConnexionDB {
 			try {
 				String str = FileUtils.readFileToString(curentDataFile,ENCODING);
 				
-				str = str.replace("\\N","").replace("\"","").replace("\r\n","")
-						 .replace("\n","").replace("**", "\r\n").replace("","1").replace("\u0000","0")
-						 .replace("\\0","0").replace(",","").replace("!!!", ",");
+				// transform null value for the csv format. (by default in postgres null value is an unquoted empty string in CSV format)
+				str = str.replace("\\N","")
+						
+						// keep the "\n" char on the data set.
+						.replace("\n","\\n").replace("\r\\n","\r\n")
+						
+						// replace the boolean value.
+						.replace("","1").replace("\u0000","0");
 				
 				fw.append(str);	 
 		    	fw.flush();
@@ -247,20 +234,19 @@ public class ConnexionDB {
 	public void loadDataINTOMysqlDatabase(){
 		
 		File RessourcesFolder = new File("resources");
-		List<String> params = new ArrayList<String>();
-		String command = RessourcesFolder.getAbsolutePath()+"/mysql -u"+prop.getProperty("mySqlUser")
-						+ " --host="+prop.getProperty("mySqlHost")
-						+ " --port="+prop.getProperty("mySqlPort")
-						+ " -p "+prop.getProperty("MysqlDatabase")
-						+ " --password="+prop.getProperty("mySqlPassword");
+		String command = RessourcesFolder.getAbsolutePath()	+"/mysql -u"+prop.getProperty("mySqlUser")
+															+ " --host="+prop.getProperty("mySqlHost")
+															+ " --port="+prop.getProperty("mySqlPort")
+															+ " -p "+prop.getProperty("MysqlDatabase")
+															+ " --password="+prop.getProperty("mySqlPassword");
         ProcessBuilder pb = new ProcessBuilder("cmd.exe","/C",command);
         Process p;
 		try {
+			System.out.println("Load data into Mysql Database");
 			System.out.println(command);
 			File sqlFile = new File(this.prop.getProperty("mysqlDumpPath"));
 			p = pb.redirectErrorStream(true).redirectInput(sqlFile).start();
-			int state = p.waitFor();
-			System.out.println(state);
+			System.out.println((p.waitFor() == 0)?"Success":"Fail"); 
 		} catch (IOException e) {e.printStackTrace();} 
 		  catch (InterruptedException e) {e.printStackTrace();}
 	}
@@ -303,7 +289,7 @@ public class ConnexionDB {
 			disableConstraint(connecPostgres);
 		} catch (SQLException e1) {e1.printStackTrace();}
 
-        CSVLoader loader = new CSVLoader(connecPostgres,prop.getProperty("postgresShema"),ENCODING, ",");
+        CSVLoader loader = new CSVLoader(connecPostgres,prop.getProperty("postgresShema"),ENCODING,END_OF_FIELD,QUOTE);
         
         // populate the databse.
         for(String curentFileName : csvRepo.list()){
@@ -327,5 +313,35 @@ public class ConnexionDB {
 		}	
 		
 		SettingAutoCommit(connecPostgres,true);
+	}
+	
+	public void saveDataFromMysqlDatabse(){
+		
+		File RessourcesFolder = new File("resources");
+		String command = RessourcesFolder.getAbsolutePath()	+"/mysqldump -u"+this.prop.getProperty("mySqlUser")
+															+" --host="+this.prop.getProperty("mySqlHost")
+															+" --port="+this.prop.getProperty("mySqlPort")
+															+" -p "+this.prop.getProperty("MysqlDatabase")
+															+" --password="+this.prop.getProperty("mySqlPassword")
+															+" --no-create-info --skip-triggers --no-create-db"
+															+" --default-character-set=\"utf8\"";
+		
+        ProcessBuilder pb = new ProcessBuilder("cmd.exe","/C",command);
+        Process p;
+		try {
+			System.out.println("Save MySqlDatabase");
+			System.out.println(command);
+			File sqlFile = new File(this.prop.getProperty("mysqlDumpToSave"));
+			p = pb.redirectErrorStream(true).redirectOutput(sqlFile).start();
+			int state = p.waitFor();
+			System.out.println((state == 0)?"Success":"Fail"); 
+			
+			// If the backed up fail we don't continue
+			if(state != 0){
+				System.exit(1);
+			}
+			
+		} catch (IOException e) {e.printStackTrace();} 
+		  catch (InterruptedException e) {e.printStackTrace();}
 	}
 }
