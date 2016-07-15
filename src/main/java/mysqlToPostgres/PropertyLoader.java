@@ -1,4 +1,4 @@
-package Transform.MY;
+package mysqlToPostgres;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -14,10 +14,10 @@ public class PropertyLoader {
 		   public static Properties load(String filename) throws IOException, FileNotFoundException{
 		      Properties properties = new Properties();
 		      File fileProperties = new File(filename);
-		      FileInputStream input = new FileInputStream(fileProperties); 
-		      try{
+		      
+		      try(FileInputStream input = new FileInputStream(fileProperties); ) {
 		    	  properties.load(input);
 		    	  return properties;
-		      }finally{input.close();}
+		      }
 		   }
 }
