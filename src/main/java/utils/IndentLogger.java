@@ -4,7 +4,6 @@ import org.slf4j.Logger;
 import org.slf4j.MDC;
 import org.slf4j.Marker;
 
-import com.mysql.jdbc.StringUtils;
 
 /**
  * Class used to wrap a SLF4J logger and indent log output

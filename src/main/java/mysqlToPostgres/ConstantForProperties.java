@@ -23,7 +23,7 @@ public interface ConstantForProperties {
 	
 	public static final String CSV_EXPORT_MYSQL = "mysqlFolderCSVEXPORT";
 	public static final String CSV_EXPORT_POSTGRES = "postgresFolderCSVEXPORT";
-	public static final String REPO_SAVE_POSTGRES = "makeCsvFileFromMysql";
+	public static final String REPO_SAVE_POSTGRES = "savePostgresDatabase";
 	
 	/************************* Configuration *********************************/
 	

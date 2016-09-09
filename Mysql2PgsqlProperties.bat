@@ -1,6 +1,5 @@
 @echo off
 pushd %~dp0
-echo Changement de repertoire 
 :: get the variable
 set command=
 :: build the command by shitfting attribute.
@@ -17,7 +16,6 @@ echo command = %command%
 :: first we have to change properties file.
 java -Dfile.encoding=utf-8 -jar Mysql2Pgsql-1.0.0.jar %command%
 :: check the error code of the java programm, the programm return 0 if it succeed.
-echo errorCode = %errorlevel%
 IF %ERRORLEVEL% NEQ 0 EXIT /B 2
 
 popd

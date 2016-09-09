@@ -13,17 +13,14 @@ GOTO LABEL
 echo command = %command%
 :: run the programm to transfer the data.
 
-echo Changement de repertoire 
 setlocal enabledelayedexpansion
 :: then we run the programm as administrator. 
-echo %~dp0resources
-%~dp0resources\elevate -w -c runApplication %command%
+java -Dfile.encoding=utf-8 -jar Mysql2Pgsql-1.0.0.jar %command%
 :: check the error code, where the process java write the value of the error code, file fichier.txt is a kind of communication pipe, I don't suceed to do otherwise.
-set /p VARIABLE=< fichier.txt
 
-echo errorCode = %VARIABLE%
-IF %VARIABLE% NEQ 0 (
-  echo programm java fail for %command%
+IF %errorlevel% NEQ 0 (
+  :: if we don't succeed to save we exit.
+  IF %errorlevel%==2 (EXIT /B  1)
   :: we return 0, in order to continue the execution to kepp a stable environnement.
   EXIT /B  0
 )

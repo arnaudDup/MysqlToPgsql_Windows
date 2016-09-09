@@ -67,7 +67,7 @@
 			     	<addDefaultSpecificationEntries>false</addDefaultSpecificationEntries> -->
 			        <addClasspath>true</addClasspath>
 			        <classpathPrefix>${project.build.finalName}.lib/</classpathPrefix>
-			        <mainClass>MysqlToPostgres.MainApp</mainClass> -->
+			        <mainClass>mysqlToPostgres.MainApp</mainClass> -->
 			      </manifest>
 			    </archive>
 			  </configuration>
@@ -76,6 +76,8 @@
 	   
 	   <!-- Necessary ressources -->
         <resources> 
+        
+        	<!-- All .exe,and log config and .sql -->
         	<resource>
         		<directory>resources</directory>
 	        	<targetPath>../resources</targetPath>
@@ -84,6 +86,7 @@
 	        	</includes>
        		</resource>
        		
+       		<!-- log config of the programm -->
        		<resource>
        			<directory>.</directory>
   				<targetPath>..</targetPath>
@@ -92,17 +95,21 @@
     			</includes>
   			</resource>
   			
+  			<!-- .bat allow to run the application -->
   			<resource>
        			<directory>.</directory>
   				<targetPath>..</targetPath>
   				<includes>
-    				<include>Mysq2Pgsql.bat</include>
+    				<include>Mysql2Pgsql.bat</include>
+    				<include>Mysql2PgsqlProperties.bat</include>
+    				<include>runApplication.bat</include>
     			</includes>
   			</resource>
   			
-     	</resources>
+     	</resources>    	
 	</build>
 	
+	<!-- declare all dependencies needed -->
 	<dependencies>
 	
 	<!-- Mysql driver -->
@@ -143,7 +150,6 @@
 			<artifactId>logback-classic</artifactId>
 			<version>1.0.13</version>
 		</dependency>
-		  
-		  
+		    
 	</dependencies>
 </project>
